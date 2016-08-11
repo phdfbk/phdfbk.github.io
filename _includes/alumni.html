@@ -75,7 +75,7 @@
                         </li>
                     </ul>
  {% assign items_grouped = (site.categories.alumni | group_by: 'year'| sort: 'year')  %}
-<div class="btn-group">
+<div class="btn-group-vertical">
              {% for group in items_grouped %}  
  <button data-toggle="collapse" data-target="#list{{ group.name}}">{{ group.name}}</button>
             {% endfor %}
