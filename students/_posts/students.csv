@@ -1,0 +1,79 @@
+id;surname;name;university;date;aboutme;research_topic;subtitle;advisor;keywords;website;img;thumbnail;alt;modal-id
+2016-01-01-Gomoluch-Pawel;Gomoluch;Pawel;Imperial College;01/01/2016;;;;;;;gomoluch.jpg;gomoluch_thumb.jpg;Gomoluch Pawel;stud1
+2012-09-01-Abdelraheem-Mahmoud Fakhry Mahmoud;Abdelraheem;Mahmoud Fakhry Mahmoud;Univ. Trento;01/09/2012;;;;;;;abdelraheem.jpg;abdelraheem_thumb.jpg;Abdelraheem Mahmoud Fakhry Mahmoud;stud2
+2012-09-01-Benozzo-Danilo;Benozzo;Danilo;Univ. Trento;01/09/2012;;;;;;;benozzo.jpg;benozzo_thumb.jpg;Benozzo Danilo;stud3
+2013-11-01-Bernard-Martino;Bernard;Martino;Univ. Trento;01/11/2013;;;;;;;bernard.jpg;bernard_thumb.jpg;Bernard Martino;stud4
+2012-11-01-Boselli-Maddalena;Boselli;Maddalena;Univ. Trento;01/11/2012;;;;;;;boselli.jpg;boselli_thumb.jpg;Boselli Maddalena;stud5
+2015-11-01-Bosetti-Paolo;Bosetti;Paolo;Univ. Trento;01/11/2015;;;;;;;bosetti.jpg;bosetti_thumb.jpg;Bosetti Paolo;stud6
+2012-11-01-Bittner-Benjamin;Bittner;Benjamin;Univ. Trento;01/11/2012;;;;;;;bittner.jpg;bittner_thumb.jpg;Bittner Benjamin;stud7
+2014-10-01-Chatterjee-Rajen;Chatterjee;Rajen;Univ. Trento;01/10/2014;;;;;;;chatterjee.jpg;chatterjee_thumb.jpg;Chatterjee Rajen;stud8
+2015-11-01-Centellegher-Simone;Centellegher;Simone;Univ. Trento;01/11/2015;;;;;;;centellegher.jpg;centellegher_thumb.jpg;Centellegher Simone;stud9
+2015-11-01-Capuano-Andrea;Capuano;Andrea;Univ. Trento;01/11/2015;;;;;;;capuano.jpg;capuano_thumb.jpg;Capuano Andrea;stud10
+2014-11-01-Demissie-Biniam Fisseha;Demissie;Biniam Fisseha;Univ. Trento;01/11/2014;;;;;;;demissie.jpg;demissie_thumb.jpg;Demissie Biniam Fisseha;stud11
+2015-11-01-De Nadai-Marco;De Nadai;Marco;Univ. Trento;01/11/2015;;;;;;;de nadai.jpg;de nadai_thumb.jpg;De Nadai Marco;stud12
+2013-09-01-Donadello-Ivan;Donadello;Ivan;Univ. Trento;01/09/2013;;;;;;;donadello.jpg;donadello_thumb.jpg;Donadello Ivan;stud13
+2013-07-15-De Sanctis-Martina;De Sanctis;Martina;Univ. Trento;15/07/2013;;;;;;;de sanctis.jpg;de sanctis_thumb.jpg;De Sanctis Martina;stud14
+2014-11-01-Fadhil-Ahmed Salih Fadhil;Fadhil;Ahmed Salih Fadhil;Univ. Trento;01/11/2014;;;;;;;fadhil.jpg;fadhil_thumb.jpg;Fadhil Ahmed Salih Fadhil;stud15
+2014-11-01-Feltracco-Anna;Feltracco;Anna;Univ. Pavia;01/11/2014;;;;;;;feltracco.jpg;feltracco_thumb.jpg;Feltracco Anna;stud16
+2011-11-01-Finnerty-Ailbhe Noelle;Finnerty;Ailbhe Noelle;Univ. Trento;01/11/2011;;;;;;;finnerty.jpg;finnerty_thumb.jpg;Finnerty Ailbhe Noelle;stud17
+2012-10-01-Farajian-Mohammad Amin;Farajian;Mohammad Amin;Univ. Trento;01/10/2012;;;;;;;farajian.jpg;farajian_thumb.jpg;Farajian Mohammad Amin;stud18
+2011-07-01-Fossati-Marco Gabriele Enrico;Fossati;Marco Gabriele Enrico;Univ. Trento;01/07/2011;;;;;;;fossati.jpg;fossati_thumb.jpg;Fossati Marco Gabriele Enrico;stud19
+2014-11-01-Ghio-Simone;Ghio;Simone;Univ. Trento;01/11/2014;;;;;;;ghio.jpg;ghio_thumb.jpg;Ghio Simone;stud20
+2014-11-01-Gundogdu-Didem;Gundogdu;Didem;Univ. Trento;01/11/2014;;;;;;;gundogdu.jpg;gundogdu_thumb.jpg;Gundogdu Didem;stud21
+2015-01-01-Gaiardo-Andrea;Gaiardo;Andrea;Univ. Ferrara;01/01/2015;;;;;;;gaiardo.jpg;gaiardo_thumb.jpg;Gaiardo Andrea;stud22
+2014-11-01-Gatti-Lorenzo;Gatti;Lorenzo;Univ. Trento;01/11/2014;;;;;;;gatti.jpg;gatti_thumb.jpg;Gatti Lorenzo;stud23
+2015-11-01-Giovanelli-Davide;Giovanelli;Davide;Univ. Bologna;01/11/2015;;;;;;;giovanelli.jpg;giovanelli_thumb.jpg;Giovanelli Davide;stud24
+2014-11-01-Harikumar-Aravind;Harikumar;Aravind;Univ. Trento;01/11/2014;;;;;;;harikumar.jpg;harikumar_thumb.jpg;Harikumar Aravind;stud25
+2012-10-01-Jalalvand-Shahab;Jalalvand;Shahab;Univ. Trento;01/10/2012;;;;;;;jalalvand.jpg;jalalvand_thumb.jpg;Jalalvand Shahab;stud26
+2011-11-01-Kifetew-Fitsum Meshesha;Kifetew;Fitsum Meshesha;Univ. Trento;01/11/2011;;;;;;;kifetew.jpg;kifetew_thumb.jpg;Kifetew Fitsum Meshesha;stud27
+2014-11-01-Khoshkangini-Reza;Khoshkangini;Reza;Univ. Padova;01/11/2014;;;;;;;khoshkangini.jpg;khoshkangini_thumb.jpg;Khoshkangini Reza;stud28
+2014-11-01-Khatib-Moustafa Ahmed Soliman;Khatib;Moustafa Ahmed Soliman;Univ. Trento;01/11/2014;;;;;;;khatib.jpg;khatib_thumb.jpg;Khatib Moustafa Ahmed Soliman;stud29
+2013-09-01-Kalinina-Elena;Kalinina;Elena;Univ. Trento;01/09/2013;;;;;;;kalinina.jpg;kalinina_thumb.jpg;Kalinina Elena;stud30
+2015-11-01-Ali-Muhaddisa Barat;Ali;Muhaddisa Barat;Univ. Trento;01/11/2015;;;;;;;ali.jpg;ali_thumb.jpg;Ali Muhaddisa Barat;stud31
+2012-09-01-Ali-Muhammad;Ali;Muhammad;Univ. Trento;01/09/2012;;;;;;;ali.jpg;ali_thumb.jpg;Ali Muhammad;stud32
+2014-01-01-Olumodeji-Olufemi Akindele;Olumodeji;Olufemi Akindele;Univ. Trento;01/01/2014;;;;;;;olumodeji.jpg;olumodeji_thumb.jpg;Olumodeji Olufemi Akindele;stud33
+2014-01-01-Magnolini-Simone;Magnolini;Simone;Univ. Brescia;01/01/2014;;;;;;;magnolini.jpg;magnolini_thumb.jpg;Magnolini Simone;stud34
+2012-11-01-Mahbub-Md. Shahriar;Mahbub;Md. Shahriar;Univ. Trento;01/11/2012;;;;;;;mahbub.jpg;mahbub_thumb.jpg;Mahbub Md. Shahriar;stud35
+2013-11-01-Mencarini-Eleonora;Mencarini;Eleonora;Univ. Trento;01/11/2013;;;;;;;mencarini.jpg;mencarini_thumb.jpg;Mencarini Eleonora;stud36
+2013-06-01-Menini-Stefano;Menini;Stefano;Univ. Trento;01/06/2013;;;;;;;menini.jpg;menini_thumb.jpg;Menini Stefano;stud37
+2011-09-01-Morales Ramirez-Itzel;Morales Ramirez;Itzel;Univ. Trento;01/09/2011;;;;;;;morales ramirez.jpg;morales ramirez_thumb.jpg;Morales Ramirez Itzel;stud38
+2015-11-01-Morresi-Tommaso;Morresi;Tommaso;Univ. Trento;01/11/2015;;;;;;;morresi.jpg;morresi_thumb.jpg;Morresi Tommaso;stud39
+2015-11-01-Martorelli-Damiano;Martorelli;Damiano;Univ. Trento;01/11/2015;;;;;;;martorelli.jpg;martorelli_thumb.jpg;Martorelli Damiano;stud40
+2013-11-01-Marziano-Valentina;Marziano;Valentina;Univ. Trento;01/11/2013;;;;;;;marziano.jpg;marziano_thumb.jpg;Marziano Valentina;stud41
+2014-11-01-Nechaev-Yaroslav;Nechaev;Yaroslav;Univ. Trento;01/11/2014;;;;;;;nechaev.jpg;nechaev_thumb.jpg;Nechaev Yaroslav;stud42
+2015-11-01-Novel-David;Novel;David;Univ. Trento;01/11/2015;;;;;;;novel.jpg;novel_thumb.jpg;Novel David;stud43
+2014-11-01-Pedrielli-Andrea;Pedrielli;Andrea;Univ. Trento;01/11/2014;;;;;;;pedrielli.jpg;pedrielli_thumb.jpg;Pedrielli Andrea;stud44
+2014-11-01-Pirrone-Davide;Pirrone;Davide;Univ. Trento;01/11/2014;;;;;;;pirrone.jpg;pirrone_thumb.jpg;Pirrone Davide;stud45
+2013-11-01-Petrucci-Giulio;Petrucci;Giulio;Univ. Trento;01/11/2013;;;;;;;petrucci.jpg;petrucci_thumb.jpg;Petrucci Giulio;stud46
+2014-11-01-Piyare-Rajeev Kumar;Piyare;Rajeev Kumar;Univ. Trento;01/11/2014;;;;;;;piyare.jpg;piyare_thumb.jpg;Piyare Rajeev Kumar;stud47
+2014-11-01-Rusci-Manuele;Rusci;Manuele;Univ. Bologna;01/11/2014;;;;;;;rusci.jpg;rusci_thumb.jpg;Rusci Manuele;stud48
+2011-09-01-Aravecchia-Manuel;Aravecchia;Manuel;Univ. Trento;01/09/2011;;;;;;;aravecchia.jpg;aravecchia_thumb.jpg;Aravecchia Manuel;stud49
+2011-09-01-Ruiz-Nicholas;Ruiz;Nicholas;Univ. Trento;01/09/2011;;;;;;;ruiz.jpg;ruiz_thumb.jpg;Ruiz Nicholas;stud50
+2012-11-01-Secchi-Maria;Secchi;Maria;Univ. Trento;01/11/2012;;;;;;;secchi.jpg;secchi_thumb.jpg;Secchi Maria;stud51
+2015-09-01-Sudhakaran-Swathikiran;Sudhakaran;Swathikiran;Univ. Trento;01/09/2015;;;;;;;sudhakaran.jpg;sudhakaran_thumb.jpg;Sudhakaran Swathikiran;stud52
+2014-11-01-Segatta-Francesco;Segatta;Francesco;Univ. Bologna;01/11/2014;;;;;;;segatta.jpg;segatta_thumb.jpg;Segatta Francesco;stud53
+2013-11-01-Solano Correa-Yady Tatiana;Solano Correa;Yady Tatiana;Univ. Trento;01/11/2013;;;;;;;solano correa.jpg;solano correa_thumb.jpg;Solano Correa Yady Tatiana;stud54
+2015-11-01-Sinigaglia-Federico;Sinigaglia;Federico;Univ. Genova;01/11/2015;;;;;;;sinigaglia.jpg;sinigaglia_thumb.jpg;Sinigaglia Federico;stud55
+2012-01-01-Santini-Gaia Cecilia;Santini;Gaia Cecilia;Univ. Trento;01/01/2012;;;;;;;santini.jpg;santini_thumb.jpg;Santini Gaia Cecilia;stud56
+2014-11-01-Sessa-Mirko;Sessa;Mirko;Univ. Trento;01/11/2014;;;;;;;sessa.jpg;sessa_thumb.jpg;Sessa Mirko;stud57
+2013-11-01-Siswantoro-Hari;Siswantoro;Hari;Univ. Trento;01/11/2013;;;;;;;siswantoro.jpg;siswantoro_thumb.jpg;Siswantoro Hari;stud58
+2013-09-01-Tekiroglu-Serra Sinem;Tekiroglu;Serra Sinem;Univ. Trento;01/09/2013;;;;;;;tekiroglu.jpg;tekiroglu_thumb.jpg;Tekiroglu Serra Sinem;stud59
+2015-11-01-Ataman-Duygu;Ataman;Duygu;Univ. Trento;01/11/2015;;;;;;;ataman.jpg;ataman_thumb.jpg;Ataman Duygu;stud60
+2012-10-01-Tryfou-Georgia;Tryfou;Georgia;Univ. Trento;01/10/2012;;;;;;;tryfou.jpg;tryfou_thumb.jpg;Tryfou Georgia;stud61
+2012-11-01-Testi-Matteo;Testi;Matteo;Univ. Trento;01/11/2012;;;;;;;testi.jpg;testi_thumb.jpg;Testi Matteo;stud62
+2011-07-01-Vergne-Matthieu Dominique Patrick;Vergne;Matthieu Dominique Patrick;Univ. Trento;01/07/2011;;;;;;;vergne.jpg;vergne_thumb.jpg;Vergne Matthieu Dominique Patrick;stud63
+2015-09-28-Xompero-Alessio;Xompero;Alessio;QMU London;28/09/2015;;;;;;;xompero.jpg;xompero_thumb.jpg;Xompero Alessio;stud64
+2015-01-01-Jahangirova-Gunel;Jahangirova;Gunel;UCL;01/01/2015;;;;;;;jahangirova.jpg;jahangirova_thumb.jpg;Jahangirova Gunel;stud65
+2014-01-01-Zandonà-Alessandro;Zandonà;Alessandro;Univ. Trento;01/01/2014;;;;;;;zandonà.jpg;zandonà_thumb.jpg;Zandonà Alessandro;stud66
+2013-11-01-Zappalà-Gaetano;Zappalà;Gaetano;Univ. Trento;01/11/2013;;;;;;;zappalà.jpg;zappalà_thumb.jpg;Zappalà Gaetano;stud67
+2015-11-01-Zarbo-Calogero;Zarbo;Calogero;Univ. Trento;01/11/2015;;;;;;;zarbo.jpg;zarbo_thumb.jpg;Zarbo Calogero;stud68
+2015-11-01-Azzolini-Martina;Azzolini;Martina;Univ. Trento;01/11/2015;;;;;;;azzolini.jpg;azzolini_thumb.jpg;Azzolini Martina;stud69
+2012-10-01-Bobic-Marinko;Bobic;Marinko;Univ. Trento;01/10/2012;;;;;;;bobic.jpg;bobic_thumb.jpg;Bobic Marinko;stud70
+2015-10-01-Papa-Lorenzo;Papa;Lorenzo;Univ. Padova;01/10/2015;;;;;;;papa.jpg;papa_thumb.jpg;Papa Lorenzo;stud71
+2015-11-01-Carcione-Rocco;Carcione;Rocco;Univ. Rm.TorVergata;01/11/2015;;;;;;;carcione.jpg;carcione_thumb.jpg;Carcione Rocco;stud72
+2015-01-01-Adjodah-Dhaval;Adjodah;Dhaval;MIT_USA;01/01/2015;;;;;;;adjodah.jpg;adjodah_thumb.jpg;Adjodah Dhaval;stud73
+2013-11-01-Rossi-Alessandro;Rossi;Alessandro;Univ. Siena;01/11/2013;;;;;;;rossi.jpg;rossi_thumb.jpg;Rossi Alessandro;stud74
+2013-11-01-Hellmuth-Kerry Ellen;Hellmuth;Kerry Ellen;Univ. Trento;01/11/2013;;;;;;;hellmuth.jpg;hellmuth_thumb.jpg;Hellmuth Kerry Ellen;stud75
+2015-11-01-Fugattini-Silvio;Fugattini;Silvio;Univ. Ferrara;01/11/2015;;;;;;;fugattini.jpg;fugattini_thumb.jpg;Fugattini Silvio;stud76
+2014-11-01-Romaniuk-Scott Nicholas;Romaniuk;Scott Nicholas;Univ. Trento;01/11/2014;;;;;;;romaniuk.jpg;romaniuk_thumb.jpg;Romaniuk Scott Nicholas;stud77
+2015-11-01-Bredikovà-Hana;Bredikovà;Hana;Univ. Trento;01/11/2015;;;;;;;bredikovà.jpg;bredikovà_thumb.jpg;Bredikovà Hana;stud78

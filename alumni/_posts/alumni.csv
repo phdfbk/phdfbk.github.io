@@ -1,0 +1,56 @@
+id;Name;Surname;University;Advisor;Year;Title
+01-01-2016-Paramita;Paramita;Paramita;University of Trento;Sara Tonelli;2016;Extracting Temporal and Causal Relations between Events
+01-01-2015-Andrea;Andrea;Micheli;University of Trento;Cimatti Alessandro;2015;Planning and Scheduling in Temporally Uncertain Domains
+01-01-2015-Cristian;Cristian;Mattarei;University of Trento;Cimatti Alessandro;2015;Scalable Safety and Reliability Analysis via Symbolic Model Checking Theory and Applications
+01-01-2015-Marco Elio Gustavo;Marco Elio Gustavo;Gario Marco;University of Trento;Cimatti Alessandro;2015;A Formal Foundation of FDI Design via Temporal Epistemic Logic
+01-01-2015-Itzel;Itzel;Morales Ramirez;University of Trento;Perini Anna;2015;Exploiting Online User Feedback in Requirements Engineering
+01-01-2015-Meshesha;Meshesha;Kifetew Fitsum;University of Trento;Tonella Paolo;2015;Evolutionary Test Case Generation via Many Objective Optimization and Stochastic Grammars
+01-01-2015-Ailbhe Noelle;Ailbhe Noelle;Finnerty;University of Trento;Pianesi Fabio;2015;Socially-aware computing and interaction
+01-01-2015-Attaullah;Attaullah;Buriro;University of Trento;Armando Alessandro;2015;
+01-01-2015-Joani;Joani;Mitro;University of Trento;Avesani Paolo;2015;
+01-01-2015-Katsiaryna;Katsiaryna;Labunets;University of Trento;Armando Alessandro;2015;
+01-01-2015-Alessander;Alessander;Botti Benevides;University of Trento;Ghidini Chiara;2015;From states to objects and events through stratification A formalACCOUNT and an application to data analytics
+01-01-2015-Rad Nastaran;Rad Nastaran;Mohammadian;University of Trento;Furlanello Cesare;2015;
+01-01-2015-Anh;Anh;Truong Tuan;University of Trento;Armando Alessandro;2015;Efficient Automated Security Analysis of Complex Authorization Policies
+01-01-2015-Sinan;Sinan;Mutlu;University of Trento;Messelodi Stefano;2015;Multi-target tracking in unevenly illuminated scenes
+01-01-2015-Usman;Usman;Raza;University of Trento;Murphy Amy Lynn;2015;From Energy Efficient to Energy Neutral Wireless Sensor Networks
+01-01-2015-Gianluca;Gianluca;Schiavo;University of Trento;Zancanaro Massimo;2015;Socially-Aware Interfaces for Supporting Co-located Interactions
+01-01-2014-Ali Fawzi Najm;Ali Fawzi Najm;Al-Shammari;University of Bolzano;Villafiorita Monteleone Adolfo;2014;OVVM Open Vote Verification Technique for DRE Systems
+01-01-2014-Tao;Tao;Hu;University of Trento;Messelodi Stefano;2014;Adaptation in Non-Parametric State Estimation with Application to People Tracking
+01-01-2014-Sergio;Sergio;Mover;University of Trento;Cimatti Alessandro;2014;Verification of Hybrid Systems using Satisfiability Modulo Theories
+01-01-2014-Muhammad Tahir;Muhammad Tahir;Khan;University of Trento;Serafini Luciano;2014;Involving Domain Experts in the construction of OWL ontologies experience oriented and tool base support for template-based modelling and knowledge reuse
+01-01-2013-Andrea;Andrea;Avancini;University of Trento;Tonella Paolo;2013;Security testing of Web en smart phone applicarions
+01-01-2013-Kyriaki;Kyriaki;Kalimeri;University of Trento;Pianesi Fabio;2013;Traits, States And Situations Automatic Prediction Of Personality And Situations From Actual Behavior
+01-01-2013-Aaron;Aaron;Ciaghi;University of Trento;Villafiorita Monteleone Adolfo;2013;Standardizing ICT for Development Towards the Definition of a Standard Process and Maturity Model for ICTD Projects
+01-01-2013-Mekuria;Mekuria;Eshete Birhanu;University of Trento;Villafiorita Monteleone Adolfo;2013;Effective Analysis, Characterization, and Detection of Malicious Activities on the Web
+01-01-2013-Ebrahimi Saameh;Ebrahimi Saameh;Golzadeh;University of Trento;Omologo Maurizio;2013;
+01-01-2013-Maria;Maria;Batrinca Ligia;University of Trento;Pianesi Fabio;2013;Multimodal Personality Recognition from Audiovisual Data
+01-01-2013-Mohammed Abdul;Mohammed Abdul;Whaeed ;University of Trento;Matassoni Marco;2013;Acoustic Model Adaptation For Reverberation Robust Automatic Speech Recognition
+01-01-2013-Mathew;Mathew;Joseph;University of Trento;Serafini Luciano;2013;Query Answering over Contextualized RDF/OWL Knowledge with Expressive Bridge Rules Decidable classes
+01-01-2012-Michela;Michela;Ferron;University of Trento;Massa Paolo;2012;Collective memories in Wikipedia
+01-01-2012-Surafel Lemma;Surafel Lemma;Abebe;University of Trento;Tonella Paolo;2012;Supporting Concept Extraction and Identifier Quality Improvement through Programmers’ Lexicon Analysis
+01-01-2012-Gianluca;Gianluca;Lebani;University of Trento;Pianta Emanuele;2012;STaRS.sys designing and building a commonsense-knowledge enriched wordnet for therapeutic purposes
+01-01-2012-Yashar;Yashar;Mehdad;University of Trento;Magnini Bernardo;2012;Cross-lingual Textual Entailment and Applications
+01-01-2012-Iulia;Iulia;Sirbu Adina ;University of Trento;Pistore Marco;2012;Corrective Evolution of adaptable process models
+01-01-2012-Arianna;Arianna;Bisazza ;University of Trento;Federico Marcello;2012;Linguistical motivated recordering modlling for phrase-based stastical machine translation
+01-01-2012-Susanne;Susanne;Greiner ;University of Trento;Avesani Paolo;2012;Bayesian Inference for Brain Decoding
+01-01-2011-Maksim;Maksim;Khadkevich;University of Trento;Omologo Maurizio;2011;Music signal processing for automatic extraction of harmonic and rhythmic information
+01-01-2011-Ahmed;Ahmed;Qureshi Nauman ;University of Trento;Tonella Paolo;2011;Requirements Engineering for Self-Adaptive Software Bridging the Gap Between Design-Time and Run-Time
+01-01-2011-Matteo;Matteo;Ceriotti Matteo;University of Trento;Murphy Amy Lynn;2011;Guaranteeing Communication Quality in Real World WSN Deployments
+01-01-2011-Elena;Elena;Cardillo;University of Trento;Serafini Luciano;2011;A lexi-ontological resource for consumer healthcare
+01-01-2011-Giorgio;Giorgio;Guzzetta;University of Trento;Furlanello Cesare;2011;A new computational approach to the integrated modeling of infectious diseases
+01-01-2011-Elena;Elena;Cabrio;University of Trento;Magnini Bernardo;2011;Component-Based Textual Entailment a Modular and Linguistically-Motivated Framework for Semantic Inferences
+01-01-2010-Chiara;Chiara;Di Francescomarino;University of Trento;Tonella Paolo;2010;Semantic Annotation of Business Process Models
+01-01-2010-Mirko;Mirko;Morandini;University of Trento;Penserini Loris;2010;Goal-Oriented Development of Self-Adaptive Systems
+01-01-2010-Komminist Sisai;Komminist Sisai;Weldemariam;University of Trento;Villafiorita Monteleone Adolfo;2010;Using Formal Methods for Building more Reliable and Secure e-voting Systems
+01-01-2010-Francesco;Francesco;Nesta;University of Trento;Omologo Maurizio;2010;Techniques for robust source separation and localization in adverse environments
+01-01-2010-Sara;Sara;Tonelli ;University of Venezia Ca' Foscari;Pianta Emanuele;2010;Semi-automatic techniques for extending the FrameNet lexical database to new languages
+01-01-2010-Daniele;Daniele;Pighin ;University of Trento;Lavelli Alberto;2010;Greedy Feature Selection in Tree Kernel Spaces
+01-01-2009-Krishnamani;Krishnamani;Kalyanasundaram ;University of Trento;Cimatti Alessandro;2009;An efficient, effective and scalable methodology for formal verification
+01-01-2009-Samantha;Samantha;Riccadonna ;University of Trento;Furlanello Cesare;2009;Predictive Data Mining for Integrative Functional Genomics
+01-01-2009-Alberto;Alberto;Siena ;University of Trento;Angelo Susi;2009;Engineering Law-Compliant Requirements the Nomos Framework
+01-01-2009-Bruno;Bruno;Lepri ;University of Trento;Pianesi Fabio;2009;Multimodal Recognition of Social Behaviors and Personality Traits in small group interaction
+01-01-2009-Mikael;Mikael;Franzen Per Anders;University of Trento;Cimatti Alessandro;2009;Efficient Solving of the Satisfiability Modulo Bit-Vectors Problem and Some Extensions to SMT
+01-01-2009-Silvano;Silvano;Paoli;University of Trento;Furlanello Cesare;2009;A high performance computational environment for UHTS studies
+01-01-2009-Marco;Marco;Ajelli ;University of Trento;Merler Stefano;2009;New–generation individual based models for infectious diseases transmission
+01-01-2008-Cu;Cu;Nguyen Duy;University of Trento;Tonella Paolo;2008;Testing Techniques for Software Agents

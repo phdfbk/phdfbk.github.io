@@ -1,0 +1,31 @@
+<!-- students Grid Section -->
+    <!-- section id="students" class="bg-light-gray" -->
+    <section id="students" class="bg-light-gray">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">Students</h2>
+                    <h3 class="section-subheading text-muted">Students currently carrying out their PhD at FBK</h3>
+                </div>
+            </div>
+            <div class="row">
+             {% assign sorted = site.categories.students | sort: 'surname' %}
+             {% for post in sorted %}
+                <div class="col-md-2 col-sm-6 portfolio-item">
+                    <a href="#studentsModal{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">
+                        <div class="portfolio-hover">
+                            <div class="portfolio-hover-content">
+                                <i class="fa fa-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="img/students/{{ post.thumbnail }}" class="img-responsive img-centered" alt="">
+                    </a>
+                    <div class="portfolio-caption">
+                        <h5>{{ post.name }} {{ post.surname }}</h5>
+                        <p class="text-muted">{{ post.subtitle }}</p>
+                    </div>
+                </div>
+            {% endfor %}
+            </div>
+        </div>
+    </section>

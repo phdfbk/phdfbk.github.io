@@ -1,0 +1,47 @@
+<!-- Open Calls Grid Section -->
+    <section id="opencalls">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">Open Calls</h2>
+                    <h3 class="section-subheading text-muted">PhD at FBK</h3>
+                </div>
+            </div>
+                     <div>     
+            {% for post in site.tags['call_uni'] %}
+            
+               
+                   
+                   <div class="col-lg-12 text-center" style="background:#EBF5FB;border:1px dotted black;text-align:center">
+                        <h3>{{ post.title }}</h3>
+                           
+                       <p> Topic: {{ post.topic }}<br>
+                       Number of positions: {{ post.number_of_positions }}<br>
+                       Website:<a href="{{ post.website }}">{{ post.website }}</a>  <br>
+                       Closing Date: {{post.closing_date}} </p> 
+                   
+                    
+                    {% for call in site.tags[post.subtag] %}
+  
+                      <div >
+  
+                         <div class="portfolio-caption">
+                           <h5>{{ call.title }}</h5>
+                           URL:  {{ call.url }}
+                            <p> Advisor: {{ call.advisor }}<br>
+                      
+                            </p>
+                         </div>
+                      </div>
+                    {% endfor %}
+                         
+                   </div>
+                   
+            {% endfor %}
+            
+             </div>       
+              
+            
+            
+        </div>
+    </section>
