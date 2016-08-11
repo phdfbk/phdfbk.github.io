@@ -76,25 +76,23 @@
                     </ul>
 <div class="container">
  {% assign items_grouped = (site.categories.alumni | group_by: 'year'| sort: 'year')  %}
- <ul class="breadcrumb">
-<li>Former PhD students</li>
+ 	<ul class="breadcrumb">
+		<li>Former PhD students</li>
              {% for group in items_grouped %}  
 	  	<li><a href="#list{{ group.name}}" data-toggle="collapse">{{ group.name}}</a></li>
             {% endfor %}
-</ul>
+	</ul>
             {% for group in items_grouped %}  
-             <div id="list{{ group.name}}" class="bg-white" class="collapse" class="hide" class="well" > 
+             <div class="collapse" id="list{{ group.name}}"> 
 		<h4>Student of {{ group.name}}</h4>
               	{% assign items = group.items | sort: 'surname'  %}
                 {% for post in items %}
-                    <div>
                             
                         <h5>{{ post.name }} {{ post.surname }}</h5>
                         <p class="text-muted">{{ post.title }}</p>
                         <p>Advisor: {{ post.advisor }}<br>
                            {{ post.university }}</p>  
                         
-                    </div>
 		{% endfor %}
 		<hr>
 	     </div>
