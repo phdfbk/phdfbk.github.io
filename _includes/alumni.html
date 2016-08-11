@@ -86,7 +86,8 @@
                     <h3 class="section-subheading text-muted">Former PhD students</h3>
                 </div>
             </div>
-            <div class="row">
+ <button data-toggle="collapse" data-target="#list2016">2016</button>
+            <div id="list2016" class="row">
                          
                 {% assign items_grouped = (site.categories.alumni | group_by: 'year'| sort: 'year')  %}
              {% for group in items_grouped %}   
