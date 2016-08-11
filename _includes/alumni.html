@@ -44,7 +44,7 @@
                             </div>
                             <div class="timeline-panel">
                                 <div class="timeline-heading">
-                                    <h4>2010-2014</h4>
+                                <div class="container">    <h4>2010-2014</h4>
                                     <h4 class="subheading"> Leo Braga - EFFECT Photonics</h4>
                                 </div>
                                 <div class="timeline-body">
@@ -74,6 +74,7 @@
                             </div>
                         </li>
                     </ul>
+<div class="container">
  {% assign items_grouped = (site.categories.alumni | group_by: 'year'| sort: 'year')  %}
  <ul class="breadcrumb">
              {% for group in items_grouped %}  
@@ -82,7 +83,7 @@
 </ul>
             {% for group in items_grouped %}  
              <div id="list{{ group.name}}" class="well" class="bg-white" class="collapse"> 
-		<div class="jumbotron">Student of {{ group.name}}</div>
+		<h4>Student of {{ group.name}}</h4>
               	{% assign items = group.items | sort: 'surname'  %}
                 {% for post in items %}
                     <div>
@@ -99,6 +100,7 @@
 	    {% endfor %}
                 </div>
             </div>
+</div>
         </div>
 	
     </section>
