@@ -80,6 +80,8 @@
             {% endfor %}
             {% for group in items_grouped %}  
              <div id="list{{ group.name}}"> 
+              	{% assign items = group.items | sort: 'surname'  %}
+                {% for post in items %}
                     <div class="portfolio-caption">
                             
                         <h5>{{ post.name }} {{ post.surname }}</h5>
@@ -88,6 +90,7 @@
                            {{ post.university }}</p>  
                         
                     </div>
+		{% endfor %}
 	     </div>
 	    {% endfor %}
                 </div>
