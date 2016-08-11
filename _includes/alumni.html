@@ -80,7 +80,7 @@
 	function showAlumniList(v) {
 		$(v).show(); 
 	{% for group in items_grouped %}
-		$('#list{{ group.name}}'.toggle();
+		$('#list{{ group.name}}').toggle();
 	{% endfor %}  
 	}
 	</script>
