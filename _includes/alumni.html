@@ -82,7 +82,7 @@
 </ul>
             {% for group in items_grouped %}  
              <div id="list{{ group.name}}" class="well" class="bg-white" class="collapse"> 
-		<div class="jumbotron">Student of {{ group.name}}</div>
+		Student of {{ group.name}}
               	{% assign items = group.items | sort: 'surname'  %}
                 {% for post in items %}
                     <div>
