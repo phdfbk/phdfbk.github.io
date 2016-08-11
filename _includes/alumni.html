@@ -83,7 +83,7 @@
             {% endfor %}
 	</ul>
             {% for group in items_grouped %}  
-             <div class="collapse" id="list{{ group.name}}">
+             <div class="well" class="collapse" id="list{{ group.name}}">
 		<hr>
 		<h4>Student of {{ group.name}}</h4>
               	{% assign items = group.items | sort: 'surname'  %}
