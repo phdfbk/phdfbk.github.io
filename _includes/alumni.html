@@ -83,7 +83,7 @@
             {% endfor %}
 	</ul>
             {% for group in items_grouped %}  
-             <div style="background:#ecf0f1;" class="well" class="collapse" id="list{{ group.name}}">
+             <div class="collapse" id="list{{ group.name}}">
 		<hr>
 		<h4>Student of {{ group.name}}</h4>
               	{% assign items = group.items | sort: 'surname'  %}
@@ -100,11 +100,6 @@
 	    {% endfor %}
                 </div>
             </div>
-	<script type="text/javascript">>
-{% for group in items_grouped %}  
-	$('#list{{ group.name}}').toggle();
-{% endfor %}
-	</script>
 </div>
         </div>
 	
