@@ -79,11 +79,11 @@
  <button data-toggle="collapse" data-target="#list{{ group.name}}">{{ group.name}}</button>
             {% endfor %}
             {% for group in items_grouped %}  
-             <div id="list{{ group.name}}" class="well" class="bg-white"> > 
+             <div id="list{{ group.name}}" class="well" class="bg-white"> 
 		<div class="jumbotron">Student of {{ group.name}}</div>
               	{% assign items = group.items | sort: 'surname'  %}
                 {% for post in items %}
-                    <div class="portfolio-caption">
+                    <div>
                             
                         <h5>{{ post.name }} {{ post.surname }}</h5>
                         <p class="text-muted">{{ post.title }}</p>
