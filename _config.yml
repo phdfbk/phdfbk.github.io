@@ -1,7 +1,6 @@
 url: https://phd.fbk.eu
-baseurl: /
-#permalink: /:categories/:affiliated
-#relative_permalinks: false
+#baseurl: /
+
 # Site settings
 title: Become a PhD student at FBK 
 email: napo@fbk.eu
@@ -43,11 +42,11 @@ people:
       url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-social:
-  - title: twitter
-    url: http://twitter.com/FBKCom
-  - title: facebook
-    url: https://www.facebook.com/Fondazione-Bruno-Kessler-1496585593901109/
+#social:
+#  - title: twitter
+#    url: http://twitter.com/FBKCom
+#  - title: facebook
+#    url: https://www.facebook.com/Fondazione-Bruno-Kessler-1496585593901109/
 
 # Postal address (add as many lines as necessary)
 address:
