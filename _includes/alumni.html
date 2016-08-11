@@ -78,6 +78,18 @@
              {% for group in items_grouped %}  
  <button data-toggle="collapse" data-target="#list{{ group.name}}">{{ group.name}}</button>
             {% endfor %}
+            {% for group in items_grouped %}  
+             <div id="list{{ group.name}}"> 
+                    <div class="portfolio-caption">
+                            
+                        <h5>{{ post.name }} {{ post.surname }}</h5>
+                        <p class="text-muted">{{ post.title }}</p>
+                        <p>Advisor: {{ post.advisor }}<br>
+                           {{ post.university }}</p>  
+                        
+                    </div>
+	     </div>
+	    {% endfor %}
                 </div>
             </div>
         </div>
