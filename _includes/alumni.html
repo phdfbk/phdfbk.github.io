@@ -97,12 +97,14 @@
 		{% endfor %}
 		<hr>
 	     </div>
-	<script>
-	$('#list{{ group.name}}').toggle();
-	</script>
 	    {% endfor %}
                 </div>
             </div>
+	<script type="text/javascript">>
+{% for group in items_grouped %}  
+	$('#list{{ group.name}}').toggle();
+{% endfor %}
+	</script>
 </div>
         </div>
 	
