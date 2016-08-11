@@ -78,8 +78,8 @@
 <div class="btn-group">
              {% for group in items_grouped %}  
  <button data-toggle="collapse" data-target="#list{{ group.name}}">{{ group.name}}</button>
-</div>
             {% endfor %}
+</div>
             {% for group in items_grouped %}  
              <div id="list{{ group.name}}" class="well" class="bg-white"> 
 		<div class="jumbotron">Student of {{ group.name}}</div>
