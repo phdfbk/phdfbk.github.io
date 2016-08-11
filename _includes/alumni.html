@@ -79,7 +79,7 @@
  	<ul class="breadcrumb">
 		<li>Former PhD students</li>
              {% for group in items_grouped %}  
-	  	<li><a href="#list{{ group.name}}" data-toggle="collapse">{{ group.name}}</a></li>
+	  	<li><a href="javascript:showAlumniList('#list{{ group.name}}');">{{ group.name}}</a></li>
             {% endfor %}
 	</ul>
             {% for group in items_grouped %}  
@@ -95,11 +95,16 @@
                            {{ post.university }}</p>  
                         
 		{% endfor %}
-		<hr>
 	     </div>
 	    {% endfor %}
-                </div>
-            </div>
+	<script language="javascript">
+	function showAlumniList(v) {
+		$(v).show(); 
+	{% for group in items_grouped %}
+		$('#list{{ group.name}}'.toggle();
+	{% endfor %}  
+	}
+	</script>
 </div>
         </div>
 	
