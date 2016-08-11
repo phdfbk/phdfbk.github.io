@@ -75,13 +75,13 @@
                         </li>
                     </ul>
  {% assign items_grouped = (site.categories.alumni | group_by: 'year'| sort: 'year')  %}
-<div class="btn-group-vertical">
+ <ul class="pagination">
              {% for group in items_grouped %}  
- <button data-toggle="collapse" data-target="#list{{ group.name}}">{{ group.name}}</button>
+	  	<li><a href="#list{{ group.name}}" data-toggle="collapse">{{ group.name}}</a></li>
             {% endfor %}
-</div>
+</ul>
             {% for group in items_grouped %}  
-             <div id="list{{ group.name}}" class="well" class="bg-white"> 
+             <div id="list{{ group.name}}" class="well" class="bg-white" class="collapse"> 
 		<div class="jumbotron">Student of {{ group.name}}</div>
               	{% assign items = group.items | sort: 'surname'  %}
                 {% for post in items %}
