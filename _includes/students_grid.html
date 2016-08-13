@@ -16,11 +16,11 @@
     <div class="row">
   {% endif %}
 	<div class="col-sm-1">
-{{ post.name }} {{ post.surname }} {{ modulo }}
+{{ post.name }} {{ post.surname }} {{ modulo }} / {{ forloop.index0 }}
 	</div>
   {% if modulo == '6' or forloop.last %}
-test {{ modulo }}
-    </div>
+test {{ forloop.index0 }}
+    </= div>
   {% endif %}
 {% endfor %}
 <!-- end napo -->
