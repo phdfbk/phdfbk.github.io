@@ -93,7 +93,7 @@
              {% for group in items_grouped %}  
 	  	<li><a href="javascript:showAlumniList('#list{{group.name}}');">{{ group.name}}</a></li>
             {% endfor %}
-	<!--	<li><a href="javascript:showAlumniList('all');">all</a></li> -->
+		<li><a href="javascript:showAlumniList('all');">all</a></li> 
 	</ul>
             {% for group in items_grouped %}  
              <div class="collapse" id="list{{group.name}}">
