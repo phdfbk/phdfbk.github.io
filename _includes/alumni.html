@@ -94,18 +94,18 @@
 		<li>Former PhD students</li>
              {% for group in items_grouped %}  
 	  	<li><a href="javascript:showAlumniList('#list{{group.name}}');">{{ group.name}}</a></li>
-	  	<li><a href="javascript:showAlumniList('all');">all</a></li>
             {% endfor %}
+            	 <li><a href="javascript:showAlumniList('all');">all</a></li>
 	</ul>
             {% for group in items_grouped %}  
              <div class="collapse" id="list{{group.name}}">
-             	<div class="wells">
+             	<div class="wells bg-info">
 		<hr>
 		<h4>Students who graduated in {{ group.name}}</h4>
               	{% assign items = group.items | sort: 'surname'  %}
                 {% for post in items %}
                         <h5 class="text-capitalize">{{ post.name }} {{ post.surname }}</h5>
-                        <strong>{{ post.title }}</strong>
+                        <em>{{ post.title }}</em>
                         <p>Advisor: {{ post.advisor }}<br>
                            {{ post.university }}</p>  
 		{% endfor %}
