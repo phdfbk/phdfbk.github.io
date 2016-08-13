@@ -79,22 +79,21 @@
 	<script language="javascript">
 	function showAlumniList(v) {
 	{% for group in items_grouped %}
-		('#list{{group.name}}').hide();
+		$('#list{{group.name}}').hide();
 	{% endfor %}  
-		(v).show();
+		$(v).show();
 	}
 	</script>
  	<ul class="breadcrumb">
 		<li>Former PhD students</li>
              {% for group in items_grouped %}  
-	  	<li><a href="javascript:showAlumniList('#list{{ group.name}}');">{{ group.name}}</a></li>
+	  	<li><a href="javascript:showAlumniList('#list{{group.name}}');">{{ group.name}}</a></li>
             {% endfor %}
 	<!--	<li><a href="javascript:showAlumniList('all');">all</a></li> -->
 	</ul>
             {% for group in items_grouped %}  
-             <div class="collapse" id="list{{ group.name}}">
+             <div class="collapse" id="list{{group.name}}">
 		<hr>
-		<div class="well bg-light-red">
 		<h4>Student of {{ group.name}}</h4>
               	{% assign items = group.items | sort: 'surname'  %}
                 {% for post in items %}
@@ -105,7 +104,6 @@
                            {{ post.university }}</p>  
 	        </address>
 		{% endfor %}
-		<div>
 	    {% endfor %}
 </div>
         </div>
