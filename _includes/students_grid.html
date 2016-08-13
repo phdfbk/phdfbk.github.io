@@ -11,11 +11,11 @@
              {% assign sorted = site.categories.students | sort: 'surname' %}
 <!-- napo -->
 {% for post in sorted %}
-  {% assign loopindex = forloop.index0 | modulo: 8 %}
+  {% assign loopindex = forloop.index0 | modulo: 6 %}
   {% if loopindex == 0 or forloop.first %}
     <div class="row">
   {% endif %}
-	<div class="col-md-2 col-sm-6 portfolio-item">
+	<div class="col-xs-6 col-sm-6 col-lg-6 portfolio-item">
                     <a href="#studentsModal{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">
                         <div class="portfolio-hover">
                             <div class="portfolio-hover-content">
@@ -30,7 +30,7 @@
                     </div>
 
 	</div>
-  {% if loopindex == 7 or forloop.last %}
+  {% if loopindex == 5 or forloop.last %}
     </div>
   {% endif %}
 {% endfor %}
