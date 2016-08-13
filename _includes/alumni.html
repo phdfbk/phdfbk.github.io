@@ -78,10 +78,14 @@
  {% assign items_grouped = (site.categories.alumni | group_by: 'year'| sort: 'year')  %}
 	<script language="javascript">
 	function showAlumniList(v) {
+		if ( v == 'all') {
+		 	('#list{{ group.name}}').all();
+		} else {
 	{% for group in items_grouped %}
-		$('#list{{ group.name}}').hide();
+			('#list{{ group.name}}').hide();
 	{% endfor %}  
-		$(v).show(); 
+			(v).show();
+		}
 	}
 	</script>
  	<ul class="breadcrumb">
@@ -89,21 +93,25 @@
              {% for group in items_grouped %}  
 	  	<li><a href="javascript:showAlumniList('#list{{ group.name}}');">{{ group.name}}</a></li>
             {% endfor %}
+		<li><a href="javascript:showAlumniList('all');">all</a></li>
 	</ul>
             {% for group in items_grouped %}  
              <div class="collapse" id="list{{ group.name}}">
 		<hr>
+		<div class="well bg-light-red">
+		<address>
 		<h4>Student of {{ group.name}}</h4>
               	{% assign items = group.items | sort: 'surname'  %}
                 {% for post in items %}
                             
                         <h5>{{ post.name }} {{ post.surname }}</h5>
-                        <p class="text-muted">{{ post.title }}</p>
+                        <p>{{ post.title }}</p>
                         <p>Advisor: {{ post.advisor }}<br>
                            {{ post.university }}</p>  
                         
 		{% endfor %}
-	     </div>
+		<div>
+	     </address>
 	    {% endfor %}
 </div>
         </div>
