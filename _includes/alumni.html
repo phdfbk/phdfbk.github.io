@@ -81,6 +81,7 @@
 		if (v == 'all') {
 	{% for group in items_grouped %}
 		$('#list{{group.name}}').show();
+	{% endfor %}  
 		} else {
 	{% for group in items_grouped %}
 		$('#list{{group.name}}').hide();
