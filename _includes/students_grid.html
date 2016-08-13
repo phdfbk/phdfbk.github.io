@@ -9,9 +9,24 @@
                 </div>
             </div>
             <div class="row">
-{% {{ 3 | modulo:2 }} #=> 1 %}
-
              {% assign sorted = site.categories.students | sort: 'surname' %}
+<!-- napo -->
+{% for post in sorted %}
+
+  {% capture modulo %}{{ forloop.index0 | mod:3 }}{% endcapture %}
+
+  {% if modulo == '0' or forloop.first %}
+    <div class="row">
+  {% endif %}
+	<div class="col-sm-1">
+{{ post.name }} {{ post.surname }}
+	</div>
+  {% if modulo == '6' or forloop.last %}
+    </div>
+  {% endif %}
+
+{% endfor %}
+<!-- end napo -->
              {% for post in sorted %}
                 <div class="col-md-2 col-sm-6 portfolio-item">
                     <a href="#studentsModal{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">
