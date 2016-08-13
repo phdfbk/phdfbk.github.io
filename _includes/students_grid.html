@@ -12,13 +12,13 @@
 <!-- napo -->
 {% for post in sorted %}
   {% assign loopindex = forloop.index0 | modulo: 6 %}
-  {% if loopindex == '0' or forloop.first %}
+  {% if loopindex == 0 or forloop.first %}
     <div class="row">
   {% endif %}
 	<div class="col-sm-1">
 {{ post.name }} {{ post.surname }} {{ loopindex }}
 	</div>
-  {% if loopindex == '5' %}  
+  {% if loopindex == 5 or forloop.last %}
 	FIVE
     </div>
   {% endif %}
