@@ -1,5 +1,5 @@
 ---
-title: Department of industrial engineering
+title: Department of industrial engineering (DII)
 website: http://www.dii.unitn.it/
 layout: default
 tag: unitn_department
