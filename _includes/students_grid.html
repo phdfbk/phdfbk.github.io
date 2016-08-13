@@ -8,7 +8,6 @@
                     <h3 class="section-subheading text-muted">Get to know the students currently carrying out their PhD at FBK</h3>
                 </div>
             </div>
-            <div class="row">
              {% assign sorted = site.categories.students | sort: 'surname' %}
 <!-- napo -->
 {% for post in sorted %}
@@ -27,6 +26,7 @@
 
 {% endfor %}
 <!-- end napo -->
+            <div class="row">
              {% for post in sorted %}
                 <div class="col-md-2 col-sm-6 portfolio-item">
                     <a href="#studentsModal{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">
