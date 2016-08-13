@@ -9,7 +9,7 @@
                 </div>
             </div>
             <div class="row">
-{%{{ 3 | modulo:2 }} #=> 1%}
+{% {{ 3 | modulo:2 }} #=> 1 %}
 
              {% assign sorted = site.categories.students | sort: 'surname' %}
              {% for post in sorted %}
