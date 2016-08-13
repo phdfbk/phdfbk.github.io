@@ -9,7 +9,7 @@ thumbnail: universitapadova_thumb.jpg
 alt: Universtita padova
 tag: network
 department: unipd_department
-description: Strong partnership in particular with the Department of Information Engineering 
+description: Strong partnership in particular with the Brain, Mind and Computer Science (BMCS) doctoral program 
 
 
 
