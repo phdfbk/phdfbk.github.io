@@ -99,17 +99,17 @@
 	</ul>
             {% for group in items_grouped %}  
              <div class="collapse" id="list{{group.name}}">
-             	<div style="background-color: #b29d85;">
 		<hr>
 		<h4>Students who graduated in {{ group.name}}</h4>
               	{% assign items = group.items | sort: 'surname'  %}
                 {% for post in items %}
+                        <address>
                         <h5 class="text-capitalize">{{ post.name }} {{ post.surname }}</h5>
                         <em>{{ post.title }}</em>
                         <p>Advisor: {{ post.advisor }}<br>
                            {{ post.university }}</p>  
+                        </address>
 		{% endfor %}
-		</div>
 	     </div>
 	    {% endfor %}
 </div>
