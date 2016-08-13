@@ -16,10 +16,9 @@
     <div class="row">
   {% endif %}
 	<div class="col-sm-1">
-{{ post.name }} {{ post.surname }}
+{{ post.name }} {{ post.surname }} {{ loopindex }}
 	</div>
-  {% if loopindex == '0' or forloop.last %}
-scrivo
+  {% if loopindex == '6' or forloop.last %}
     </div>
   {% endif %}
 {% endfor %}
