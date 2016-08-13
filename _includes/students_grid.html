@@ -15,8 +15,7 @@
   {% if loopindex == 0 or forloop.first %}
     <div class="row">
   {% endif %}
-	<div class="col-sm-1">
-                <div class="col-md-2 col-sm-1 portfolio-item">
+	<div class="col-sm-1 portfolio-item">
                     <a href="#studentsModal{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">
                         <div class="portfolio-hover">
                             <div class="portfolio-hover-content">
@@ -29,7 +28,7 @@
                         <h5>{{ post.name }} {{ post.surname }}</h5>
                         <p class="text-muted">{{ post.subtitle }}</p>
                     </div>
-                </div>
+
 	</div>
   {% if loopindex == 5 or forloop.last %}
     </div>
