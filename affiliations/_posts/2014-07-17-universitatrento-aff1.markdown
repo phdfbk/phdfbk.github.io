@@ -9,6 +9,6 @@ thumbnail: universitatrento_thumb.jpg
 alt: Universita degli studi di Trento
 tag: network
 department: unitn_department
-description: Strong partnership in particular with the Department of Information Engineering and Computer Science (DISI)
+description: Strong partnership on all topics of ICT, cognitive science, bioinformatics, industrial engineering and physics
 
 ---
