@@ -13,12 +13,13 @@
 {% for post in sorted %}
   {% assign loopindex = forloop.index0 | modulo: 6 %}
   {% if loopindex == '0' or forloop.first %}
+   loopindex 0
     <div class="row">
   {% endif %}
 	<div class="col-sm-1">
 {{ post.name }} {{ post.surname }} {{ loopindex }} / {{ forloop.index0 }}
 	</div>
-  {% if loopindex == '6' or forloop.last %}
+  {% if loopindex == '5' or forloop.last %}
 test {{ forloop.index0 }}
     </div>
   {% endif %}
