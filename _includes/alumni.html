@@ -78,16 +78,22 @@
  {% assign items_grouped = (site.categories.alumni | group_by: 'year'| sort: 'year')  %}
 	<script language="javascript">
 	function showAlumniList(v) {
+		if (v == 'all') {
 	{% for group in items_grouped %}
-			$('#list{{group.name}}').hide();
+		$('#list{{group.name}}').show();
+		} else {
+	{% for group in items_grouped %}
+		$('#list{{group.name}}').hide();
 	{% endfor %}  
 		$(v).show();
+		}
 	}
 	</script>
  	<ul class="breadcrumb">
 		<li>Former PhD students</li>
              {% for group in items_grouped %}  
 	  	<li><a href="javascript:showAlumniList('#list{{group.name}}');">{{ group.name}}</a></li>
+	  	<li><a href="javascript:showAlumniList('all');">all</a></li>
             {% endfor %}
 	</ul>
             {% for group in items_grouped %}  
