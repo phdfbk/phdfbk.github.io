@@ -11,14 +11,14 @@
              {% assign sorted = site.categories.students | sort: 'surname' %}
 <!-- napo -->
 {% for post in sorted %}
-  {% capture modulo %}{{ forloop.index0 | mod:3 }}{% endcapture %}
+  {% capture modulo %}{{ forloop.index0 | mod:6 }}{% endcapture %}
   {% if modulo == '0' or forloop.first %}
     <div class="row">
   {% endif %}
 	<div class="col-sm-1">
-{{ post.name }} {{ post.surname }}
+{{ post.name }} {{ post.surname }} {{ modulo }}
 	</div>
-  {% if modulo == '3' or forloop.last %}
+  {% if modulo == '6' or forloop.last %}
     </div>
   {% endif %}
 {% endfor %}
