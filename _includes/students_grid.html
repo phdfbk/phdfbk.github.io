@@ -15,7 +15,7 @@
   {% if loopindex == 0 or forloop.first %}
     <div class="row">
   {% endif %}
-	<div class="col-xs-3 col-sm-3 col-lg-3 portfolio-item">
+	<div class="col-xs-4 col-sm-4 col-lg-4 portfolio-item">
                     <a href="#studentsModal{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">
                         <div class="portfolio-hover">
                             <div class="portfolio-hover-content">
@@ -31,7 +31,7 @@
 
 	</div>
   {% if loopindex == 5 or forloop.last %}
-    </div>
+    </div><br/>
   {% endif %}
 {% endfor %}
 <hr/>
