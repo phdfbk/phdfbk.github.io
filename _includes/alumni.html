@@ -96,16 +96,13 @@
 		<h4>Student of {{ group.name}}</h4>
               	{% assign items = group.items | sort: 'surname'  %}
                 {% for post in items %}
-		<address>
                         <h5 class="text-capitalize">{{ post.name }} {{ post.surname }}</h5>
                         <strong>{{ post.title }}</strong>
                         <p>Advisor: {{ post.advisor }}<br>
                            {{ post.university }}</p>  
-	        </address>
 		{% endfor %}
 	     </div>
 	    {% endfor %}
 </div>
-        </div>
-	
+</div>
     </section>
