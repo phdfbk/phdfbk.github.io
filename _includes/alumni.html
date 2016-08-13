@@ -103,7 +103,7 @@
 		<h4>Students who graduated in {{ group.name}}</h4>
               	{% assign items = group.items | sort: 'surname'  %}
                 {% for post in items %}
-                         <div style="background:#ecf0f1;border-radius: 25px;">
+                         <div style="background:#ecf0f1;border-radius:3px; padding:3px;">
                         <h5 class="text-capitalize">{{ post.name }} {{ post.surname }}</h5>
                         <em>{{ post.title }}</em>
                         <p>Advisor: {{ post.advisor }}<br>
