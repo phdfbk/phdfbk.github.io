@@ -99,8 +99,8 @@
               	{% assign items = group.items | sort: 'surname'  %}
                 {% for post in items %}
 		<address>
-                        <h5>{{ post.name }} {{ post.surname }}</h5>
-                        <p>{{ post.title }}</p>
+                        <h5 class="text-capitalize">{{ post.name }} {{ post.surname }}</h5>
+                        <strong>{{ post.title }}</strong>
                         <p>Advisor: {{ post.advisor }}<br>
                            {{ post.university }}</p>  
 	        </address>
