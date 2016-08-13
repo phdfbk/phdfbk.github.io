@@ -79,10 +79,10 @@
 	<script language="javascript">
 	function showAlumniList(v) {
 		if ( v == 'all') {
-		 	$('#list{{ group.name}}').show();
+		 	$('#list{{group.name}}').show();
 		} else {
 	{% for group in items_grouped %}
-			$('#list{{ group.name}}').hide();
+			$('#list{{group.name}}').hide();
 	{% endfor %}  
 			$(v).show();
 		}
@@ -99,19 +99,17 @@
              <div class="collapse" id="list{{ group.name}}">
 		<hr>
 		<div class="well bg-light-red">
-		<address>
 		<h4>Student of {{ group.name}}</h4>
               	{% assign items = group.items | sort: 'surname'  %}
                 {% for post in items %}
-                            
+		<address>
                         <h5>{{ post.name }} {{ post.surname }}</h5>
                         <p>{{ post.title }}</p>
                         <p>Advisor: {{ post.advisor }}<br>
                            {{ post.university }}</p>  
-                        
+	        </address>
 		{% endfor %}
 		<div>
-	     </address>
 	    {% endfor %}
 </div>
         </div>
