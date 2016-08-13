@@ -12,8 +12,8 @@
 <!-- napo -->
 {% for post in sorted %}
   {% assign loopindex = forloop.index0 | modulo: 6 %}
+loopindex = {{ loopindex }} <br/>
   {% if loopindex == '0' or forloop.first %}
-   loopindex 0
     <div class="row">
   {% endif %}
 	<div class="col-sm-1">
