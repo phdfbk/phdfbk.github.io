@@ -79,7 +79,7 @@
 	<script language="javascript">
 	function showAlumniList(v) {
 		if ( v == 'all') {
-		 	('#list{{ group.name}}').all();
+		 	('#list{{ group.name}}').show();
 		} else {
 	{% for group in items_grouped %}
 			('#list{{ group.name}}').hide();
