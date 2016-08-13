@@ -11,14 +11,14 @@
              {% assign sorted = site.categories.students | sort: 'surname' %}
 <!-- napo -->
 {% for post in sorted %}
-  {% assign modp = forloop.index0 | modulo:6 %}
-  {% if modp == '0' or forloop.first %}
+  {% assign loopindex = forloop.index0 | modulo: 6 %}
+  {% if loopindex == '0' or forloop.first %}
     <div class="row">
   {% endif %}
 	<div class="col-sm-1">
-{{ post.name }} {{ post.surname }} {{ modp }} / {{ forloop.index0 }}
+{{ post.name }} {{ post.surname }} {{ loopindex }} / {{ forloop.index0 }}
 	</div>
-  {% if modp == '6' or forloop.last %}
+  {% if loopindex == '6' or forloop.last %}
 test {{ forloop.index0 }}
     </div>
   {% endif %}
