@@ -11,7 +11,7 @@
              {% assign sorted = site.categories.students | sort: 'surname' %}
 <!-- napo -->
 {% for post in sorted %}
-  {% assign loopindex = forloop.index0 | modulo: 10 %}
+  {% assign loopindex = forloop.index0 | modulo: 8 %}
   {% if loopindex == 0 or forloop.first %}
     <div class="row">
   {% endif %}
@@ -30,10 +30,11 @@
                     </div>
 
 	</div>
-  {% if loopindex == 9 or forloop.last %}
+  {% if loopindex == 7 or forloop.last %}
     </div>
   {% endif %}
 {% endfor %}
+<hr/>
 <!-- end napo -->
             <div class="row">
              {% for post in sorted %}
