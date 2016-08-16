@@ -1,8 +1,8 @@
 ---
-title: Department of information engineering and computer science (DISI)
-website: http://www.disi.unitn.it/
+title: Department of electrical, electronic and information engineering (DEI)
+website: http://www.dei.unibo.it/
 layout: default
-tag: unitn_department
-reference_person: Paolo Giorgini
+tag: unibo_department
+reference_person: 
 
 ---
