@@ -16,4 +16,4 @@ img: fugattini.jpg
 thumbnail: fugattini_thumb.jpg
 alt: Silvio Fugattini
 modal-id: stud74
-------
+---

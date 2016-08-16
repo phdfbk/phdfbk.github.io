@@ -16,4 +16,4 @@ img: centellegher.jpg
 thumbnail: centellegher_thumb.jpg
 alt: Simone Centellegher
 modal-id: stud9
-------
+---

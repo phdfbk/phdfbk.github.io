@@ -16,4 +16,4 @@ img: magnolini.jpg
 thumbnail: magnolini_thumb.jpg
 alt: Simone Magnolini
 modal-id: stud34
-------
+---

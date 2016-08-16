@@ -16,4 +16,4 @@ img: de sanctis.jpg
 thumbnail: de sanctis_thumb.jpg
 alt: Martina De Sanctis
 modal-id: stud14
-------
+---

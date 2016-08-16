@@ -16,4 +16,4 @@ img: khoshkangini.jpg
 thumbnail: khoshkangini_thumb.jpg
 alt: Reza Khoshkangini
 modal-id: stud28
-------
+---

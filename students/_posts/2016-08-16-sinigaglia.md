@@ -16,4 +16,4 @@ img: sinigaglia.jpg
 thumbnail: sinigaglia_thumb.jpg
 alt: Federico Sinigaglia
 modal-id: stud54
-------
+---

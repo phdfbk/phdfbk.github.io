@@ -16,4 +16,4 @@ img: jahangirova.jpg
 thumbnail: jahangirova_thumb.jpg
 alt: Gunel Jahangirova
 modal-id: stud63
-------
+---

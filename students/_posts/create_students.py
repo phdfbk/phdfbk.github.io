@@ -43,7 +43,6 @@ for row in reader:
         yaml_text += "thumbnail: " + img.replace('.jpg','') + "_thumb.jpg\n"
         yaml_text += "alt: " + name + " " + surname + "\n"
         yaml_text += "modal-id: stud" + str(k) + "\n"
-        yaml_text += "---"
         new_yaml.write(yaml_text + "---\n")
         new_yaml.close()
     k += 1

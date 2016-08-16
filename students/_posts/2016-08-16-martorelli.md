@@ -16,4 +16,4 @@ img: martorelli.jpg
 thumbnail: martorelli_thumb.jpg
 alt: Damiano Martorelli
 modal-id: stud39
-------
+---

@@ -16,4 +16,4 @@ img: tekiroglu.jpg
 thumbnail: tekiroglu_thumb.jpg
 alt: Serra Sinem Tekiroglu
 modal-id: stud58
-------
+---

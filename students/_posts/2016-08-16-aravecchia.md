@@ -16,4 +16,4 @@ img: aravecchia.jpg
 thumbnail: aravecchia_thumb.jpg
 alt: Manuel Aravecchia
 modal-id: stud48
-------
+---

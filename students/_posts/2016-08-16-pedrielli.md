@@ -16,4 +16,4 @@ img: pedrielli.jpg
 thumbnail: pedrielli_thumb.jpg
 alt: Andrea Pedrielli
 modal-id: stud43
-------
+---

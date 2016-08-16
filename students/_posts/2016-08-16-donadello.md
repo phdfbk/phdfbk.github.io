@@ -16,4 +16,4 @@ img: donadello.jpg
 thumbnail: donadello_thumb.jpg
 alt: Ivan Donadello
 modal-id: stud13
-------
+---
