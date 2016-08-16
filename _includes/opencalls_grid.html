@@ -10,7 +10,7 @@
 	    <div class="row">
             {% for post in site.tags['call_uni'] %}
                    <div class="col-lg-12 text-center" style="background:#f7f7f7;border-radius:3px; padding:3px;">
-                        <h3>{{ post.title }} - j</h3>
+                        <h3>{{ post.title }}</h3>
                            
                        <p> Topic: {{ post.topic }}<br>
                        Number of positions: {{ post.number_of_positions }}<br>
@@ -19,12 +19,10 @@
                    
                     
                     {% for call in site.tags[post.subtag] %}
-                         <div class="portfolio-caption">
+                         <div>
                            <h5>{{ call.title }}</h5>
                            URL:  <a href="{{ call.applyurl }}" target="_new">{{ call.applyurl }}</a>
-                            <p> Advisor: {{ call.advisor }}<br>
-                      
-                            </p>
+                            <p> Advisor: {{ call.advisor }}</p>
                          </div>
                     {% endfor %}  
                    </div>
