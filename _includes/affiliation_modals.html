@@ -19,15 +19,16 @@
                             <ul class="item-details">
                             
                             {% for department in site.tags[post.department] %}
-                                
-                                    <strong><a href="{{department.website}}">{{ department.title }}</a>
-                                    </strong><br>
+                              
+                                    <li><strong><a href="{{department.website}}">{{ department.title }}</a>
+                                    </strong>
+					<ul class="item-details">
 				{% assign refperson = department.reference_person %}
 				{% if refperson != "" %}
-                                    <strong>Reference person:</strong> {{ department.reference_person }}
+                                    <li><strong>Reference person:</strong> {{ department.reference_person }}</li>
                                     
-                                        <br>
 				{% endif %}
+				</li>
                               {% endfor %} 
                             </ul>
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
