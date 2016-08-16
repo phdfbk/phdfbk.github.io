@@ -1,15 +1,15 @@
 ---
-title: Università degli Studi di Trento
-subtitle: Expert Finding for Requirements Engineering
-kindcontract: agreement with phd school
+title: Università degli Studi di Bologna
+subtitle: 
+kindcontract: joint phd school
 layout: default
-modal-id: aff1
+modal-id: aff3
 date: 2014-07-16
-img: universitatrento.jpg 
-thumbnail: universitatrento_thumb.jpg
-alt: Università degli studi di Trento
+img: universitabologna.jpg 
+thumbnail: universitabologna_thumb.jpg
+alt: Università degli studi di Bologna
 tag: network
-department: unitn_department
-description: Strong partnership on all topics of ICT, cognitive science, bioinformatics, industrial engineering and physics
+department: unibo_department
+description: Strong partnership on Electronics, Telecommunications, and Information Technologies Engineering
 
 ---
