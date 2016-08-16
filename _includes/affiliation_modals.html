@@ -1,5 +1,8 @@
  <!-- Affiliation Modals -->
+ <!-- Portfolio Modals -->
  {% for post in site.posts %}
+	{% for data in post.categories %}
+	{% if data == "affiliatons" %}
     <div class="portfolio-modal modal fade" id="affiliationModal{{ post.modal-id }}" tabindex="-1" role="dialog" aria-hidden="true">
         <div class="modal-content">
             <div class="close-modal" data-dismiss="modal">
@@ -33,4 +36,6 @@
             </div>
         </div>
     </div>
+{%endif%}
+{% endfor %}
 {% endfor %}
