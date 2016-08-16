@@ -11,8 +11,8 @@ subtitle:
 advisor: 
 keywords: 
 website: 
-img: santini.jpg
-thumbnail: santini_thumb.jpg
+img: no_picture.jpg
+thumbnail: no_picture_thumb.jpg
 alt: Santini Gaia Cecilia
 modal-id: stud56
 ---

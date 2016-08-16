@@ -11,8 +11,8 @@ subtitle:
 advisor: 
 keywords: 
 website: 
-img: morales ramirez.jpg
-thumbnail: morales ramirez_thumb.jpg
+img: no_picture.jpg
+thumbnail: no_picture_thumb.jpg
 alt: Morales Ramirez Itzel
 modal-id: stud38
 ---

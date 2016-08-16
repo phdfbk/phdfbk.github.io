@@ -11,8 +11,8 @@ subtitle:
 advisor: 
 keywords: 
 website: 
-img: boselli.jpg
-thumbnail: boselli_thumb.jpg
+img: no_picture.jpg
+thumbnail: no_picture_thumb.jpg
 alt: Boselli Maddalena
 modal-id: stud5
 ---
