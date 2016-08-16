@@ -1,8 +1,8 @@
 ---
-title: Department of electrical, electronic and information engineering (DEI)
-website: http://www.dei.unibo.it/
+title: Department of electrical engineering and computer science
+website: https://www.eecs.mit.edu
 layout: default
-tag: unibo_department
-reference_person: Alessandro Vanelli Coralli
+tag: mit_department
+reference_person: 
 
 ---
