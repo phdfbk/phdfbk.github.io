@@ -1,8 +1,8 @@
 ---
-title: Department of electrical, electronic and information engineering (DEI)
-website: http://www.dei.unibo.it/
+title: Department of information engineering (DINFO)
+website: http://www.dinfo.unifi.it/
 layout: default
-tag: unibo_department
-reference_person: Alessandro Vanelli Coralli
+tag: unifi_department
+reference_person: Paolo Frasconi
 
 ---
