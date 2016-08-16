@@ -11,8 +11,8 @@ subtitle:
 advisor: 
 keywords: 
 website: 
-img: bobic.jpg
-thumbnail: bobic_thumb.jpg
+img: no_picture.jpg
+thumbnail: no_picture_thumb.jpg
 alt: Bobic Marinko
 modal-id: stud70
 ---
