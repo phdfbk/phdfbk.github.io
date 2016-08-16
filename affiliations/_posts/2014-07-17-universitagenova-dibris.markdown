@@ -1,8 +1,8 @@
 ---
-title: Department of electrical, electronic and information engineering (DEI)
-website: http://www.dei.unibo.it/
+title: Department of informatics, bioengineering, robotics and systems engineering (DIBRIS)
+website: http://www.dibris.unige.it/
 layout: default
-tag: unibo_department
-reference_person: Alessandro Vanelli Coralli
+tag: unige_department
+reference_person: Giorgio Delzanno
 
 ---
