@@ -1,8 +1,8 @@
 ---
-title: Department of electrical, electronic and information engineering (DEI)
-website: http://www.dei.unibo.it/
+title: Department of computer science
+website: http://www.cs.ucl.ac.uk/home/
 layout: default
-tag: unibo_department
-reference_person: Alessandro Vanelli Coralli
+tag: ucl_department
+reference_person: Mark Harman
 
 ---
