@@ -13,7 +13,12 @@
                         <h3>{{ post.title }}</h3>
                            
                        <p> Topic: {{ post.topic }}<br>
+		 	{% assign positions = post.number_of_positions %}
+			{% if positions > 0 %}
                        Number of positions: {{ post.number_of_positions }}<br>
+			{% else %}
+			There are currently no open calls. New open calls will be announced in this page as soon as they are available.
+			{% endif %}
                        Website:<a href="{{ post.website }}" target="_blank">{{ poslt.website }}</a>  <br>
                        Closing Date: {{post.closing_date}} </p> 
                    
@@ -21,7 +26,10 @@
                     {% for call in site.tags[post.subtag] %}
                          <div>
                            <h5>{{ call.title }}</h5>
-                           URL:  <a href="{{ call.applyurl }}" target="_new">{{ call.applyurl }}</a>
+			{% assign applyurl =  call.applyurl %}
+		    {% if applyurl != "" %}
+                           URL:  <a href="{{ call.applyurl }}" target="_new">{{ call.applyurl }}</a><br/>
+		    {% endif %}
                             <p> Advisor: {{ call.advisor }}</p>
                          </div>
                     {% endfor %}  
