@@ -1,15 +1,15 @@
 ---
-title: Università degli Studi di Bologna
+title: Consorzio delle Università degli Studi di Firenze, Pisa e Siena
 subtitle: 
 kindcontract: joint phd school
 layout: default
-modal-id: aff3
+modal-id: aff4
 date: 2014-07-16
-img: universitabologna.jpg 
-thumbnail: universitabologna_thumb.jpg
-alt: Università degli studi di Bologna
+img: universitafirenze.jpg 
+thumbnail: universitafirenze_thumb.jpg
+alt: Consorzio delle Università degli Studi di Firenze, Pisa e Siena
 tag: network
-department: unibo_department
-description: Strong partnership on Electronics, Telecommunications, and Information Technologies Engineering
+department: unifi_department
+description: Strong partnership on smart computing
 
 ---
