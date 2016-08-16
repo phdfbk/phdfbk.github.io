@@ -12,8 +12,8 @@ subtitle:
 advisor: 
 keywords: 
 website: 
-img: sudhakaran.jpg
-thumbnail: sudhakaran_thumb.jpg
+img: no_picture.jpg
+thumbnail: no_picture_thumb.jpg
 alt: Swathikiran Sudhakaran
 modal-id: stud51
 ---

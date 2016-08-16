@@ -12,8 +12,8 @@ subtitle:
 advisor: 
 keywords: 
 website: 
-img: abdelraheem.jpg
-thumbnail: abdelraheem_thumb.jpg
+img: no_picture.jpg
+thumbnail: no_picture_thumb.jpg
 alt: Mahmoud Fakhry Mahmoud Abdelraheem
 modal-id: stud2
 ---

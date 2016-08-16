@@ -12,8 +12,8 @@ subtitle:
 advisor: 
 keywords: 
 website: 
-img: olumodeji.jpg
-thumbnail: olumodeji_thumb.jpg
+img: no_picture.jpg
+thumbnail: no_picture_thumb.jpg
 alt: Olufemi Akindele Olumodeji
 modal-id: stud33
 ---

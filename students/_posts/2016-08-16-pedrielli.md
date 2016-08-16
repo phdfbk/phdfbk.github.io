@@ -12,8 +12,8 @@ subtitle:
 advisor: 
 keywords: 
 website: 
-img: pedrielli.jpg
-thumbnail: pedrielli_thumb.jpg
+img: no_picture.jpg
+thumbnail: no_picture_thumb.jpg
 alt: Andrea Pedrielli
 modal-id: stud43
 ---
