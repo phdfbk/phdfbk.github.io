@@ -1,0 +1,19 @@
+---
+layout: default 
+id: 2016-08-16-Abdelraheem-Mahmoud_Fakhry_Mahmoud
+surname: Abdelraheem
+name: Abdelraheem
+university: Univ. Trento
+date: 16/08/2016
+aboutme: 
+from: 
+research_topic: 
+subtitle: 
+advisor: 
+keywords: 
+website: 
+img: abdelraheem.jpg
+thumbnail: abdelraheem_thumb.jpg
+alt: Mahmoud Fakhry Mahmoud Abdelraheem
+modal-id: stud2
+------
