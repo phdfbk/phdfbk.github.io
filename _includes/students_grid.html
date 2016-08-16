@@ -9,7 +9,7 @@
                 </div>
             </div>
 	</div>
-	<div class="container">
+	<div class="container-fluid">
              {% assign sorted = site.categories.students | sort: 'surname' %}
 <!-- napo -->
 {% for post in sorted %}
@@ -17,7 +17,7 @@
   {% if loopindex == 0 or forloop.first %}
   <div class="row">
   {% endif %}
-	<div>
+	<div class="col-lg-12 portfolio-item">
                     <a href="#studentsModal{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">
                         <div class="portfolio-hover">
                             <div class="portfolio-hover-content">
