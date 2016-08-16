@@ -2,7 +2,7 @@
 layout: default 
 id: 2016-08-16-Tekiroglu-Serra_Sinem
 surname: Tekiroglu
-name: Tekiroglu
+name: Serra Sinem
 university: Univ. Trento
 date: 16/08/2016
 aboutme: 

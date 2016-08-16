@@ -23,7 +23,7 @@ for row in reader:
         name = str(row[1].encode('iso-8859-1'))
         yaml_text += "id: " + datetime.today().strftime('%Y-%m-%d') + "-" + surname.replace(" ","_") + "-" + name.replace(" ","_") + "\n"
         yaml_text += "surname: " +  surname + "\n"
-        yaml_text += "name: " + surname  + "\n"
+        yaml_text += "name: " + name  + "\n"
         yaml_text += "university: " + str(row[2].encode('iso-8859-1'))  + "\n"
         yaml_text += "date: " + datetime.today().strftime('%d/%m/%Y')  + "\n"
         yaml_text += "aboutme: " +  str(row[3].encode('iso-8859-1'))  + "\n"

@@ -2,7 +2,7 @@
 layout: default 
 id: 2016-08-16-Pedrielli-Andrea
 surname: Pedrielli
-name: Pedrielli
+name: Andrea
 university: Univ. Trento
 date: 16/08/2016
 aboutme: 

@@ -2,7 +2,7 @@
 layout: default 
 id: 2016-08-16-Sudhakaran-Swathikiran
 surname: Sudhakaran
-name: Sudhakaran
+name: Swathikiran
 university: Univ. Trento
 date: 16/08/2016
 aboutme: 

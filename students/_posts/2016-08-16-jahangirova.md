@@ -2,7 +2,7 @@
 layout: default 
 id: 2016-08-16-Jahangirova-Gunel
 surname: Jahangirova
-name: Jahangirova
+name: Gunel
 university: UCL
 date: 16/08/2016
 aboutme: 

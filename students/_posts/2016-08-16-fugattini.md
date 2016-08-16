@@ -2,7 +2,7 @@
 layout: default 
 id: 2016-08-16-Fugattini-Silvio
 surname: Fugattini
-name: Fugattini
+name: Silvio
 university: Univ. Ferrara
 date: 16/08/2016
 aboutme: 

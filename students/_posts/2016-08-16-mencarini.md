@@ -2,7 +2,7 @@
 layout: default 
 id: 2016-08-16-Mencarini-Eleonora
 surname: Mencarini
-name: Mencarini
+name: Eleonora
 university: Univ. Trento
 date: 16/08/2016
 aboutme: 

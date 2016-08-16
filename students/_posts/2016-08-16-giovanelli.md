@@ -2,7 +2,7 @@
 layout: default 
 id: 2016-08-16-Giovanelli-Davide
 surname: Giovanelli
-name: Giovanelli
+name: Davide
 university: Univ. Bologna
 date: 16/08/2016
 aboutme: 

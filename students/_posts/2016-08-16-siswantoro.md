@@ -2,7 +2,7 @@
 layout: default 
 id: 2016-08-16-Siswantoro-Hari
 surname: Siswantoro
-name: Siswantoro
+name: Hari
 university: Univ. Trento
 date: 16/08/2016
 aboutme: 

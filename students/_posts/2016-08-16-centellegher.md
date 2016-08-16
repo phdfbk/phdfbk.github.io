@@ -2,7 +2,7 @@
 layout: default 
 id: 2016-08-16-Centellegher-Simone
 surname: Centellegher
-name: Centellegher
+name: Simone
 university: Univ. Trento
 date: 16/08/2016
 aboutme: 

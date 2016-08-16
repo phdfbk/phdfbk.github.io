@@ -2,7 +2,7 @@
 layout: default 
 id: 2016-08-16-Donadello-Ivan
 surname: Donadello
-name: Donadello
+name: Ivan
 university: Univ. Trento
 date: 16/08/2016
 aboutme: 

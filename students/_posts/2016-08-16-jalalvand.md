@@ -2,7 +2,7 @@
 layout: default 
 id: 2016-08-16-Jalalvand-Shahab
 surname: Jalalvand
-name: Jalalvand
+name: Shahab
 university: Univ. Trento
 date: 16/08/2016
 aboutme: 

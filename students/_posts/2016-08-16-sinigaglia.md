@@ -2,7 +2,7 @@
 layout: default 
 id: 2016-08-16-Sinigaglia-Federico
 surname: Sinigaglia
-name: Sinigaglia
+name: Federico
 university: Univ. Genova
 date: 16/08/2016
 aboutme: 

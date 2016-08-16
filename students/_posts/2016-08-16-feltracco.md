@@ -2,7 +2,7 @@
 layout: default 
 id: 2016-08-16-Feltracco-Anna
 surname: Feltracco
-name: Feltracco
+name: Anna
 university: Univ. Pavia
 date: 16/08/2016
 aboutme: 
