@@ -9,7 +9,7 @@
             </div>
                      <div>     
             {% for post in site.tags['call_uni'] %}
-                   <div class="col-lg-12 text-center" style="background:#ecf0f1;border-radius:3px; padding:3px;text-align:center">
+                   <div class="col-lg-12 text-center" style="background:#f7f7f7;border-radius:3px; padding:3px;text-align:center">
                         <h3>{{ post.title }}</h3>
                            
                        <p> Topic: {{ post.topic }}<br>
@@ -24,7 +24,7 @@
   
                          <div class="portfolio-caption">
                            <h5>{{ call.title }}</h5>
-                           URL:  {{ call.url }}
+                           URL:  <a href="{{ call.url }}" target="_new">{{ call.url }}</a>
                             <p> Advisor: {{ call.advisor }}<br>
                       
                             </p>
@@ -33,7 +33,7 @@
                     {% endfor %}
                          
                    </div>
-             </div><br/>---<br/><br/>     
+             </div><br/><br/>   
             {% endfor %}
              
             
