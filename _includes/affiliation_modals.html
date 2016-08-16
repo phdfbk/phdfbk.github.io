@@ -22,9 +22,12 @@
                                 
                                     <strong><a href="{{department.website}}">{{ department.title }}</a>
                                     </strong><br>
+				{% assign refperson = department.reference_person %}
+				{% if refperson != "" %}
                                     <strong>Reference person:</strong> {{ department.reference_person }}
                                     
                                         <br>
+				{% endif %}
                               {% endfor %} 
                             </ul>
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
