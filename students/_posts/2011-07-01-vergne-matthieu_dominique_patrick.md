@@ -1,11 +1,12 @@
 ---
 layout: default 
-id: 2011-07-01-Vergne-Matthieu Dominique Patrick
+id: 2011-07-01-Vergne-Matthieu-Dominique-Patrick
 surname: Vergne
 name: Matthieu Dominique Patrick
 university: Univ. Trento
 date: 01-07-2011
 aboutme: 
+from: France
 research_topic: 
 subtitle: 
 advisor: 
@@ -14,5 +15,5 @@ website:
 img: vergne.jpg
 thumbnail: vergne_thumb.jpg
 alt: Vergne Matthieu Dominique Patrick
-modal-id: stud63
+modal-id: stud77
 ---
