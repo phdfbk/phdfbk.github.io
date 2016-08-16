@@ -1,8 +1,8 @@
 ---
-title: Department of electrical, electronic and information engineering (DEI)
-website: http://www.dei.unibo.it/
+title: Department of computing
+website: http://www.imperial.ac.uk/computing
 layout: default
-tag: unibo_department
-reference_person: Alessandro Vanelli Coralli
+tag: imperial_department
+reference_person: Alessandra Russo
 
 ---
