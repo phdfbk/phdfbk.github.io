@@ -1,5 +1,5 @@
 ---
-title: Università degli studi Di Trento
+title: Università degli Studi di Trento
 subtitle: Expert Finding for Requirements Engineering
 kindcontract: agreement with phd school
 layout: default
