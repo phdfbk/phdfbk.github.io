@@ -1,5 +1,7 @@
  <!-- Portfolio Modals -->
- {% for post in site.posts.students %}
+ {% for post in site.posts %}
+	{% for data in post.categories %}
+	{% if data == "students" %}
     <div class="portfolio-modal modal fade" id="studentsModal{{ post.modal-id }}" tabindex="-1" role="dialog" aria-hidden="true">
         <div class="modal-content">
             <div class="close-modal" data-dismiss="modal">
@@ -12,7 +14,7 @@
                 <div class="row">
                     <div class="col-lg-8 col-lg-offset-2">
                         <div class="modal-body">
-                            <h2>{{ post.title }}</h2>
+                            <h2>{{ data.title }}</h2>
                             <hr class="star-primary">
                             <img src="img/students/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}" width="200" >
                              <p>My research topic:{{ post.research_topic }}</p>
@@ -20,7 +22,7 @@
                             <p>Advisor:{{ post.advisor }}</p>
                             <ul class="list-inline item-details">
                                 <li>Website:
-                                    <strong><a href="{{post.website}}">{{ post.website }}</a>
+                                    <strong><a href="{{post.website}}" target="_new">{{ post.website }}</a>
                                     </strong>
                                 </li>
                                 <li>Keywords:
@@ -39,4 +41,5 @@
             </div>
         </div>
     </div>
+{%endif%}
 {% endfor %}
