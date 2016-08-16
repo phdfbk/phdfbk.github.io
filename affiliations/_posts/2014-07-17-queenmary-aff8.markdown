@@ -1,15 +1,15 @@
 ---
-title: Università degli Studi di Bologna
+title: Queen Mary University, London, UK
 subtitle: 
-kindcontract: joint phd school
+kindcontract: agreement with phd school
 layout: default
-modal-id: aff3
+modal-id: aff8
 date: 2014-07-16
-img: universitabologna.jpg 
-thumbnail: universitabologna_thumb.jpg
-alt: Università degli studi di Bologna
+img: queenmary.jpg 
+thumbnail: queenmary_thumb.jpg
+alt: Queen Mary University, London, UK
 tag: network
-department: unibo_department
-description: Strong partnership on Electronics, Telecommunications, and Information Technologies Engineering
+department: queenmary_department
+description: Strong partnership on Computer Science
 
 ---
