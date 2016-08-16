@@ -1,8 +1,8 @@
 ---
-title: Department of electrical, electronic and information engineering (DEI)
-website: http://www.dei.unibo.it/
+title: School of electronic engineering and computer science
+website: http://www.eecs.qmul.ac.uk/
 layout: default
-tag: unibo_department
-reference_person: Alessandro Vanelli Coralli
+tag: queenmary_department
+reference_person: 
 
 ---
