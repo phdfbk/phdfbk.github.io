@@ -24,8 +24,12 @@
                         <div class="modal-body">
                             <h2 class="text-capitalize">{{ post.name }} {{post.surname}}</h2>
 			    <h3 class="text-muted text-lowercase"><small>{{ keywords }}</small></h3>
-                            <hr class="star-primary">
-                            <img src="img/students/{{ post.img }}" class="pull-left img-responsive img-centered img-rounded" alt="{{ post.alt }}" width="150px" >
+                            <hr class="star-primary"/>
+			    <div class="table">
+			    <table class="table table-responsive">
+			     <tr>
+                            	<td><img src="img/students/{{ post.img }}" class="img-responsive img-centered img-rounded" alt="{{ post.alt }}" width="150px" ></td>
+				<td>
 				<p class="text-left">
 				{% if university != "" %}
 					I'm a student of the <strong>{{ university }}</strong><br/>
@@ -40,6 +44,10 @@
 					The advisor is <strong>{{ advisor }}</strong><br/>
 				{% endif %}
 				</p>
+				</td>
+			     	</tr>
+			    </table>
+			     </div>
 				{% if aboutme != "" %}
                              	<p><strong>Something about me</strong>
 				<p class="text-justify">
