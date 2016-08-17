@@ -31,16 +31,16 @@
                             	<td><img src="img/students/{{ post.img }}" class="img-responsive img-centered img-rounded" alt="{{ post.alt }}" width="150px" ></td>
 				<td>
 				<p class="text-left">
-				{% if university != "" %}
+				{% if university != "" or university == " "%}
 					I'm a student of the <strong>{{ university }}</strong><br/>
 				{% endif %}
-				{% if from != "" %}
+				{% if from != "" or from == " "%}
 			 		I come from <strong>{{ from }}</strong><br/>
 				{% endif %} 
-				{% if research != "" %}
+				{% if research != "" or research == " "%}
                              		My research is on <strong>{{ research }}</strong><br/>
 				{% endif %}
-				{% if advisor != "" %}
+				{% if advisor != "" or advisor == " " %}
 					The advisor is <strong>{{ advisor }}</strong><br/>
 				{% endif %}
 				</p>
@@ -48,13 +48,13 @@
 			     	</tr>
 			    </table>
 			     </div>
-				{% if aboutme != "" %}
+				{% if aboutme != "" or aboutme == " "%}
                              	<p><strong>Something about me</strong>
 				<p class="text-justify">
 				{{ aboutme }}				
 				</p>
 				{% endif %}
-				{% if website != "" %}
+				{% if website != "" or website == " "%}
 				<p>
 				more information <a href="{{ website }}" target="_new">{{ website }}</a>
 				</p>
