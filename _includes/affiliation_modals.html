@@ -18,15 +18,24 @@
                             <hr class="star-primary">
                             <img src="img/affiliations/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}" width="200" >
                             <p>{{ post.description }}</p>
-                            <p class="item-details">                            
-                            {% for department in site.tags[post.department] %}
+                            <p class="item-details">  
+  <table class="table">
+    <thead>
+      <tr>
+        <th>Department</th>
+        <th>Reference person</th>
+      </tr>
+    </thead>
+    <tbody>
+ {% for department in site.tags[post.department] %}
+	<tr>
+	<td>{{ department.title }}</td>
+	<td>{{ department.reference_person }}</td>
+	</tr>
+    </tbody>
+  </table>                          
+{% endfor %}                            
                               
-                            <strong><a href="{{department.website}}">{{ department.title }}</a></strong>
-				{% assign refperson = department.reference_person %}
-				{% if refperson != "" %}
-                                 <br/><strong>Reference person:</strong> {{ department.reference_person }}   
-				{% endif %}
-                              {% endfor %} 
 			     </p>
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                         </div>
