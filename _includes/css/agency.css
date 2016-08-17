@@ -663,16 +663,18 @@ section#contact {
     background-repeat: no-repeat;
 */
 }
+/*
 section#postcard {
     background-color: #222;
     background-image: url('{{ site.baseurl }}/img/postcard.jpg');
     background-position: center;
     background-repeat: no-repeat;
 }
+*/
 section#contact .section-heading {
   /*  color: #fff; */
 }
-
+/*
 section#contact .form-group {
     margin-bottom: 25px;
 }
@@ -722,7 +724,7 @@ section#contact:-ms-input-placeholder {
     font-weight: 700;
     color: #bbb;
 }
-
+*/
 section#contact .text-danger {
     color: #e74c3c;
 }
