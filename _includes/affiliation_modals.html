@@ -23,6 +23,7 @@
 				    <thead>
 				      <tr>
 					<th class="text-left">Department</th>
+					<th> &nbsp;</th>
 					<th class="text-right">Reference person</th>
 				      </tr>
 				    </thead>
@@ -30,6 +31,7 @@
 				 {% for department in site.tags[post.department] %}
 					<tr>
 					<td class="text-left">{{ department.title }}</td>
+					<td> &nbsp;</td>
 					<td class="text-right">{{ department.reference_person }}</td>
 					</tr>                         
 				{% endfor %} 
