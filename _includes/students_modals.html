@@ -26,25 +26,30 @@
 			    <h3 class="text-muted">{{ keywords }}</h3>
                             <hr class="star-primary">
                             <img src="img/students/{{ post.img }}" class="img-responsive img-centered img-rounded" alt="{{ post.alt }}" width="150px" >
+				<p>
 				{% if university != "" %}
-					I'm a student of the <strong>{{ university }}</strong> and
+					I'm a student of the <strong>{{ university }}</strong><br/>
 				{% endif %}
 				{% if from != "" %}
 			 		I come from <strong>{{ from }}</strong><br/>
 				{% endif %} 
 				{% if research != "" %}
-                             		My research is on <strong>{{ research }}</strong> and
+                             		My research is on <strong>{{ research }}</strong><br/>
 				{% endif %}
 				{% if advisor != "" %}
-					my advisor is <strong>{{ advisor }}</strong>
+					The advisor is <strong>{{ advisor }}</strong><br/>
 				{% endif %}
+				</p>
 				{% if aboutme != "" %}
-                             	<p><strong>Something about me</strong><br/>
+                             	<p><strong>Something about me</strong>
+				<p class="text-justify">
 				{{ aboutme }}				
 				</p>
 				{% endif %}
 				{% if website != "" %}
+				<p>
 				more information <a href="{{ website }}" target="_new">{{ website }}</a>
+				</p>
 				{% endif %}
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                         </div>
