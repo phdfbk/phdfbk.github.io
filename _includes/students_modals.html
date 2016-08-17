@@ -35,11 +35,11 @@
 				{% if research != "" %}
                              		My research is on <strong>{{ research }}</strong> and
 				{% endif %}
-				{% assign advisor = advisor %}
+				{% if advisor != "" %}
 					my advisor is <strong>{{ advisor }}</strong>
 				{% endif %}
 				{% if aboutme != "" %}
-                             	<p><strong>Something about me</strong>
+                             	<p><strong>Something about me</strong><br/>
 				{{ aboutme }}				
 				</p>
 				{% endif %}
