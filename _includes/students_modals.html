@@ -10,31 +10,42 @@
                     </div>
                 </div>
             </div>
+		{% assign research_topic = post.research_topic %}
+		{% assign from = post.from %}
+		{% assign aboutme = post.aboutme %}
+		{% assign advisor = post.advisor %}
+		{% assign research = post.research_topic %}
+		{% assign website = post.website %}
+		{% assign keywords = post.keywords %}
+		{% assign university = post.university %}
             <div class="container">
                 <div class="row">
                     <div class="col-lg-8 col-lg-offset-2">
                         <div class="modal-body">
                             <h2 class="text-capitalize">{{ post.name }} {{post.surname}}</h2>
+			    <h3 class="text-muted">{{ keywords }}</h3>
                             <hr class="star-primary">
-                            <img src="img/students/{{ post.img }}" class="img-responsive img-centered img-rounded" alt="{{ post.alt }}" width="150" >
-                             <p>My research topic:{{ post.research_topic }}</p>
-			      <p>I'm from:{{ post.from }}</p>
-                             <p>Something about me:{{ post.aboutme }}</p>
-                            <p>Advisor:{{ post.advisor }}</p>
-                            <ul class="list-inline item-details">
-                                <li>Website:
-                                    <strong><a href="{{post.website}}" target="_new">{{ post.website }}</a>
-                                    </strong>
-                                </li>
-                                <li>Keywords:
-                                    <strong>{{ post.keywords }}
-                                    </strong>
-                                </li>
-                                <li>University:
-                                    <strong>{{ post.university }}
-                                    </strong>
-                                </li>
-                            </ul>
+                            <img src="img/students/{{ post.img }}" class="img-responsive img-centered img-rounded" alt="{{ post.alt }}" width="150px" >
+				{% if university != "" %}
+					I'm a student of the <strong>{{ university }}</strong> and
+				{% endif %}
+				{% if from != "" %}
+			 		I come from <strong>{{ from }}</strong><br/>
+				{% endif %} 
+				{% if research != "" %}
+                             		My research is on <strong>{{ research }}</strong> and
+				{% endif %}
+				{% assign advisor = advisor %}
+					my advisor is <strong>{{ advisor }}</strong>
+				{% endif %}
+				{% if aboutme != "" %}
+                             	<p><strong>Something about me</strong>
+				{{ aboutme }}				
+				</p>
+				{% endif %}
+				{% if website != "" %}
+				more information <a href="{{ website }}" target="_new">{{ website }}</a>
+				{% endif %}
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                         </div>
                     </div>
