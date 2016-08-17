@@ -16,9 +16,10 @@
 		 	{% assign positions = post.number_of_positions %}
 			{% if positions > 0 %}
                        Number of positions: {{ post.number_of_positions }}<br>
+		       Info: <a href="{{ post.website }}" target="_blank">{{ post.website }}</a><br/><br/>
 			{% else %}
 			<br/><strong>There are currently no open calls. New open calls will be announced in this page as soon as they are available.</strong><br/><br/>
-                       Info<br/><a href="{{ post.website }}" target="_blank">{{ post.website }}</a>  <br/><br/>
+                       Info<br/><a href="{{ post.website }}" target="_blank">{{ post.website }}</a><br/><br/>
                        Closing Date: {{post.closing_date}} </p> 
                  	{% endif %}  
                     
