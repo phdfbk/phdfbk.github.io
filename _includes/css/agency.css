@@ -658,7 +658,7 @@ aside.clients img {
 section#contact {
     background-color: #222;
     background-image: url('{{ site.baseurl }}/img/sfondo.jpg');
-    background-position: center;
+    background-position: right;
     background-repeat: no-repeat;
 }
 section#postcard {
