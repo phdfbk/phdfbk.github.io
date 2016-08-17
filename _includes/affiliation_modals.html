@@ -18,19 +18,19 @@
                             <hr class="star-primary">
                             <img src="img/affiliations/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}" width="200" >
                             <p>{{ post.description }}</p>
- 			   <div class="table-responsive">
+ 			   <div class="table">
 				  <table class="table-hover">
 				    <thead>
 				      <tr>
-					<th>Department</th>
-					<th>Reference person</th>
+					<th class="text-left">Department</th>
+					<th class="text-right">Reference person</th>
 				      </tr>
 				    </thead>
 				    <tbody>
 				 {% for department in site.tags[post.department] %}
 					<tr>
 					<td class="text-left">{{ department.title }}</td>
-					<td clas="text-left">{{ department.reference_person }}</td>
+					<td class="text-right">{{ department.reference_person }}</td>
 					</tr>                         
 				{% endfor %} 
 				    </tbody>
