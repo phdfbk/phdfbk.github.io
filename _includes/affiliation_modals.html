@@ -32,8 +32,8 @@
 				 {% for department in site.tags[post.department] %}
 					<tr>
 					<td class="text-left"><a href="{{ department.website}}" target="_new">{{ department.title }}</a></td>
-					<td>&nbsp;</td>
-					<td class="text-right">{{department.phdschool}}"</td>
+					<td> &nbsp;</td>
+					<td class="text-right">{{department.phdschool_link}}" target="_new">{{ department.phdschool }}</a></td>
 					</tr>                         
 				 {% endfor %} 
 				    </tbody>
