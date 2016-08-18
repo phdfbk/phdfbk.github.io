@@ -18,7 +18,6 @@
 		{% assign website = post.website %}
 		{% assign keywords = post.keywords %}
 		{% assign university = post.university %}
-		{% assign email = post.email %}
             <div class="container">
                 <div class="row">
                     <div class="col-lg-8 col-lg-offset-2">
@@ -32,16 +31,16 @@
                             	<td><img src="img/students/{{ post.img }}" class="img-responsive img-centered img-rounded" alt="{{ post.alt }}" width="150px" ></td>
 				<td>
 				<p class="text-left">
-				{% if university.size > 3 }
+				{% if university != "" or university == " "%}
 					I'm a student of the <strong>{{ university }}</strong><br/>
 				{% endif %}
-				{% if from.size > 3 %}
+				{% if from != "" or from == " "%}
 			 		I come from <strong>{{ from }}</strong><br/>
 				{% endif %} 
-				{% if research.size > 3 %}
+				{% if research != "" or research == " "%}
                              		My research is on <strong>{{ research }}</strong><br/>
 				{% endif %}
-				{% if advisor.size > 3 %}
+				{% if advisor != "" or advisor == " " %}
 					The advisor is <strong>{{ advisor }}</strong><br/>
 				{% endif %}
 				</p>
@@ -49,23 +48,18 @@
 			     	</tr>
 			    </table>
 			     </div>
-				{% if aboutme.size > 3 %}
+				{% if aboutme != "" or aboutme == " "%}
                              	<p><strong>Something about me</strong>
 				<p class="text-justify">
 				{{ aboutme }}				
 				</p>
 				{% endif %}
-				{% if website.size > 3 %}
+				{% if website != "" or website == " "%}
 				<p>
-				More information <a href="{{ website }}" target="_new">{{ website }}</a>
-				{% endif %}
-				{% if email.size > 3 %}
-				<br/>
-				You can contact me by email {{ email }}
+				more information <a href="{{ website }}" target="_new">{{ website }}</a><br/>
+				or simply contact me by email {{ post.email }}
 				</p>
 				{% endif %}
-				<br/>
-				
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                         </div>
                     </div>
@@ -73,6 +67,6 @@
             </div>
         </div>
     </div>
-	{%endif%}
+{%endif%}
 {% endfor %}
 {% endfor %}
