@@ -3,7 +3,6 @@ title: Department of physics
 website: http://www.physics.unitn.it/
 layout: default
 tag: unitn_department
-phdschool: Physics
-phdschool_link: http://web.unitn.it/en/drphys
+phdschool: <a href="http://web.unitn.it/en/drphys">Physics</a>
 reference_person: 
 ---
