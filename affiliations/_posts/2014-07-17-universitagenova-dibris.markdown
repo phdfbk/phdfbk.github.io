@@ -3,7 +3,8 @@ title: Department of informatics, bioengineering, robotics and systems engineeri
 website: http://www.dibris.unige.it/
 layout: default
 tag: unige_department
-phdschool: <a href="http://phd.dibris.unige.it/csse/">Computer Science and Systems Engineering</a>
+phdschool: Computer Science and Systems Engineering
+phdschool_link: http://phd.dibris.unige.it/csse/
 reference_person: Giorgio Delzanno
 
 ---
