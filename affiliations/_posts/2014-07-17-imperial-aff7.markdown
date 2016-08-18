@@ -10,7 +10,7 @@ thumbnail: imperial_thumb.jpg
 alt: Imperial College London, UK
 tag: network
 department: imperial_department
-description: Strong partnership on Computer Science
+description: Strong partnership on Computer Science, in particular with Prof. Alessandra Russo
 order: 7
 
 ---
