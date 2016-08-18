@@ -4,6 +4,6 @@ website: http://www.disi.unitn.it/
 layout: default
 tag: unitn_department
 reference_person: Paolo Giorgini
-phdschool: <a href="http://ict.unitn.it">Information and Communication Technologies</a>
+phdschool: <a href="http://ict.unitn.it" target="_blank">Information and Communication Technologies</a>
 
 ---
