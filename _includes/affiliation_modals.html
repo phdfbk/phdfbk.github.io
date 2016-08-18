@@ -25,7 +25,7 @@
 				      <tr>
 					<th class="text-left">Department</th>
 					<th> &nbsp;</th>
-					<th class="text-right">Reference person</th>
+					<th class="text-right">PhD School</th>
 				      </tr>
 				    </thead>
 				    <tbody>
@@ -33,7 +33,7 @@
 					<tr>
 					<td class="text-left"><a href="{{ department.website}}" target="_new">{{ department.title }}</a></td>
 					<td> &nbsp;</td>
-					<td class="text-right">{{ department.reference_person }}</td>
+					<td class="text-right"><a href="{{phdschool}}" target="_new">{{ department.phdschool }}</a></td>
 					</tr>                         
 				 {% endfor %} 
 				    </tbody>
