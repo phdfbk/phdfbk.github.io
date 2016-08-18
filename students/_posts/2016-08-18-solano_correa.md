@@ -6,13 +6,13 @@ name: Yady Tatiana
 university: University of Trento
 date: 18/08/2016
 aboutme: 
-from: 
+from: Colombia
 research_topic: 
 subtitle: 
-advisor: 
-keywords: 
-website: 
-img: no_picture.jpg
+advisor: Francesca Bovolo
+keywords: Image Processing Pattern recognition Remote sensing image analysis 
+website: https://rsde.fbk.eu/people/profile/solano 
+img: solano.jpg
 thumbnail: no_picture_thumb.jpg
 alt: Yady Tatiana Solano Correa
 modal-id: stud52
