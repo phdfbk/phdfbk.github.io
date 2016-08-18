@@ -57,7 +57,10 @@
 				{% endif %}
 				{% if website.size > 3 %}
 				<p>
-				more information <a href="{{ website }}" target="_new">{{ website }}</a><br/>
+				more information <a href="{{ website }}" target="_new">{{ website }}</a>
+				{% endif %}
+				{% if email.size > 3 %}				
+				<br/>
 				You can contact me by email {{ email }}
 				</p>
 				{% endif %}
