@@ -5,6 +5,6 @@ layout: default
 tag: unitn_department
 reference_person: Paolo Giorgini
 phdschool: Information and Communication Technologies
-phdschoollink: http://ict.unitn.it
+phdschool_link: http://ict.unitn.it
 
 ---
