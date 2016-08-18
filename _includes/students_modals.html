@@ -40,7 +40,7 @@
 				{% if research != "" or research == " "%}
                              		My research is on <strong>{{ research }}</strong><br/>
 				{% endif %}
-				{% if advisor != "" or advisor == " " %}
+				{% if advisor.size > 3 %}
 					The advisor is <strong>{{ advisor }}</strong><br/>
 				{% endif %}
 				</p>
