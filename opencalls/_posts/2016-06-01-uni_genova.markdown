@@ -1,11 +1,11 @@
 ---
-title: Joint call with University of Trento
+title: Joint call with University of Genova
 layout: default
-topic: Information and Communication Technologies
-number_of_positions: 1
-website: http://ict.unitn.it/application/ict_doctoral_school
-closing_date : 5 September 2016
-tag: call_uni
-subtag: uni_trento_call
+topic: Computer Science
+number_of_positions: 2
+website: http://phd.dibris.unige.it/csse/index.php/how-to-apply
+closing_date : 10 June 2016
+tag: call_unige
+subtag: uni_genova_call
 
 ---
