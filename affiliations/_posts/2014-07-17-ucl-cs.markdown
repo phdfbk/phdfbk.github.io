@@ -3,7 +3,8 @@ title: Department of computer science
 website: http://www.cs.ucl.ac.uk/home/
 layout: default
 tag: ucl_department
-phdschool: <a href="http://crest.cs.ucl.ac.uk/about/">Centre for Research in Evolution, Search and Testing</a>
+phdschool: Centre for Research in Evolution, Search and Testing
+phdschool: http://crest.cs.ucl.ac.uk/about/
 reference_person: Mark Harman
 
 ---
