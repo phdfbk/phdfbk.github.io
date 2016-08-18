@@ -3,6 +3,7 @@ title: Department of computer science
 website: http://www.cs.ucl.ac.uk/home/
 layout: default
 tag: ucl_department
+phdschool: http://crest.cs.ucl.ac.uk/about/
 reference_person: Mark Harman
 
 ---
