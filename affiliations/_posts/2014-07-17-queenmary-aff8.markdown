@@ -11,5 +11,6 @@ alt: Queen Mary University, London, UK
 tag: network
 department: queenmary_department
 description: Strong partnership on Computer Science
+order: 8
 
 ---

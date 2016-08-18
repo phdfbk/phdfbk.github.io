@@ -11,5 +11,6 @@ alt: Università degli studi di Bologna
 tag: network
 department: unibo_department
 description: Strong partnership on Electronics, Telecommunications, and Information Technologies Engineering
+order: 3
 
 ---

@@ -11,5 +11,6 @@ alt: Massachusetts Institute of Technology, USA
 tag: network
 department: mit_department
 description: Strong partnership on Computer Science
+order: 9
 
 ---

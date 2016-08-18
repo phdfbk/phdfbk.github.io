@@ -11,5 +11,6 @@ alt: University College London, UK
 tag: network
 department: ucl_department
 description: Strong partnership on Computer Science
+order: 6
 
 ---

@@ -11,5 +11,6 @@ alt: Consorzio delle Università degli Studi di Firenze, Pisa e Siena
 tag: network
 department: unifi_department
 description: Strong partnership on smart computing
+order: 4
 
 ---

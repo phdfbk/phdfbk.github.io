@@ -11,5 +11,5 @@ alt: Università degli studi di Trento
 tag: network
 department: unitn_department
 description: Strong partnership on all topics of ICT, cognitive science, bioinformatics, industrial engineering and physics
-
+order: 1
 ---

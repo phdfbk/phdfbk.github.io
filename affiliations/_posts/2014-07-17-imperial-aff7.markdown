@@ -11,5 +11,6 @@ alt: Imperial College London, UK
 tag: network
 department: imperial_department
 description: Strong partnership on Computer Science
+order: 7
 
 ---
