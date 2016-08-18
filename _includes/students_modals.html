@@ -29,7 +29,7 @@
 			    <div class="table">
 			    <table class="table table-responsive">
 			     <tr>
-                            	<td><img src="img/students/{{ post.img }}" class="img-responsive img-centered img-rounded" alt="{{ post.alt }}" width="150px" ></td>
+                            	<td><img src="img/students/{{ post.img }}" class="img-responsive img-centered img-rounded" alt="{{ post.alt }}" width="1{{ 'barbar' | replace_first:'bar','foo' }} 50px" ></td>
 				<td>
 				<p class="text-left">
 				{% if university.size > 3 %}
@@ -59,9 +59,9 @@
 				<p>
 				more information <a href="{{ website }}" target="_new">{{ website }}</a>
 				{% endif %}
-				{% if email.size > 3 %}				
+				{% if email.size > 3 %}	
 				<br/>
-				You can contact me by email {{ email }}
+				You can contact me by email {{ email | replace_first:'@','<i class="fa fa-at" aria-hidden="true"></i>' }} 
 				</p>
 				{% endif %}
 				<br/><br/>
