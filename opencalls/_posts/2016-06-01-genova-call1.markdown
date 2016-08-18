@@ -1,7 +1,7 @@
 ---
-title: Quantifying Historical Cultural Evolution using Big Data
-applyurl: http://ict.unitn.it/application/project_specific_grants
-advisor: Sara Tonelli, Bruno Lepri
-tag: uni_trento_call
+title: Web testing
+applyurl: 
+advisor: Paolo Tonella, Filippo Ricca
+tag: uni_genova_call
 
 ---
