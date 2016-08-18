@@ -10,7 +10,7 @@ thumbnail: ucl_thumb.jpg
 alt: University College London, UK
 tag: network
 department: ucl_department
-description: Strong partnership with the Software Systems Engineering group, Prof. Mark Harman and with Prof. Emmanuel Letier
+description: Strong partnership with the Software Systems Engineering group, Prof. Mark Harman and Prof. Emmanuel Letier
 order: 6
 
 ---
