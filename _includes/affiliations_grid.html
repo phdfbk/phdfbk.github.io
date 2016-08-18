@@ -8,7 +8,8 @@
                 </div>
             </div>
             <div class="row">
-          {% for post in site.tags['network'] %}
+	  {% assign sorted_pages = tags['network'] | sort:"order" %}
+          {% for post in sorted_pages %}
                 <div class="col-md-4 col-sm-6 portfolio-item">
                     <a href="#affiliationModal{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">
                         <div class="portfolio-hover">
