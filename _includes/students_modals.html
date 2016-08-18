@@ -31,16 +31,16 @@
                             	<td><img src="img/students/{{ post.img }}" class="img-responsive img-centered img-rounded" alt="{{ post.alt }}" width="150px" ></td>
 				<td>
 				<p class="text-left">
-				{% if university != "" or university == " "%}
+				{% if university.size > 3 }
 					I'm a student of the <strong>{{ university }}</strong><br/>
 				{% endif %}
-				{% if from != "" or from == " "%}
+				{% if from.size > 3 %}
 			 		I come from <strong>{{ from }}</strong><br/>
 				{% endif %} 
-				{% if research != "" or research == " "%}
+				{% if research.size > 3 %}
                              		My research is on <strong>{{ research }}</strong><br/>
 				{% endif %}
-				{% if advisor != "" or advisor == " " %}
+				{% if advisor.size > 3 %}
 					The advisor is <strong>{{ advisor }}</strong><br/>
 				{% endif %}
 				</p>
@@ -48,18 +48,23 @@
 			     	</tr>
 			    </table>
 			     </div>
-				{% if aboutme != "" or aboutme == " "%}
+				{% if aboutme.size > 3 %}
                              	<p><strong>Something about me</strong>
 				<p class="text-justify">
 				{{ aboutme }}				
 				</p>
 				{% endif %}
-				{% if website != "" or website == " "%}
+				{% if website.size > 3 %}
 				<p>
-				more information <a href="{{ website }}" target="_new">{{ website }}</a><br/>
-				or simply contact me by email {{ post.email }}
+				More information <a href="{{ website }}" target="_new">{{ website }}</a>
+				{% endif %}
+				{% if post.email.size > 3 %}
+				<br/>
+				You can contact me by email {{ post.email }}
 				</p>
 				{% endif %}
+				<br/>
+				
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                         </div>
                     </div>
