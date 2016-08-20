@@ -15,6 +15,7 @@
 		{% assign aboutme = post.aboutme %}
 		{% assign advisor = post.advisor %}
 		{% assign research = post.research_topic %}
+		{% assign abstract = post.abstract %}
 		{% assign website = post.website %}
 		{% assign research_topic = post.research_topic %}
 		{% assign keywords = post.keywords %}
@@ -46,6 +47,12 @@
 					The advisor is <strong>{{ advisor }}</strong><br/>
 				{% endif %}
 				</p>
+				{% if abstract.size > 3 %}
+				<strong>The abstract of my research</strong>
+				<p class="text-justify">
+				{{ abstract }}
+				</p>
+				{% endif %}
 				</td>
 			     	</tr>
 			    </table>
@@ -56,6 +63,7 @@
 				{{ aboutme }}				
 				</p>
 				{% endif %}
+
 				{% if website.size > 3 %}
 				<p>
 				more information <a href="{{ website }}" target="_new">{{ website }}</a>
