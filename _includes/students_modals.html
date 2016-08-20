@@ -10,14 +10,12 @@
                     </div>
                 </div>
             </div>
-		{% assign research_topic = post.research_topic %}
 		{% assign from = post.from %}
 		{% assign aboutme = post.aboutme %}
 		{% assign advisor = post.advisor %}
 		{% assign research = post.research_topic %}
 		{% assign abstract = post.abstract %}
 		{% assign website = post.website %}
-		{% assign research_topic = post.research_topic %}
 		{% assign keywords = post.keywords %}
 		{% assign university = post.university %}
 		{% assign email = post.email %}
@@ -26,7 +24,7 @@
                     <div class="col-lg-8 col-lg-offset-2">
                         <div class="modal-body">
                             <h2 class="text-capitalize">{{ post.name }} {{post.surname}}</h2>
-			    <h3 class="text-muted text-lowercase"><small>{{ research_topic }}</small></h3>
+			    <h3 class="text-muted text-lowercase"><small>{{ research }}</small></h3>
                             <hr class="star-primary"/>
 			    <div class="table">
 			    <table class="table table-responsive">
