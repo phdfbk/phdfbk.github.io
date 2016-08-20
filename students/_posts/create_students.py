@@ -30,7 +30,7 @@ for row in reader:
         yaml_text += "aboutme: " +  str(row[3].encode('iso-8859-1'))  + "\n"
         yaml_text += "from: " +  str(row[4].encode('iso-8859-1'))  + "\n"
         yaml_text += "research_topic: " +  str(row[5].encode('iso-8859-1'))  + "\n"
-        yaml_text += "subtitle: " + str(row[6].encode('iso-8859-1'))  + "\n"
+        yaml_text += "abstract: " + str(row[6].encode('iso-8859-1'))  + "\n"
         yaml_text += "advisor: "  + str(row[7].encode('iso-8859-1'))  + "\n"
         yaml_text += "keywords: " + str(row[8].encode('iso-8859-1'))  + "\n"
         website = str(row[9].encode('iso-8859-1'))
