@@ -1,5 +1,4 @@
 <!-- students Grid Section -->
-    <!-- section id="students" class="bg-light-gray" -->
     <section id="students" class="bg-light-gray">
         <div class="container">
             <div class="row">
@@ -10,8 +9,9 @@
             </div>
 	</div>
 	<div class="container-fluid">
-         {% assign sorted = site.categories.students | sort: 'surname' %}
+	{% assign sorted = site.categories.students | sort: 'surname' %}
 	{% for post in sorted %}
+	{% if post.modal-it.size > 3 %}
 	  {% assign loopindex = forloop.index0 | modulo: 6 %}
 	  {% if loopindex == 0 or forloop.first %}
 	  <div class="row">
@@ -35,6 +35,7 @@
 	  {% if loopindex == 5 or forloop.last %}
 	  </div><hr/>
 	  {% endif %}
+	{% endif %}
 	{% endfor %}
 
         </div>
