@@ -48,15 +48,15 @@
 					The advisor is <strong>{{ advisor }}</strong><br/>
 				{% endif %}
 				</p>
-				{% if abstract.size > 3 %}
-				<strong class="text-left">Here is an abstract of my research: </strong>
-				<span class="text-justify">
-				{{ abstract }}
-				</span>
-				{% endif %}
 				</td>
 			     	</tr>
 			    </table>
+				{% if abstract.size > 3 %}
+				<strong class="text-left">Here is an abstract of my research: </strong>
+				<p class="text-justify">
+				{{ abstract }}
+				</p>
+				{% endif %}
 			     </div>
 				{% if aboutme.size > 3 %}
                              	<p><strong>Something about me</strong>
