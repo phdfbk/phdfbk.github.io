@@ -1,10 +1,10 @@
 ---
-title: Department of informatics, bioengineering, robotics and systems engineering (DIBRIS)
-website: http://www.dibris.unige.it/
+title: Dipartimento di Studi Umanistici
+website: http://studiumanistici.unipv.it/
 layout: default
-tag: unige_department
-phdschool: Computer Science and Systems Engineering
-phdschool_link: http://phd.dibris.unige.it/csse/
-reference_person: Giorgio Delzanno
+tag: unipv_department
+phdschool: Linguistic Sciences
+phdschool_link: http://www00.unibg.it/struttura/struttura.asp?cerca=DT-SCLIN_intro
+reference_person: Elisabetta Jezek
 
 ---
