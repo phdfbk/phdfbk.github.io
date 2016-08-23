@@ -27,7 +27,7 @@ for row in reader:
         surname =  str(row[0].encode('iso-8859-1'))
         name = str(row[1].encode('iso-8859-1'))
         yaml_text += "id: " + yearmonthday + "-" + surname.replace(" ","_") + "-" + name.replace(" ","_") + "\n"
-        yaml_text += "surname: " +  surname.replace("\n",""), + "\n"
+        yaml_text += "surname: " +  surname.replace("\n","") + "\n"
         yaml_text += "name: " + name  + "\n"
         yaml_text += "university: " + str(row[2].encode('iso-8859-1'))  + "\n"
         yaml_text += "date: " + daymonthyear + "\n"

@@ -3,5 +3,6 @@ mkdir -p old
 mv *.md old
 git pull
 python create_students.py
+git add *.md
 git commit -a -m "update students"
-git push -a
+git push 
