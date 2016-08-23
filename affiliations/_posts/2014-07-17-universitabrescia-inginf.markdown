@@ -1,5 +1,5 @@
 ---
-title: Department of information engineering
+title: Department of information engineering (DII)
 website: http://en.unibs.it/departments/information-engineering
 layout: default
 tag: unibs_department
