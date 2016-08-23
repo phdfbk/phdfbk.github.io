@@ -17,7 +17,7 @@
 		{% assign website = post.website %}
 		{% assign keywords = post.keywords %}
 		{% assign university = post.university %}
-		{% assign email = post.email %}
+		{% assign myemail = post.email %}
 		{% assign chioccola = '<i class="fa fa-at" aria-hidden="true"></i>' %}
             <div class="container">
                 <div class="row">
@@ -71,7 +71,7 @@
 				{% endif %}
 				{% if email.size > 3 %}	
 				<br/>
-				You can contact me by email {{ email | replace_first:'@',chiocciola }} 
+				You can contact me by email {{ myemail | replace_first:'@',chiocciola }} 
 				</p>
 				{% endif %}
 				<br/><br/>
