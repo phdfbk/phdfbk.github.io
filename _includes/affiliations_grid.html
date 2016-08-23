@@ -9,16 +9,10 @@
             </div>
        </div>      
               <div class="container-fluid">
-          
+            <div class="row">
 	  {% assign network_pages = site.tags['network'] %}
-	  {% assign sorted_pages = network_pages | sort:"order" %}
-    {% assign numPages = 0 %}
-          {% for post in sorted_pages %}
-           {% assign loopindex = numPages | modulo: 6 %}
-	 
-	  {% if loopindex == 0 or numPages == 0 %}
-	  <div class="row">
-	  {% endif %}
+	  {% assign sorted_pages = network_pages | sort:"order" %} 
+          {% for post in sorted_pages] %}
                 <div class="col-lg-2 col-md-4 col-sm-4 portfolio-item">
                     <a href="#affiliationModal{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">
                         <div class="portfolio-hover">
@@ -32,12 +26,7 @@
                         <h4 class="text-capitalize text-center">{{ post.title }}</h4>
                         <p class="text-muted">{{ post.kindcontract }}</p>
                     </div>
-                </div>
-    {% if loopindex == 5 or numPages == sorted_pages.size %}
-	    </div><hr/>
-	   {% endif %}
-	  {% assign numPages = numPages | plus: 1 %}
-	 
+                </div> 
             {% endfor %}
             </div>
         </div>
