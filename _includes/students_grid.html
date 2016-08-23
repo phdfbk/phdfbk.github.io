@@ -13,7 +13,7 @@
 	{% assign numPages = 0 %}
 	{% for post in sorted %}
 	  {% assign loopindex = numPages | modulo: 6 %}
-	  {% if loopindex == 0 %}
+	  {% if loopindex == 0 or numPages == 0 %}
 	  <div class="row">
 	  {% endif %}
 	  {% if post.name.size > 3 %}
@@ -33,10 +33,10 @@
 		            </div>
 	  {% endif %}
 		</div>
-	  {% if loopindex == 5 %}
+	  {% if loopindex == 5 or numPages == sorted.size %}
 	  </div><hr/>
 	  {% endif %}
-	{% assign numPages = numPages | plus: 1 %}
+{% assign numPages = numPages | plus: 1 %}
 	{% endfor %}
 
         </div>
