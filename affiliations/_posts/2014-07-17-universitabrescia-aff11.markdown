@@ -5,8 +5,8 @@ kindcontract: agreement with phd school
 layout: default
 modal-id: aff11
 date: 2014-07-16
-img: universitabrescia.jpg 
-thumbnail: universitabrescia_thumb.jpg
+img: universitabrescia.png
+thumbnail: universitabrescia_thumb.png
 alt: Università degli studi di Brescia
 tag: network
 department: unibs_department
