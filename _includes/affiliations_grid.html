@@ -15,7 +15,7 @@
     {% assign numPages = 0 %}
           {% for post in sorted_pages] %}
            {% assign loopindex = numPages | modulo: 6 %}
-	  {% if post.name.size > 3 %}
+	 
 	  {% if loopindex == 0 or numPages == 0 %}
 	  <div class="row">
 	  {% endif %}
