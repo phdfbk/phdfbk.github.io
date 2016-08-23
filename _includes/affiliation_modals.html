@@ -1,5 +1,6 @@
  <!-- Affiliation Modals -->
- {% for post in site.posts.categories.affiliations %}
+{% assign sorted = site.categories.affiliations | sort: 'order' %}
+ {% for post in sorted %}
     <div class="portfolio-modal modal fade" id="affiliationModal{{ post.modal-id }}" tabindex="-1" role="dialog" aria-hidden="true">
         <div class="modal-content">
             <div class="close-modal" data-dismiss="modal">
@@ -44,5 +45,5 @@
             </div>
         </div>
     </div>
- <!-- End Affiliation Modals -->
 {% endfor %}
+ <!-- End Affiliation Modals -->
