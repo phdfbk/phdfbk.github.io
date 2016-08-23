@@ -1,16 +1,16 @@
 ---
-title: Università degli Studi di Genova
+title: Università degli Studi di Brescia
 subtitle: 
-kindcontract: joint phd school
+kindcontract: agreement with phd school
 layout: default
-modal-id: aff5
+modal-id: aff11
 date: 2014-07-16
-img: universitagenova.jpg 
-thumbnail: universitagenova_thumb.jpg
-alt: Università degli studi di Genova
+img: universitabrescia.jpg 
+thumbnail: universitabrescia_thumb.jpg
+alt: Università degli studi di Brescia
 tag: network
-department: unige_department
-description: Strong partnership on Security and Software Engineering, in particular with Prof. Alessandro Armando and Prof. Filippo Ricca
-order: 5
+department: unibs_department
+description: Strong partnership on Computer Science, in particular with Prof. Alfonso Gerevini
+order: 11
 
 ---
