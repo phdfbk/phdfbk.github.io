@@ -12,6 +12,7 @@
           
 	  {% assign network_pages = site.tags['network'] %}
 	  {% assign sorted_pages = network_pages | sort:"order" %}
+    {% assign numPages = 0 %}
           {% for post in sorted_pages] %}
            {% assign loopindex = numPages | modulo: 6 %}
 	  {% if post.name.size > 3 %}
