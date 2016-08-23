@@ -12,7 +12,7 @@
 	{% assign sorted = site.categories.students | sort: 'surname' %}
 	{% for post in sorted %}
 	  {% assign loopindex = forloop.index0 | modulo: 6 %}
-<!-- {{ post }} napo -->
+ {{ post }} <!-- napo -->
 	  {% if loopindex == 0 or forloop.first %}
 	  <div class="row">
 	  {% endif %}
