@@ -10,9 +10,10 @@
 	</div>
 	<div class="container-fluid">
 	{% assign sorted = site.categories.students | sort: 'surname' %}
+	{% assign numPages = 0 %}
 	{% for post in sorted %}
-	  {% assign loopindex = forloop.index0 | modulo: 6 %}
-	  {% if loopindex == 0 or forloop.first %}
+	  {% assign loopindex = numPages | modulo: 6 %}
+	  {% if loopindex == 0 %}
 	  <div class="row">
 	  {% endif %}
 	  {% if post.name.size > 3 %}
@@ -32,9 +33,10 @@
 		            </div>
 	  {% endif %}
 		</div>
-	  {% if loopindex == 5 or forloop.last %}
+	  {% if loopindex == 5 %}
 	  </div><hr/>
 	  {% endif %}
+	{% assign numPages = numPages | plus: 1 %}
 	{% endfor %}
 
         </div>
