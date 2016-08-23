@@ -18,6 +18,7 @@
 		{% assign keywords = post.keywords %}
 		{% assign university = post.university %}
 		{% assign email = post.email %}
+		{% assign chioccola = '<i class="fa fa-at" aria-hidden="true"></i>' %}
             <div class="container">
                 <div class="row">
                     <div class="col-lg-8 col-lg-offset-2">
@@ -38,7 +39,7 @@
 			 		I come from <strong>{{ from }}</strong><br/>
 				{% endif %} 
 				{% if keywords.size > 3 %}
-				<strong>keywords:</strong> {{ keywords }}<br/>
+				keywords: <strong>{{ keywords }}</strong><br/>
 				{% endif %}
 				{% if research.size > 3 %}
                              		My research is on <strong>{{ research }}</strong><br/>
@@ -70,7 +71,7 @@
 				{% endif %}
 				{% if email.size > 3 %}	
 				<br/>
-				You can contact me by email {{ email | replace_first:'@','<i class="fa fa-at" aria-hidden="true"></i>' }} 
+				You can contact me by email {{ email | replace_first:'@',chiocciola }} 
 				</p>
 				{% endif %}
 				<br/><br/>
