@@ -12,8 +12,8 @@ abstract:
 advisor: Garberoglio Giovanni
 keywords: 
 website: http://www.ectstar.eu/people/profile/pedrielli
-img: no_picture.jpg
-thumbnail: no_picture_thumb.jpg
+img: pedrielli.jpg
+thumbnail: pedrielli_thumb.jpg
 alt: Andrea Pedrielli
 modal-id: stud41
 ---

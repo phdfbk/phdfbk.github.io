@@ -12,8 +12,8 @@ abstract: Multimedia content analysis more and more relies on advanced machine l
 advisor: Lanz Oswald
 keywords: Computer Vision, Multimedia, Machine Learning
 website: http://tev.fbk.eu/people/profile/sudhakaran
-img: no_picture.jpg
-thumbnail: no_picture_thumb.jpg
+img: sudhakaran.jpg
+thumbnail: sudhakaran_thumb.jpg
 alt: Swathikiran Sudhakaran
 modal-id: stud48
 ---

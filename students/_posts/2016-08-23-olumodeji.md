@@ -12,8 +12,8 @@ abstract:
 advisor: Lorenzelli Leandro
 keywords: 
 website: https://iris.fbk.eu/it/people/profile/olumodeji
-img: no_picture.jpg
-thumbnail: no_picture_thumb.jpg
+img: olumodeji.jpg
+thumbnail: olumodeji_thumb.jpg
 alt: Olufemi Akindele Olumodeji
 modal-id: stud31
 ---
