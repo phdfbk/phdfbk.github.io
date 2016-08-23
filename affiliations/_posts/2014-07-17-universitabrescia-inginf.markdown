@@ -1,10 +1,10 @@
 ---
-title: Department of informatics, bioengineering, robotics and systems engineering (DIBRIS)
-website: http://www.dibris.unige.it/
+title: Department of information engineering (DII)
+website: http://en.unibs.it/departments/information-engineering
 layout: default
-tag: unige_department
-phdschool: Computer Science and Systems Engineering
-phdschool_link: http://phd.dibris.unige.it/csse/
-reference_person: Giorgio Delzanno
+tag: unibs_department
+phdschool: Information Engineering
+phdschool_link: http://en.unibs.it/education/phd-programmes/engineering/information-engineering
+reference_person: Alfonso Gerevini
 
 ---
