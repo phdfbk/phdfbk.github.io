@@ -17,8 +17,7 @@
 		{% assign website = post.website %}
 		{% assign keywords = post.keywords %}
 		{% assign university = post.university %}
-		{% assign myemail = post.email %}
-		{% assign chioccola = '<i class="fa fa-at" aria-hidden="true"></i>' %}
+		{% assign myemail = post.email |  replace_first:'@','<i class="fa fa-at" aria-hidden="true"></i>'%}
             <div class="container">
                 <div class="row">
                     <div class="col-lg-8 col-lg-offset-2">
@@ -42,7 +41,7 @@
 				keywords: <strong>{{ keywords }}</strong><br/>
 				{% endif %}
 				{% if research.size > 3 %}
-                             		My research is on <strong>{{ research }}</strong><br/>
+					My research is on <strong>{{ research }}</strong><br/>
 				{% endif %}
 				{% if advisor.size > 3 %}
 					The advisor is <strong>{{ advisor }}</strong><br/>
@@ -71,7 +70,7 @@
 				{% endif %}
 				{% if myemail.size > 3 %}	
 				<br/>
-				You can contact me by email {{ myemail | replace_first:'@',chiocciola }} 
+				You can contact me by email {{ myemail }} 
 				</p>
 				{% endif %}
 				<br/><br/>

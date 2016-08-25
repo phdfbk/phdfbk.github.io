@@ -45,6 +45,7 @@ for row in reader:
         if img == "":
             img = "no_picture.jpg"
 	email = str(row[11].encode('iso-8859-1'))
+	email = email.replace('@', '<i class="fa fa-at" aria-hidden="true"></i>') 
         yaml_text += "img: " + img + "\n"
         yaml_text += "thumbnail: " + img.replace('.jpg','') + "_thumb.jpg\n"
 	yaml_text += 'email: ' + email + '\n'

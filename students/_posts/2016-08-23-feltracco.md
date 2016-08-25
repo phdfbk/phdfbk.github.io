@@ -14,7 +14,7 @@ keywords: Lexical Studies, Natural language Processing, Human Language Technolog
 website: https://hlt-nlp.fbk.eu/people/profile/feltracco
 img: feltracco.jpg
 thumbnail: feltracco_thumb.jpg
-email: feltracco@fbk.eu
+email: feltracco<i class="fa fa-at" aria-hidden="true"></i>fbk.eu
 alt: Anna Feltracco
 modal-id: stud16
 ---

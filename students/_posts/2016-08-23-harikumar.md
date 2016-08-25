@@ -14,7 +14,7 @@ keywords: Remote Sensing, Airborne Laser Scanner, LiDAR, Tree Species detection,
 website: https://rsde.fbk.eu/people/profile/harikumar
 img: harikumar.jpg
 thumbnail: harikumar_thumb.jpg
-email: harikumar@fbk.eu
+email: harikumar<i class="fa fa-at" aria-hidden="true"></i>fbk.eu
 alt: Aravind Harikumar
 modal-id: stud24
 ---

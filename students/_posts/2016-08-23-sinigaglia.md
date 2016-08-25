@@ -14,7 +14,7 @@ keywords: Security and Privacy, Authentication Protocols, Strong Auhentication, 
 website: http://st.fbk.eu/people/profile/sinigaglia
 img: sinigaglia.jpg
 thumbnail: sinigaglia_thumb.jpg
-email: sinigaglia@fbk.eu
+email: sinigaglia<i class="fa fa-at" aria-hidden="true"></i>fbk.eu
 alt: Federico Sinigaglia
 modal-id: stud51
 ---

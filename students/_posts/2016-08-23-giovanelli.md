@@ -14,7 +14,7 @@ keywords: Wearable, energy efficiency, embedded systems, smart sensors, sport an
 website: https://e3da.fbk.eu/people/profile/dgiovanelli
 img: giovanelli.jpg
 thumbnail: giovanelli_thumb.jpg
-email: dgiovanelli@fbk.eu
+email: dgiovanelli<i class="fa fa-at" aria-hidden="true"></i>fbk.eu
 alt: Davide Giovanelli
 modal-id: stud23
 ---

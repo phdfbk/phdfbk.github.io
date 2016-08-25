@@ -14,7 +14,7 @@ keywords:
 website: 
 img: no_picture.jpg
 thumbnail: no_picture_thumb.jpg
-email: m.fakhry@unitn.it
+email: m.fakhry<i class="fa fa-at" aria-hidden="true"></i>unitn.it
 alt: Mahmoud Fakhry Mahmoud Abdelraheem
 modal-id: stud2
 ---

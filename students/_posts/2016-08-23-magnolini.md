@@ -14,7 +14,7 @@ keywords:
 website: http://hlt-nlp.fbk.eu/people/profile/magnolini
 img: magnolini.jpg
 thumbnail: magnolini_thumb.jpg
-email: magnolini@fbk.eu
+email: magnolini<i class="fa fa-at" aria-hidden="true"></i>fbk.eu
 alt: Simone Magnolini
 modal-id: stud32
 ---

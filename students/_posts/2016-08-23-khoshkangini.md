@@ -14,7 +14,7 @@ keywords: Gamification, Recommender System, User Preferences, Personalization, C
 website: https://das.fbk.eu/people/profile/khoshkangini
 img: khoshkangini.jpg
 thumbnail: khoshkangini_thumb.jpg
-email: khoshkangini@fbk.eu
+email: khoshkangini<i class="fa fa-at" aria-hidden="true"></i>fbk.eu
 alt: Reza Khoshkangini
 modal-id: stud26
 ---

@@ -14,7 +14,7 @@ keywords: software engineering, software testing, oracle problem
 website: https://se.fbk.eu/people/profile/jahangirova
 img: jahangirova.jpg
 thumbnail: jahangirova_thumb.jpg
-email: jahangirova@fbk.eu
+email: jahangirova<i class="fa fa-at" aria-hidden="true"></i>fbk.eu
 alt: Gunel Jahangirova
 modal-id: stud60
 ---

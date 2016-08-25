@@ -14,7 +14,7 @@ keywords: Machine Translation, Automatic Post editing, Natural language Processi
 website: https://hlt-mt.fbk.eu/people/profile/chatterjee
 img: chatterjee.jpg
 thumbnail: chatterjee_thumb.jpg
-email: chatterjee@fbk.eu
+email: chatterjee<i class="fa fa-at" aria-hidden="true"></i>fbk.eu
 alt: Rajen Chatterjee
 modal-id: stud8
 ---

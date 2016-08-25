@@ -14,7 +14,7 @@ keywords: User-centered Design, Haptic Feedback, Sport Climbing
 website: https://i3.fbk.eu/people/profile/mencarini
 img: mencarini.jpg
 thumbnail: mencarini_thumb.jpg
-email: mencarini@fbk.eu
+email: mencarini<i class="fa fa-at" aria-hidden="true"></i>fbk.eu
 alt: Eleonora Mencarini
 modal-id: stud34
 ---

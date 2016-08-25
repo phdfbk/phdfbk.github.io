@@ -14,7 +14,7 @@ keywords: Legal compliance, Data protection regulation, Formal verification, Att
 website: https://st.fbk.eu/people/profile/siswantoro
 img: siswantoro.jpg
 thumbnail: siswantoro_thumb.jpg
-email: siswantoro@fbk.eu
+email: siswantoro<i class="fa fa-at" aria-hidden="true"></i>fbk.eu
 alt: Hari Siswantoro
 modal-id: stud54
 ---
