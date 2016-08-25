@@ -13,7 +13,6 @@ advisor:
 keywords: 
 website: 
 img: fugattini.jpg
-thumbnail: fugattini_thumb.jpg
 email: silvio.fugattini<i class="fa fa-at" aria-hidden="true"></i>unife.it
 alt: Silvio Fugattini
 modal-id: stud71

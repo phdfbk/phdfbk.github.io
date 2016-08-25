@@ -13,7 +13,6 @@ advisor: Carbone Roberto
 keywords: Security and Privacy, Authentication Protocols, Strong Auhentication, Mobile Security, Security testing, Security Protocol Design Analysis, Security Protocols Testing, Sensible data protection
 website: http://st.fbk.eu/people/profile/sinigaglia
 img: sinigaglia.jpg
-thumbnail: sinigaglia_thumb.jpg
 email: sinigaglia<i class="fa fa-at" aria-hidden="true"></i>fbk.eu
 alt: Federico Sinigaglia
 modal-id: stud51

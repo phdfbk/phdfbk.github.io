@@ -13,7 +13,6 @@ advisor: Falavigna Giuseppe
 keywords: Automatic speech recognition, quality estimation, machine learning
 website: https://hlt-mt.fbk.eu/people/profile/jalalvand
 img: jalalvand.jpg
-thumbnail: jalalvand_thumb.jpg
 email: jalalvand<i class="fa fa-at" aria-hidden="true"></i>fbk.eu
 alt: Shahab Jalalvand
 modal-id: stud25

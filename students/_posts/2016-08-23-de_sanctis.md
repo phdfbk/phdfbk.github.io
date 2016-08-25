@@ -13,7 +13,6 @@ advisor: Pistore Marco
 keywords: Design for Adaptation, Runtime Adaptation, Distributed Adaptive Systems, Incremental Service Composition
 website: https://das.fbk.eu/people/profile/msanctis
 img: de sanctis.jpg
-thumbnail: de sanctis_thumb.jpg
 email: msanctis<i class="fa fa-at" aria-hidden="true"></i>fbk.eu
 alt: Martina De Sanctis
 modal-id: stud14

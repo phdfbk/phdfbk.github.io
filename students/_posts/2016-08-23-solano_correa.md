@@ -13,7 +13,6 @@ advisor: Bovolo Francesca
 keywords: Image Processing Pattern recognition Remote sensing image analysis
 website: https://rsde.fbk.eu/people/profile/solano
 img: solano.jpg
-thumbnail: solano_thumb.jpg
 email: solano<i class="fa fa-at" aria-hidden="true"></i>fbk.eu
 alt: Yady Tatiana Solano Correa
 modal-id: stud50

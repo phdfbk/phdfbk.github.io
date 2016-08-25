@@ -13,7 +13,6 @@ advisor: Serafini Luciano
 keywords: Semantic image interpretation, knowledge extraction, deep learning, semantic clustering
 website: https://dkm.fbk.eu/people/profile/donadello
 img: donadello.jpg
-thumbnail: donadello_thumb.jpg
 email: donadello<i class="fa fa-at" aria-hidden="true"></i>fbk.eu
 alt: Ivan Donadello
 modal-id: stud13

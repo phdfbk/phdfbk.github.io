@@ -13,7 +13,6 @@ advisor: Lanz Oswald
 keywords: Computer Vision, Multimedia, Machine Learning
 website: http://tev.fbk.eu/people/profile/sudhakaran
 img: sudhakaran.jpg
-thumbnail: sudhakaran_thumb.jpg
 email: sudhakaran<i class="fa fa-at" aria-hidden="true"></i>fbk.eu
 alt: Swathikiran Sudhakaran
 modal-id: stud48
