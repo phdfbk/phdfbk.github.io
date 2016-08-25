@@ -14,6 +14,7 @@ keywords:
 website: 
 img: martorelli.jpg
 thumbnail: martorelli_thumb.jpg
+email: martorelli@fbk.eu
 alt: Damiano Martorelli
 modal-id: stud37
 ---

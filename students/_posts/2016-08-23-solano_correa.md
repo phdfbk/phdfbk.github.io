@@ -14,6 +14,7 @@ keywords: Image Processing Pattern recognition Remote sensing image analysis
 website: https://rsde.fbk.eu/people/profile/solano
 img: solano.jpg
 thumbnail: solano_thumb.jpg
+email: solano@fbk.eu
 alt: Yady Tatiana Solano Correa
 modal-id: stud50
 ---

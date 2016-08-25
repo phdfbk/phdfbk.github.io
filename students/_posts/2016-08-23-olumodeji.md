@@ -14,6 +14,7 @@ keywords:
 website: https://iris.fbk.eu/it/people/profile/olumodeji
 img: olumodeji.jpg
 thumbnail: olumodeji_thumb.jpg
+email: olumodeji@fbk.eu
 alt: Olufemi Akindele Olumodeji
 modal-id: stud31
 ---

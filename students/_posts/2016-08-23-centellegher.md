@@ -14,6 +14,7 @@ keywords:
 website: https://mobs.fbk.eu/people/profile/centellegher
 img: centellegher.jpg
 thumbnail: centellegher_thumb.jpg
+email: centellegher@fbk.eu
 alt: Simone Centellegher
 modal-id: stud9
 ---

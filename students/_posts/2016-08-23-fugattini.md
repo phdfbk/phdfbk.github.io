@@ -7,13 +7,14 @@ university: University of Ferrara
 date: 23/08/2016
 aboutme: 
 from: Italy
-research_topic: 
+research_topic: Tecniche avanzate per la realizzazione o la caratterizzazione di dispositivi a semiconduttore
 abstract: 
 advisor: 
 keywords: 
 website: 
-img: no_picture.jpg
-thumbnail: no_picture_thumb.jpg
+img: fugattini.jpg
+thumbnail: fugattini_thumb.jpg
+email: silvio.fugattini@unife.it
 alt: Silvio Fugattini
 modal-id: stud71
 ---

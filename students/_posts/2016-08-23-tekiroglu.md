@@ -14,6 +14,7 @@ keywords: Computational Linguistics, Natural Language Processing, Lexical Semant
 website: https://it.linkedin.com/in/serra-sinem-tekiroğlu-39141317
 img: tekiroglu.jpg
 thumbnail: tekiroglu_thumb.jpg
+email: tekiroglu@fbk.eu
 alt: Serra Sinem Tekiroglu
 modal-id: stud55
 ---

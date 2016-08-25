@@ -14,6 +14,7 @@ keywords:
 website: http://www.ectstar.eu/people/profile/pedrielli
 img: pedrielli.jpg
 thumbnail: pedrielli_thumb.jpg
+email: pedrielli@ectstar.eu
 alt: Andrea Pedrielli
 modal-id: stud41
 ---

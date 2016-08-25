@@ -14,6 +14,7 @@ keywords: Semantic image interpretation, knowledge extraction, deep learning, se
 website: https://dkm.fbk.eu/people/profile/donadello
 img: donadello.jpg
 thumbnail: donadello_thumb.jpg
+email: donadello@fbk.eu
 alt: Ivan Donadello
 modal-id: stud13
 ---
