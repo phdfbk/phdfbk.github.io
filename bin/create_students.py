@@ -1,16 +1,26 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 #from __future__ import unicode_literals
-#from io import StringIO 
+import csv
+from io import StringIO
 import unicodecsv
 import requests
-from cStringIO import StringIO
+#from StringIO import StringIO
 from datetime import datetime
 #from builtins import str, unicode, open
 url_students ="https://docs.google.com/spreadsheets/d/1UJ8eHwcBsdKRjwc6uu2KVhNIn_FSEpLMh6xqMNQ5sUY/pub?gid=191666891&single=true&output=csv"
-r = requests.get(url_students)
-f = StringIO(r.text.encode('iso-8859-1'))
-reader = unicodecsv.reader(f, encoding='iso-8859-1')
+#r = requests.get(url_students)
+#bytes_io = BytesIO(r.text.encode('iso-8859-1'))
+#byte_str = bytes_io.read()
+#text_obj = byte_str.decode('iso-8859-1')
+#f=StringIO(text_obj) 
+#reader = unicodecsv.reader(f, encoding='iso-8859-1')
+
+
+csvfile = open('studenti phd fbk.csv', "r", encoding='iso-8859-1') 
+
+# Save a CSV Reader object.
+reader = csv.reader(csvfile, delimiter=';', quotechar='|')
 k = 0
 for row in reader:
     if k > 0:
@@ -44,10 +54,10 @@ for row in reader:
         img = str(row[10].encode('iso-8859-1'))
         if img == "":
             img = "no_picture.jpg"
-	email = str(row[11].encode('iso-8859-1'))
-	email = email.replace('@', '<i class="fa fa-at" aria-hidden="true"></i>') 
+        email = str(row[11].encode('iso-8859-1'))
+        email = email.replace('@', '<i class="fa fa-at" aria-hidden="true"></i>') 
         yaml_text += "img: " + img + "\n"
-	yaml_text += 'email: ' + email + '\n'
+        yaml_text += 'email: ' + email + '\n'
         yaml_text += "alt: " + name + " " + surname + "\n"
         yaml_text += "modal-id: stud" + str(k) + "\n"
         new_yaml.write(yaml_text + "---\n")
