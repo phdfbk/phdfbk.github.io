@@ -9,7 +9,7 @@ aboutme:
 from: Italy
 research_topic: Tecniche avanzate per la realizzazione o la caratterizzazione di dispositivi a semiconduttore
 abstract: 
-advisor: 
+advisor: Bellutti Pierluigi
 keywords: 
 website: 
 img: fugattini.jpg
