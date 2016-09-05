@@ -1,7 +1,8 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 #from __future__ import unicode_literals
-import csv
+#import csv
+from io import BytesIO
 from io import StringIO
 import unicodecsv
 import requests
@@ -9,18 +10,18 @@ import requests
 from datetime import datetime
 #from builtins import str, unicode, open
 url_students ="https://docs.google.com/spreadsheets/d/1UJ8eHwcBsdKRjwc6uu2KVhNIn_FSEpLMh6xqMNQ5sUY/pub?gid=191666891&single=true&output=csv"
-#r = requests.get(url_students)
-#bytes_io = BytesIO(r.text.encode('iso-8859-1'))
-#byte_str = bytes_io.read()
-#text_obj = byte_str.decode('iso-8859-1')
-#f=StringIO(text_obj) 
-#reader = unicodecsv.reader(f, encoding='iso-8859-1')
+r = requests.get(url_students)
+bytes_io = BytesIO(r.text.encode('iso-8859-1'))
+byte_str = bytes_io.read()
+text_obj = byte_str.decode('iso-8859-1')
+f=StringIO(text_obj) 
+reader = unicodecsv.reader(f, encoding='iso-8859-1')
 
 
-csvfile = open('studenti phd fbk.csv', "r", encoding='iso-8859-1') 
+#csvfile = open('studenti phd fbk.csv', "r", encoding='iso-8859-1') 
 
 # Save a CSV Reader object.
-reader = csv.reader(csvfile, delimiter=';', quotechar='|')
+#reader = csv.reader(csvfile, delimiter=';', quotechar='|')
 k = 0
 for row in reader:
     if k > 0:

@@ -7,7 +7,7 @@ university: University of Trento
 date: 23/08/2016
 aboutme: 
 from: Italy
-research_topic: Numerical simulations on energy storage and deformation of “3D” graphene and related materials
+research_topic: Numerical simulations on energy storage and deformation of "3D" graphene and related materials
 abstract: 
 advisor: Garberoglio Giovanni
 keywords: 
