@@ -26,20 +26,18 @@ with open('alumni phd fbk.csv', newline='', encoding='iso-8859-1') as f:
     k = 0
     for row in reader:
       if k > 0:
-        yearmonthday = datetime.today().strftime('%Y-%m-%d')
-        yearmonthday = "2016-08-23"
-        daymonthyear = datetime.today().strftime('%d/%m/%Y')
-        daymonthyear = "23/08/2016"
-        filename1 = yearmonthday
-        filename2 = row[2].encode('UTF-8').decode('iso-8859-1') 
-        filename = filename1 + "-"+filename2    + ".md"  
+        
+        date = "01-01-"
+        surname =  row[2].encode('UTF-8').decode('iso-8859-1')
+        year = row[5].encode('UTF-8').decode('iso-8859-1') 
+        filename = date+year+"-"+surname    + ".md"  
         new_yaml = open(filename.lower().replace(" ","_"), 'w')
         yaml_text = ""
         yaml_text += "---\n"
         yaml_text += "layout: default \n"
         name = row[1].encode('UTF-8').decode('iso-8859-1')
         surname =  row[2].encode('UTF-8').decode('iso-8859-1') 
-        yaml_text += "id: " + yearmonthday + "-" + surname.replace(" ","_") + "-" + name.replace(" ","_") + "\n"
+     #   yaml_text += "id: " + yearmonthday + "-" + surname.replace(" ","_") + "-" + name.replace(" ","_") + "\n"
         yaml_text += "name: " + name  + "\n"
         yaml_text += "surname: " +  surname.replace("\n","") + "\n"
         yaml_text += "university: " + row[3].encode('UTF-8').decode('iso-8859-1')  + "\n"
