@@ -117,7 +117,8 @@
 			{% endfor %}  
 				} else {
 			{% for group in items_grouped %}
-				$('#list{{group.name}}').hide();
+        if len(group.name)>0
+				 $('#list{{group.name}}').hide();
 			{% endfor %}  
 				$(v).show();
 				}
