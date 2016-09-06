@@ -113,12 +113,15 @@
 			function showAlumniList(v) {
 				if (v == 'all') {
 			{% for group in items_grouped %}
-				$('#list{{group.name}}').show();
+         {% if group.name !=""  %}
+			   	$('#list{{group.name}}').show();
+        {% endif %}
 			{% endfor %}  
 				} else {
-			{% for group in items_grouped %}
-       
-				 $('#list{{group.name}}').hide();
+			{% for group in items_grouped %} 
+       {% if group.name !=""  %}
+				$('#list{{group.name}}').hide();
+         {% endif %}
 			{% endfor %}  
 				$(v).show();
 				}
@@ -126,10 +129,8 @@
 			</script>
 		 	<ul class="breadcrumb">
 				<li>Former PhD students</li>
-			     {% for group in items_grouped %}
-             {% if group.name not "" %}  
-			  	    <li><a href="javascript:showAlumniList('#list{{group.name}}');">{{ group.name}}</a></li>
-               {% endif %}
+			     {% for group in items_grouped %}  
+			  	<li><a href="javascript:showAlumniList('#list{{group.name}}');">{{ group.name}}</a></li>
 			    {% endfor %}
 			    	 <li><a href="javascript:showAlumniList('all');">all</a></li>
 			</ul>
