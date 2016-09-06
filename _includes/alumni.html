@@ -127,8 +127,9 @@
 		 	<ul class="breadcrumb">
 				<li>Former PhD students</li>
 			     {% for group in items_grouped %}
-            if len(group.name)>0  
+             {% if len(group.name)>0 %}  
 			  	    <li><a href="javascript:showAlumniList('#list{{group.name}}');">{{ group.name}}</a></li>
+               {% endif %}
 			    {% endfor %}
 			    	 <li><a href="javascript:showAlumniList('all');">all</a></li>
 			</ul>
