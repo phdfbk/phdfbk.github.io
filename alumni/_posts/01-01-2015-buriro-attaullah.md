@@ -6,5 +6,5 @@ surname: Buriro
 university: University of Trento
 advisor: Armando Alessandro
 year: 2015
-title: 
+title: _empty_
 ---

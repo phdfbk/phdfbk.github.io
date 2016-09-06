@@ -6,5 +6,5 @@ surname: Kalimeri
 university: University of Trento
 advisor: Pianesi Fabio
 year: 2013
-title: Traits
+title: Traits States And Situations Automatic Prediction Of Personality And Situations From Actual Behavior
 ---

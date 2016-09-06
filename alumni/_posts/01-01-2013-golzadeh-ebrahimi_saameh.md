@@ -6,5 +6,5 @@ surname: Golzadeh
 university: University of Trento
 advisor: Omologo Maurizio
 year: 2013
-title: 
+title: _empty_
 ---

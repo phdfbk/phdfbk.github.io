@@ -6,5 +6,5 @@ surname: Kalyanasundaram
 university: University of Trento
 advisor: Cimatti Alessandro
 year: 2009
-title: An efficient
+title: An efficient effective and scalable methodology for formal verification
 ---
