@@ -117,7 +117,7 @@
 			{% endfor %}  
 				} else {
 			{% for group in items_grouped %}
-        if len(group.name)>0
+       
 				 $('#list{{group.name}}').hide();
 			{% endfor %}  
 				$(v).show();
@@ -126,8 +126,9 @@
 			</script>
 		 	<ul class="breadcrumb">
 				<li>Former PhD students</li>
-			     {% for group in items_grouped %}  
-			  	<li><a href="javascript:showAlumniList('#list{{group.name}}');">{{ group.name}}</a></li>
+			     {% for group in items_grouped %}
+            if len(group.name)>0  
+			  	    <li><a href="javascript:showAlumniList('#list{{group.name}}');">{{ group.name}}</a></li>
 			    {% endfor %}
 			    	 <li><a href="javascript:showAlumniList('all');">all</a></li>
 			</ul>
