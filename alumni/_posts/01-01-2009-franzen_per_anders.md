@@ -1,9 +1,0 @@
----
-layout: default 
-name: Mikael
-surname: Franzen Per Anders
-university: University of Trento
-advisor: Cimatti Alessandro
-year: 2009
-title: Efficient Solving of the Satisfiability Modulo Bit-Vectors Problem and Some Extensions to SMT
----
