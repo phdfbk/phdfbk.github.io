@@ -37,14 +37,26 @@ for row in reader:
         yaml_text += "abstract: " + str(row[6].encode('iso-8859-1')).replace("\n","<br/>")  + "\n"
         yaml_text += "advisor: "  + str(row[7].encode('iso-8859-1'))  + "\n"
         yaml_text += "keywords: " + str(row[8].encode('iso-8859-1'))  + "\n"
-        website = str(row[9].encode('iso-8859-1'))
+        website = ""        
+        try:
+            website = str(row[9].encode('iso-8859-1'))
+        except:
+            pass
         if website.lower().find('url') == "-1":
             website = "http://" + website
         yaml_text += "website: "  +   website + "\n"
-        img = str(row[10].encode('iso-8859-1'))
+        img = ""
+        try:
+            img = str(row[10].encode('iso-8859-1'))
+        except:
+            pass
         if img == "":
             img = "no_picture.jpg"
-        email = str(row[11].encode('iso-8859-1'))
+        email = ""
+        try:
+            email = str(row[11].encode('iso-8859-1'))
+        except:
+            pass
         email = email.replace('@', '<i class="fa fa-at" aria-hidden="true"></i>') 
         yaml_text += "img: " + img + "\n"
         yaml_text += 'email: ' + email + '\n'
