@@ -7,7 +7,7 @@ import requests
 from cStringIO import StringIO
 from datetime import datetime
 #from builtins import str, unicode, open
-url_students ="https://docs.google.com/spreadsheets/d/1UJ8eHwcBsdKRjwc6uu2KVhNIn_FSEpLMh6xqMNQ5sUY/pub?gid=2103651667&single=true&output=csv"
+url_students ="https://docs.google.com/spreadsheets/d/1UJ8eHwcBsdKRjwc6uu2KVhNIn_FSEpLMh6xqMNQ5sUY/pub?output=csv"
 r = requests.get(url_students)
 f = StringIO(r.text.encode('iso-8859-1'))
 reader = unicodecsv.reader(f, encoding='iso-8859-1')
@@ -18,16 +18,16 @@ for row in reader:
         yearmonthday = "2016-08-23"
         daymonthyear = datetime.today().strftime('%d/%m/%Y')
         daymonthyear = "23/08/2016"
+        surname =  str(row[0].encode('iso-8859-1')).replace("\n","")
         filename = yearmonthday
         filename += "-" + str(row[0].encode('iso-8859-1')).lower().replace(" ","_") + ".md"
         new_yaml = open(filename, 'w')
         yaml_text = ""
         yaml_text += "---\n"
         yaml_text += "layout: default \n"
-        surname =  str(row[0].encode('iso-8859-1'))
         name = str(row[1].encode('iso-8859-1'))
-        yaml_text += "id: " + yearmonthday + "-" + surname.replace(" ","_") + "-" + name.replace(" ","_") + "\n"
-        yaml_text += "surname: " +  surname.replace("\n","") + "\n"
+        yaml_text += "id: " + yearmonthday + "-" + surname + "-" + name.replace(" ","_") + "\n"
+        yaml_text += "surname: " +  surname + "\n"
         yaml_text += "name: " + name  + "\n"
         yaml_text += "university: " + str(row[2].encode('iso-8859-1'))  + "\n"
         yaml_text += "date: " + daymonthyear + "\n"
