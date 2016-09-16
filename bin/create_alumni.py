@@ -1,11 +1,8 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
-#from __future__ import unicode_literals
-#from io import StringIO 
 import unicodecsv
 import requests
 from cStringIO import StringIO
-from datetime import datetime
 #from builtins import str, unicode, open
 url_alumni ="https://docs.google.com/spreadsheets/d/1UJ8eHwcBsdKRjwc6uu2KVhNIn_FSEpLMh6xqMNQ5sUY/pub?gid=2103651667&single=true&output=csv"
 r = requests.get(url_alumni)

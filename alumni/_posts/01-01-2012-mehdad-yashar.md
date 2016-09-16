@@ -4,7 +4,7 @@ id: 01-01-2012-Mehdad-Yashar
 name: Yashar
 surname: Mehdad
 university: University of Trento
-advisor: Magnini Bernardo
+advisor: Federico Marcello
 year: 2012
 title: Cross-lingual Textual Entailment and Applications
 ---

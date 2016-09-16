@@ -1,13 +1,10 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
-#from __future__ import unicode_literals
-#from io import StringIO 
 import unicodecsv
 import requests
 from cStringIO import StringIO
 from datetime import datetime
-#from builtins import str, unicode, open
-url_students ="https://docs.google.com/spreadsheets/d/1UJ8eHwcBsdKRjwc6uu2KVhNIn_FSEpLMh6xqMNQ5sUY/pub?output=csv"
+url_students ="https://docs.google.com/spreadsheets/d/1UJ8eHwcBsdKRjwc6uu2KVhNIn_FSEpLMh6xqMNQ5sUY/pub?gid=191666891&single=true&output=csv"
 r = requests.get(url_students)
 f = StringIO(r.text.encode('iso-8859-1'))
 reader = unicodecsv.reader(f, encoding='iso-8859-1')
