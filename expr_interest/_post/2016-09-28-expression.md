@@ -1,7 +1,7 @@
 ---
 layout: default
 date: 2016-09-28
-Topic: Natural language program analysis
-Upcoming-call: FBK research internship for MSc student
-Contacts: Roberto Tiella (tiella@fbk.eu), Paolo Tonella (tonella@fbk.eu)
+topic: Natural language program analysis
+upcoming-call: FBK research internship for MSc student
+contacts: Roberto Tiella (tiella@fbk.eu), Paolo Tonella (tonella@fbk.eu)
 ---
