@@ -9,12 +9,13 @@
             </div> 
             
       <div class="row">
-      If you are interested in the following research topics, send your expression of interest to the contact persons6:
+      If you are interested in the following research topics, send your expression of interest to the contact persons7:
       {% assign exprinter = site.categories.expr_interest %}
-       {% for post in exprinter %}
+      	{% assign sorted = site.categories.students | sort: 'surname' %}
+       {% for post in sorted %}
           <div class="col-lg-12 text-center" style="background:#f7f7f7;border-radius:3px; padding:3px;">
                       
-                           
+                         <h5 class="text-capitalize text-center">{{ post.name }} {{ post.surname }}</h5>   
                        <p> Topic: {{ post.topic }}<br> 
                         Upcoming call:{{ post.upcoming-call }}<br>  
                         Contact: {{ post.contact }}  </p>
