@@ -10,7 +10,7 @@
             
       <div class="row">
       If you are interested in the following research topics, send your expression of interest to the contact persons:
-      {% expr_interest = site.categories.expr_interest %}
+      {% assign expr_interest = site.categories.expr_interest %}
        {% for post in expr_interest %}
           <div class="col-lg-12 text-center" style="background:#f7f7f7;border-radius:3px; padding:3px;">
                         <h3>{{ post.title }}</h3>
