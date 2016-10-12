@@ -15,5 +15,5 @@ website: https://tev.fbk.eu/people/profile/aravecchia
 img: aravecchia.jpg
 email: aravecchia<i class="fa fa-at" aria-hidden="true"></i>fbk.eu
 alt: Manuel Aravecchia
-modal-id: stud46
+modal-id: stud86
 ---
