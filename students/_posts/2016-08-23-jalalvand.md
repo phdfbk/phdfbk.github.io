@@ -15,5 +15,5 @@ website: https://hlt-mt.fbk.eu/people/profile/jalalvand
 img: jalalvand.jpg
 email: jalalvand<i class="fa fa-at" aria-hidden="true"></i>fbk.eu
 alt: Shahab Jalalvand
-modal-id: stud47
+modal-id: stud42
 ---
