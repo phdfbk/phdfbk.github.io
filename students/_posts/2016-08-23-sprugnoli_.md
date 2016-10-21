@@ -8,7 +8,7 @@ date: 23/08/2016
 aboutme: 
 from: Italy
 research_topic: Temporal Processing of Historical Texts
-abstract: Temporal processing has recently become an active area of research because the extraction of temporal information (e.g. temporal expressions, events, temporal relations) from text is a fundamental component of many Human Language Technologies applications. So far temporal processing has been extensively applied only to the news domain: however the recognition and elaboration of temporal information is a crucial step also when dealing with History-related matters. Finding new approaches to the identification of this information in historical texts can assist historians in enhancing their work and can have an impact both on Natural Language Processing and on Digital Humanities research.
+abstract: Temporal processing has recently become an active area of research because the extraction of temporal information (e.g. temporal expressions, events, temporal relations) from text is a fundamental component of many Human Language Technologies applications. So far temporal processing has been extensively applied only to the news domain however the recognition and elaboration of temporal information is a crucial step also when dealing with History-related matters. Finding new approaches to the identification of this information in historical texts can assist historians in enhancing their work and can have an impact both on Natural Language Processing and on Digital Humanities research.
 advisor: Tonelli Sara
 keywords: Natural Language Processing, Digital Humanities, Temporal Information Processing
 website: https://dh.fbk.eu/people/profile/sprugnoli
