@@ -15,5 +15,5 @@ website: https://e3da.fbk.eu/people/profile/dgiovanelli
 img: giovanelli.jpg
 email: dgiovanelli<i class="fa fa-at" aria-hidden="true"></i>fbk.eu
 alt: Davide Giovanelli
-modal-id: stud34
+modal-id: stud35
 ---

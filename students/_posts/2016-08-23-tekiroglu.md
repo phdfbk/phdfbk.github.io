@@ -15,5 +15,5 @@ website: https://it.linkedin.com/in/serra-sinem-tekiroğlu-39141317
 img: tekiroglu.jpg
 email: tekiroglu<i class="fa fa-at" aria-hidden="true"></i>fbk.eu
 alt: Serra Sinem Tekiroglu
-modal-id: stud81
+modal-id: stud82
 ---
