@@ -264,6 +264,21 @@ fieldset[disabled] .btn-xl.active {
     }
 }
 
+#videobackground {
+position: fixed;
+    top: 50%;
+    left: 50%;
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    z-index: -100;
+    -webkit-transform: translateX(-50%) translateY(-50%);
+    transform: translateX(-50%) translateY(-50%);
+    background: url(polina.jpg) no-repeat;
+    background-size: cover;
+}
+
 header {
     text-align: center;
     color: #fff;
@@ -277,6 +292,7 @@ header {
     background-size: cover;
     -o-background-size: cover;
 }
+
 
 header .intro-text {
     padding-top: 100px;
