@@ -3,15 +3,6 @@
  * Code licensed under the Apache License v2.0.
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
-.modal-dialog {
-  width: 98%;
-  height: 92%;
-  padding: 0;
-}
-
-.modal-content {
-  height: 99%;
-}
 
 body {
     overflow-x: hidden;
