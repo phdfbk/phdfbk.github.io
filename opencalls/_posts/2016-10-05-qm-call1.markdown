@@ -1,7 +1,0 @@
----
-title: Computer vision and audio processing for people monitoring in multi-camera multi-microphone environments
-applyurl: http://www.jobs.ac.uk/job/AUO479/phd-studentships-in-audio-visual-intelligent-sensing
-advisor: Oswald Lanz, Maurizio Omologo
-tag: queen_mary_call
-
----
