@@ -7,7 +7,7 @@ university: University of Trento
 date: 23/08/2016
 aboutme: 
 from: 
-research_topic: 
+research_topic: Functional split in 5g networks
 abstract: 
 advisor: Roberto Riggio
 keywords: 

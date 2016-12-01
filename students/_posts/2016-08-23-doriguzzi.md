@@ -7,7 +7,7 @@ university: University of Bologna
 date: 23/08/2016
 aboutme: 
 from: Italy
-research_topic: 
+research_topic: Methods and Techniques for Dynamic deployability of SDN/NFV systems
 abstract: 
 advisor: Domenico Siracusa
 keywords: 

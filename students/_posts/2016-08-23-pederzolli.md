@@ -7,7 +7,7 @@ university: University of Trento
 date: 23/08/2016
 aboutme: 
 from: Italy
-research_topic: 
+research_topic: Control and management of next generation transport networks
 abstract: 
 advisor: Domenico Siracusa
 keywords: 
