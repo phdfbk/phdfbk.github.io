@@ -6,7 +6,7 @@ name: Davit
 university: University of Trento
 date: 23/08/2016
 aboutme: 
-from: 
+from: Armenia
 research_topic: Functional split in 5g networks
 abstract: 
 advisor: Roberto Riggio

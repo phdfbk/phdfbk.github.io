@@ -6,7 +6,7 @@ name: Babak
 university: University of Trento
 date: 23/08/2016
 aboutme: 
-from: 
+from: Iran
 research_topic: Centralized vs distributed Self-Organizing Network features in 5G Small Cell networks
 abstract: 
 advisor: Leonardo Goratti

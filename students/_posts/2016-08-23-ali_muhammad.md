@@ -6,7 +6,7 @@ name: Salek
 university: University of Bologna
 date: 23/08/2016
 aboutme: 
-from: 
+from: Pakistan
 research_topic: Application of blockchain technologies to the Internet of Things
 abstract: 
 advisor: Fabio Antonelli
