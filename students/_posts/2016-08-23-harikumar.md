@@ -15,5 +15,5 @@ website: https://rsde.fbk.eu/people/profile/harikumar
 img: harikumar.jpg
 email: harikumar<i class="fa fa-at" aria-hidden="true"></i>fbk.eu
 alt: Aravind Harikumar
-modal-id: stud40
+modal-id: stud39
 ---

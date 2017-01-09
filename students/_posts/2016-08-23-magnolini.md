@@ -15,5 +15,5 @@ website: http://hlt-nlp.fbk.eu/people/profile/magnolini
 img: magnolini.jpg
 email: magnolini<i class="fa fa-at" aria-hidden="true"></i>fbk.eu
 alt: Simone Magnolini
-modal-id: stud47
+modal-id: stud46
 ---

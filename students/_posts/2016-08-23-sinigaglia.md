@@ -15,5 +15,5 @@ website: http://st.fbk.eu/people/profile/sinigaglia
 img: sinigaglia.jpg
 email: sinigaglia<i class="fa fa-at" aria-hidden="true"></i>fbk.eu
 alt: Federico Sinigaglia
-modal-id: stud75
+modal-id: stud74
 ---

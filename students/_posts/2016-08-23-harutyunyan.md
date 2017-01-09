@@ -15,5 +15,5 @@ website:
 img: no_picture.jpg
 email: 
 alt: Davit Harutyunyan
-modal-id: stud92
+modal-id: stud91
 ---
