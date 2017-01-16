@@ -6,5 +6,5 @@ surname: Eshete Birhanu
 university: University of Trento
 advisor: Villafiorita Monteleone Adolfo
 year: 2013
-title: Effective Analysis
+title: Effective Analysis Characterization and Detection of Malicious Activities on the Web
 ---

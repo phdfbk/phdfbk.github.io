@@ -1,8 +1,8 @@
 ---
 layout: default 
-id: 01-01-2009-Franzen_Per_Anders-Mikael
+id: 01-01-2009-Franzén_Per_Anders-Mikael
 name: Mikael
-surname: Franzen Per Anders
+surname: Franzén Per Anders
 university: University of Trento
 advisor: Cimatti Alessandro
 year: 2009

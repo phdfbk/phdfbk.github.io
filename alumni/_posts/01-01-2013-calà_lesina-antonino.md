@@ -1,8 +1,8 @@
 ---
 layout: default 
-id: 01-01-2013-Calà_Lesino-Antonino
+id: 01-01-2013-Calà_Lesina-Antonino
 name: Antonino
-surname: Calà Lesino
+surname: Calà Lesina
 university: University of Trento
 advisor: Vaccari Alessandro
 year: 2013
