@@ -29,7 +29,7 @@ for row in reader:
         yaml_text += "university: " + str(row[3].encode('iso-8859-1'))  + "\n"
         yaml_text += "advisor: "  + str(row[4].encode('iso-8859-1'))  + "\n"
         yaml_text += "year: " + str(row[5].encode('iso-8859-1'))  + "\n"
-        yaml_text += "title: " + str(row[6].encode('iso-8859-1')).replace("\n","<br/>")  + "\n"
+        yaml_text += "title: " + str(row[6].encode('iso-8859-1')).replace("\n","<br/>").replace(":", "&#58;")  + "\n"
         new_yaml.write(yaml_text + "---\n")
         new_yaml.close()
     k += 1
