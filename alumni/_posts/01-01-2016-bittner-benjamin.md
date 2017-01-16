@@ -1,5 +1,5 @@
 ---
-layout: default 
+layout: default
 id: 01-01-2016-Bittner-Benjamin
 name: Benjamin
 surname: Bittner
