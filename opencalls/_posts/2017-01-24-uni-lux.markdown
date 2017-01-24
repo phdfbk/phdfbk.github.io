@@ -1,7 +1,7 @@
 ---
 title: Joint call with University of Luxembourg
 layout: default
-topic: Faculty of Language and Literature, Humanities, Arts and Education
+topic: Social sciences
 number_of_positions: 1
 website: http://wwwen.uni.lu/flshase
 closing_date : February 15th, 2017
