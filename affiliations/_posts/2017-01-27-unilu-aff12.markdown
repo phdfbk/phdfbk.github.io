@@ -5,7 +5,7 @@ kindcontract: agreement with phd school
 layout: default
 modal-id: aff12
 date: 2017-01-27
-img: unilu.png
+img: unilu.jpg
 thumbnail: unilu_thumb.jpg
 alt: University of Luxembourg
 tag: network
