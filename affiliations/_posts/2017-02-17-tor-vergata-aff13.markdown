@@ -1,5 +1,5 @@
 ---
-title: Universita' degli Studi di Roma "Tor Vergata"
+title: Università degli Studi di Roma "Tor Vergata"
 subtitle: 
 kindcontract: agreement with phd school
 layout: default
