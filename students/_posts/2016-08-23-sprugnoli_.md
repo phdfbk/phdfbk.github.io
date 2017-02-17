@@ -15,5 +15,5 @@ website: https://dh.fbk.eu/people/profile/sprugnoli
 img: sprugnoli.jpg
 email: sprugnoli<i class="fa fa-at" aria-hidden="true"></i>fbk.eu
 alt: Rachele Sprugnoli 
-modal-id: stud77
+modal-id: stud108
 ---

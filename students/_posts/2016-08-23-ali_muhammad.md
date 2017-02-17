@@ -13,7 +13,7 @@ advisor: Fabio Antonelli
 keywords: 
 website: 
 img: no_picture.jpg
-email: 
+email: ms.ali<i class="fa fa-at" aria-hidden="true"></i>fbk.eu
 alt: Salek Ali Muhammad
-modal-id: stud97
+modal-id: stud7
 ---

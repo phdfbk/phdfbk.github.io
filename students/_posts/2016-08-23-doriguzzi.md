@@ -13,7 +13,7 @@ advisor: Domenico Siracusa
 keywords: 
 website: 
 img: no_picture.jpg
-email: 
+email: rdoriguzzi<i class="fa fa-at" aria-hidden="true"></i>fbk.eu
 alt: Roberto Doriguzzi
-modal-id: stud95
+modal-id: stud35
 ---

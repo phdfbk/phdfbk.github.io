@@ -13,7 +13,7 @@ advisor: Leonardo Goratti
 keywords: 
 website: 
 img: no_picture.jpg
-email: 
+email: b.mafakheri<i class="fa fa-at" aria-hidden="true"></i>fbk.eu
 alt: Babak Mafakheri
-modal-id: stud96
+modal-id: stud68
 ---
