@@ -10,7 +10,7 @@ thumbnail: tor-vergata.png
 alt: Universita' degli Studi di Roma "Tor Vergata"
 tag: network
 department: torvergata_department
-description: Strong partnership on Physics
+description: Strong partnership on Chemistry of Materials
 order: 13
 
 ---
