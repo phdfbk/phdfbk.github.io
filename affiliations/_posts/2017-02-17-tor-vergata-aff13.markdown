@@ -5,7 +5,7 @@ kindcontract: agreement with phd school
 layout: default
 modal-id: aff13
 date: 2017-02-17
-img: tor-vergata.jpg
+img: tor-vergata.png
 thumbnail: tor-vergata.png
 alt: Universita' degli Studi di Roma "Tor Vergata"
 tag: network
