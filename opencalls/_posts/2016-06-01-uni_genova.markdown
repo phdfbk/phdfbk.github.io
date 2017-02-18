@@ -5,7 +5,7 @@ topic: Computer Science
 number_of_positions: 1
 website: http://www.eecs.qmul.ac.uk
 closing_date : May 15th, 2017
-tag: call_qm
+tag: call_genova
 subtag: uni_genova_call
 
 ---
