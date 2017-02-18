@@ -6,6 +6,6 @@ number_of_positions: 1
 website: http://www.eecs.qmul.ac.uk
 closing_date : May 15th, 2017
 tag: call_uni
-subtag: qm_call1
+subtag: call_uni_qm
 
 ---
