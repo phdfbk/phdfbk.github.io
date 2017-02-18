@@ -1,11 +1,11 @@
 ---
-title: Joint call with Queen Mary University, London, UK
+title: Joint call with Queen Mary University, London
 layout: default
 topic: Computer Science
 number_of_positions: 1
 website: http://www.eecs.qmul.ac.uk
 closing_date : May 15th, 2017
-tag: call_uni
+tag: call_qm
 subtag: uni_genova_call
 
 ---
