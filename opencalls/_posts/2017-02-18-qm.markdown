@@ -3,7 +3,7 @@ title: Joint call with Queen Mary University, London, UK
 layout: default
 topic: Deep Learning for Mobile Camera Networks
 number_of_positions: 1
-website: http://www.jobs.ac.uk/job/AXL350/phd-studentship-deep-learning-for-mobile-camera-networks
+website: http://www.eecs.qmul.ac.uk
 closing_date : May 15th, 2017
 tag: call_qm
 subtag: qm_call
