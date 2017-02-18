@@ -1,7 +1,7 @@
 ---
 title: Deep Learning for Mobile Camera Networks
-applyurl: http://phd.dibris.unige.it/csse/index.php/how-to-apply/themes/research-projects#ricca
-advisor: Paolo Tonella, Filippo Ricca
+applyurl: http://www.jobs.ac.uk/job/AXL350/phd-studentship-deep-learning-for-mobile-camera-networks
+advisor: Andrea Cavallaro (Queen Mary), Oswald Lanz (FBK)
 tag: uni_genova_call
 
 ---
