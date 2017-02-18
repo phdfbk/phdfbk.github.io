@@ -1,7 +1,7 @@
 ---
 title: Joint call with Queen Mary University, London, UK
 layout: default
-topic: Deep Learning for Mobile Camera Networks
+topic: Computer Science
 number_of_positions: 1
 website: http://www.eecs.qmul.ac.uk
 closing_date : May 15th, 2017
