@@ -1,5 +1,5 @@
 ---
-title: Joint call with Queen Mary University, London, UK
+title: Joint call with Queen Mary University, London
 layout: default
 topic: Computer Science
 number_of_positions: 1
