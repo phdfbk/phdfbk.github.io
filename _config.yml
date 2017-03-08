@@ -54,6 +54,7 @@ address:
   - line: 38122 Povo(TN) Italy
 
 # Build settings
+highlighter: true
 markdown: kramdown
 permalink: pretty
 encoding: utf-8
