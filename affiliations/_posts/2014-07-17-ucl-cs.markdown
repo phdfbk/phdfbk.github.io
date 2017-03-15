@@ -1,0 +1,10 @@
+---
+title: Department of computer science
+website: http://www.cs.ucl.ac.uk/home/
+layout: default
+tag: ucl_department
+phdschool: Software Systems Engineering Group
+phdschool_link: http://sse.cs.ucl.ac.uk/introduction/
+reference_person: Mark Harman
+
+---

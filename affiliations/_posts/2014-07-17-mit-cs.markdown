@@ -1,0 +1,10 @@
+---
+title: Media Lab
+website: https://www.media.mit.edu
+layout: default
+tag: mit_department
+phdschool:
+phdschool_link:
+reference_person: 
+
+---
