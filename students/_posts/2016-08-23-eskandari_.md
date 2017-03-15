@@ -1,6 +1,6 @@
 ---
 layout: default 
-id: 2016-08-23-Eskandari -Mojtaba
+id: 2016-08-23-Eskandari-Mojtaba
 surname: Eskandari 
 name: Mojtaba
 university: University of Trento
@@ -15,5 +15,5 @@ website: http://www.secentis.eu/people
 img: Mojtaba.jpg
 email: eskandari<i class="fa fa-at" aria-hidden="true"></i>fbk.eu
 alt: Mojtaba Eskandari 
-modal-id: stud38
+modal-id: stud37
 ---
