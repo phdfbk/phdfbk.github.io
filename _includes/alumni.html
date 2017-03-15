@@ -121,49 +121,5 @@
                             </div>
                         </li>
                     </ul>
-		<div class="container">
- 		{% assign items_grouped = (site.categories.alumni | group_by: 'year'| sort: 'year')  %}
-			<script language="javascript">
-			function showAlumniList(v) {
-				if (v == 'all') {
-			{% for group in items_grouped %}
-         {% if group.name !=""  %}
-			   	$('#list{{group.name}}').show();
-        {% endif %}
-			{% endfor %}  
-				} else {
-			{% for group in items_grouped %} 
-       {% if group.name !=""  %}
-				$('#list{{group.name}}').hide();
-         {% endif %}
-			{% endfor %}  
-				$(v).show();
-				}
-			}
-			</script>
-		 	<ul class="breadcrumb">
-				<li>Full alumni list:</li>
-			     {% for group in items_grouped %}  
-			  	<li><a href="javascript:showAlumniList('#list{{group.name}}');">{{ group.name}}</a></li>
-			    {% endfor %}
-			    	 <li><a href="javascript:showAlumniList('all');">all</a></li>
-			</ul>
-			    {% for group in items_grouped %}  
-			     <div class="collapse" id="list{{group.name}}">
-				<hr>
-				<h4>Students who graduated in {{ group.name}}</h4>
-			      	{% assign items = group.items | sort: 'surname'  %}
-				{% for post in items %}
-				<div style="background:#ecf0f1;border-radius:3px; padding:3px;">
-				        <h5 class="text-capitalize">{{ post.name }} {{ post.surname }}</h5>
-				        <em>{{ post.title }}</em>
-				        <p>Advisor: {{ post.advisor }}<br>
-				           {{ post.university }}</p>  
-				 </div>
-				<br/>
-				{% endfor %}
-			     </div>
-	    		   {% endfor %}
-		</div>
 	</div>
     </section>
