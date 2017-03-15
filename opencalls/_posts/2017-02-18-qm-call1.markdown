@@ -1,7 +1,7 @@
 ---
 title: Deep Learning for Mobile Camera Networks
 applyurl: http://www.jobs.ac.uk/job/AXL350/phd-studentship-deep-learning-for-mobile-camera-networks
-advisor: Andrea Cavallaro (Queen Mary), OswaldLanz (FBK)
-tag: call_uni_qm
+advisor: Andrea Cavallaro (Quenn Mary), OswaldLanz (FBK)
+tag: call_qm
 
 ---
