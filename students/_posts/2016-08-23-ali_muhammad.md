@@ -15,5 +15,5 @@ website:
 img: no_picture.jpg
 email: ms.ali<i class="fa fa-at" aria-hidden="true"></i>fbk.eu
 alt: Salek Ali Muhammad
-modal-id: stud7
+modal-id: stud6
 ---
