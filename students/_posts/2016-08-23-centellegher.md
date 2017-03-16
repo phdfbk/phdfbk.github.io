@@ -15,5 +15,5 @@ website: https://mobs.fbk.eu/people/profile/centellegher
 img: centellegher.jpg
 email: centellegher<i class="fa fa-at" aria-hidden="true"></i>fbk.eu
 alt: Simone Centellegher
-modal-id: stud22
+modal-id: stud23
 ---
