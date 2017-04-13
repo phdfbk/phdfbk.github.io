@@ -10,7 +10,7 @@ from: Poland
 research_topic: Investigation of techniques to improve requirements and architectural decisions during the development and evolution of complex software systems
 abstract: 
 advisor: Perini Anna
-keywords: 
+keywords: Software engineering, requirement engineering, decision support system, machine learning
 website: 
 img: dabrowski.jpg
 email: dabrowski<i class="fa fa-at" aria-hidden="true"></i>fbk.eu
