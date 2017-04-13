@@ -1,6 +1,6 @@
 ---
 layout: default 
-id: 01-01-2013-Chowdhury-Md._Faisal_Mahbub
+id: 01-01-2013-Chowdhury-Md_Faisal_Mahbub
 name: Md Faisal Mahbub
 surname: Chowdhury
 university: University of Trento
