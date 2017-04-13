@@ -7,7 +7,31 @@
                     <h3 class="section-subheading text-muted">Apply for a PhD at FBK through one of our affiliated universities</h3>
                 </div>
             </div> 
-            
+ 
+ 
+ 
+ 
+ <div class="row">
+      <p class="col-lg-12 text-center" style="background:#f7f7f7;border-radius:3px; padding:3px;"> 
+	     <h3>Call For Internship Students</h3>
+      {% assign calls4internship = site.categories.calls4internship %}
+
+       {% for post in calls4internship %}
+          <div class="col-lg-12 text-center" style="background:#f7f7f7;border-radius:3px; padding:3px;">
+                       <p>
+                        Title: {{ post.title }}  <br>
+                        Tutor: {{ post.tutor }}  <br>
+                        Duration: {{ post.duration }}  <br>
+                        Url:{{ post.url }}<br>  
+                        Abstract: {{ post.abstract }}  </p>
+            </div>
+          {% endfor %}  
+      </div> 
+ 
+ 
+ 
+ 
+ <hr>           
 	    <div class="row">
 	    {% assign opencalls = site.tags['call_uni'] %}
 	    {% if opencalls.size > 0 %}
