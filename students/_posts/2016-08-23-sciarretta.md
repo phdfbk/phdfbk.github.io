@@ -5,7 +5,7 @@ surname: Sciarretta
 name: Giada
 university: University of Trento
 date: 23/08/2016
-aboutme: 
+aboutme: I have received my MSc in mathematics at the University of Trento, Italy. I am currently pursuing a PhD in computer science at the University of Trento and working at the Security & Trust research unit of Fondazione Bruno Kessler on a project related to digital identity and access management for mobile applications.
 from: Italy
 research_topic: Security and Privacy of Mobile Applications&#58; Authentication and Authorization
 abstract: 

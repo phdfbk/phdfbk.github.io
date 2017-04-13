@@ -5,7 +5,7 @@ surname: Olumodeji
 name: Olufemi Akindele
 university: University of Trento
 date: 23/08/2016
-aboutme: 
+aboutme: Olufemi Akindele Olumodeji received his Bachelors degree in Network & Telecommunication and his Masters degree in Microelectronic in 2011 and 2013 respectively. He is currently a PhD candidate at IRIS unit of FBK where he has been investigating novel electronic circuits for memristors which combine resistive and memory properties. His research interests are in the field of memristor-based anologue circuit applications.
 from: Nigeria
 research_topic: Memristor-based computing architectures with advanced signal processing capabilities
 abstract: 
