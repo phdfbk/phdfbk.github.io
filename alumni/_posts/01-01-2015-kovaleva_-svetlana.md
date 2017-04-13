@@ -6,5 +6,5 @@ surname: Kovaleva
 university: University of Trento
 advisor: Rettore Enrico
 year: 2015
-title: Entrepreneurial Behavior is Still a Black Box. Three Essays on How Entrepreneurial Learning and Perceptions Can Influence Entrepreneurial Behavior and Firm Performance
+title: Entrepreneurial Behavior is Still a Black Box  Three Essays on How Entrepreneurial Learning and Perceptions Can Influence Entrepreneurial Behavior and Firm Performance
 ---
