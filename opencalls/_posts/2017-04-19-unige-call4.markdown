@@ -1,5 +1,5 @@
 ---
-title: Data protection and privacy: process, technical, and regulatory issues
+title: Data protection and privacy&#58; process, technical, and regulatory issues
 applyurl: http://phd.dibris.unige.it/csse/index.php/how-to-apply
 advisor: Silvio Ranise
 tag: call_unige
