@@ -1,5 +1,5 @@
 ---
-title: Joint call with University of Genova, Italy
+title: Joint PhD call with University of Genova, Italy
 layout: default
 topic: Computer Science
 number_of_positions: 4
