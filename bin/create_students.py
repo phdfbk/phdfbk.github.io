@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 import unicodecsv
 import requests
+import cgi
 from cStringIO import StringIO
 from datetime import datetime
 url_students ="https://docs.google.com/spreadsheets/d/1UJ8eHwcBsdKRjwc6uu2KVhNIn_FSEpLMh6xqMNQ5sUY/pub?gid=191666891&single=true&output=csv"
@@ -28,15 +29,15 @@ for row in reader:
         yaml_text += "name: " + name  + "\n"
         yaml_text += "university: " + str(row[2].encode('iso-8859-1'))  + "\n"
         yaml_text += "date: " + daymonthyear + "\n"
-        yaml_text += "aboutme: " +  str(row[3].encode('iso-8859-1')).replace("\n","<br/>")  + "\n"
-        yaml_text += "from: " +  str(row[4].encode('iso-8859-1'))  + "\n"
-        yaml_text += "research_topic: " +  str(row[5].encode('iso-8859-1')). replace(":", "&#58;")  + "\n"
+        yaml_text += "aboutme: " +  cgi.escape(str(row[3].encode('iso-8859-1'))).replace("\n","<br/>").replace(":", "&#58;")  + "\n"
+        yaml_text += "from: " +  cgi.escape(str(row[4].encode('iso-8859-1')))  + "\n"
+        yaml_text += "research_topic: " +  cgi.escape(str(row[5].encode('iso-8859-1')). replace(":", "&#58;"))  + "\n"
         yaml_text += "abstract: " + str(row[6].encode('iso-8859-1')).replace("\n","<br/>").replace(":", "&#58;")  + "\n"
         yaml_text += "advisor: "  + str(row[7].encode('iso-8859-1'))  + "\n"
         yaml_text += "keywords: " + str(row[8].encode('iso-8859-1'))  + "\n"
         website = ""        
         try:
-            website = str(row[9].encode('iso-8859-1'))
+            website = str(row[9].encode('iso-8859-1')).replace(":", "&#58;")
         except:
             pass
         if website.lower().find('url') == "-1":
