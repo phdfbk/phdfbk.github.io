@@ -1,0 +1,7 @@
+---
+title: Security testing procedures for mobile applications
+applyurl: http://phd.dibris.unige.it/csse/index.php/how-to-apply
+advisor: Silvio Ranise
+tag: call_unige
+
+---
