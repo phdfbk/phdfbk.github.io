@@ -15,7 +15,7 @@ id,Name,Surname,University,Advisor,Year,Title,email,,tessera nr,spedito
 29-04-2016-Jose,Josè Guilherme,Camargo De Souza,University of Trento,"Negri Matteo, Turchi Marco, Federico Marcello",2016,Adaptive Quality Estimation for Machine Translation and Automatic Speech Recognition,desouza@fbk.eu,,014,OK
 01-01-2011-Elena,Elena,Cardillo,University of Trento,Serafini Luciano,2011,A lexi-ontological resource for consumer healthcare,elena.cardillo@iit.cnr.it,,015,OK
 01-01-2011-Matteo,Matteo,Ceriotti ,University of Trento,Murphy Amy Lynn,2011,Guaranteeing Communication Quality in Real World WSN Deployments,matteo.ceriotti@uni-due.de,,016,OK
-30-04-2013-Md. Faisal Mahbub,Md. Faisal Mahbub,Chowdhury,University of Trento,Lavelli Alberto,2013,Improving the Effectiveness of Information Extraction from Biomedical Text,mchowdh@us.ibm.com,,017,OK
+30-04-2013-Md. Faisal Mahbub,Md Faisal Mahbub,Chowdhury,University of Trento,Lavelli Alberto,2013,Improving the Effectiveness of Information Extraction from Biomedical Text,mchowdh@us.ibm.com,,017,OK
 01-01-2013-Aaron,Aaron,Ciaghi,University of Trento,Villafiorita Monteleone Adolfo,2013,Standardizing ICT for Development Towards the Definition of a Standard Process and Maturity Model for ICTD Projects,ciaghi@fbk.eu,,018,OK
 01-01-2015-Simona,Simona,Cicognani,University of Trento,Schizzerotto Antonio,2015,Three essays in experimental and labor economics,simona.cicognani3@unibo.it,,019,OK
 30-11-2016-Francesco,Francesco,Corcoglioniti,University of Trento,"Serafini Luciano, Marco Rospocher",2016,"Frame-based Ontology Population from Text: Models, Systems and Applications",corcoglio@fbk.eu,,020,OK
@@ -103,3 +103,4 @@ id,Name,Surname,University,Advisor,Year,Title,email,,tessera nr,spedito
 30-04-2010-Parisa,Parisa,Ture Savadkoohi,University of Trento,Margesin Benno,2010,Study of the electromechanic aspects of RF MEM devices with particular emphasis on the dynamic behavior for the case of RF MEM switches and tuneable capacitors,,,,
 31-12-2012-Kateryna,Kateryna,Tymoshenko,University of Trento,Giuliano Claudio,2012,A General Framework for Exploiting Background Knowledge in Natural Language Processing,,,,
 01-01-2013-Mohammed Abdul,Mohammed Abdul,Whaeed,University of Trento,Matassoni Marco,2013,Acoustic Model Adaptation For Reverberation Robust Automatic Speech Recognition,,,,
+17-02-2017-Matteo,Matteo,Testi,University of Trento,Crema Luigi,2017,Novel method and models to validate H2 storage in solid state material,,,,
