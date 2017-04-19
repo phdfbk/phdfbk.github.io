@@ -1,0 +1,16 @@
+---
+title: Pontifical Catholic University of Rio Grande do Sul
+subtitle: 
+kindcontract: agreement with phd school
+layout: default
+modal-id: aff15
+date: 2017-04-19
+img: pucrs.jpg
+thumbnail: pucrs.jpg
+alt: Pontifical Catholic University of Rio Grande do Sul
+tag: network
+department: pucrs_dep
+description: Strong partnership on Computer Science and Engineering
+order: 15
+
+---
