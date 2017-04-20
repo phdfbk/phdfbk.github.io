@@ -1,5 +1,5 @@
 ---
-title: Joint PhD call with University of Trento (DISI), Italy
+title: Joint PhD call with University of Trento, Italy
 layout: default
 topic: Information Engineering and Computer Science
 number_of_positions: 9
