@@ -15,5 +15,5 @@ website: https&#58;//se.fbk.eu/people/profile/jahangirova
 img: jahangirova.jpg
 email: jahangirova<i class="fa fa-at" aria-hidden="true"></i>fbk.eu
 alt: Gunel Jahangirova
-modal-id: stud58
+modal-id: stud57
 ---
