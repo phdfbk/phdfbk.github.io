@@ -3,7 +3,7 @@ title: Joint PhD call with University of Bologna, Italy
 layout: default
 topic: Electronics, Telecommunications, and Information Technologies Engineering
 number_of_positions: 3
-website: http://www.unibo.it/en/teaching/phd/2017-2018/electronics-telecommunications-and-information-technologies-engineering
+website: https://phd.unibo.it/etit/en
 closing_date : May 29th, 2017
 tag: call_uni
 subtag: call_unibo
