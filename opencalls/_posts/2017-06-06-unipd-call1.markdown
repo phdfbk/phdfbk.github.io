@@ -1,0 +1,7 @@
+---
+title: Knowledge extraction from scientific publications in the life science domain exploiting existing knowledge repositories
+applyurl: http://www.unipd.it/en/node/1053
+advisor: Alberto Lavelli
+tag: call_unipd
+
+---
