@@ -1,0 +1,7 @@
+---
+title: Bayesian approaches to statistical relational learning and reasoning
+applyurl: http://www.unipd.it/en/node/1053
+advisor: Luciano Serafini
+tag: call_unipd
+
+---
