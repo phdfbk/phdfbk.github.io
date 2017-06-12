@@ -9,7 +9,7 @@ aboutme: Roberto Doriguzzi Corin is a Senior Researcher at FBK. He received his 
 from: Italy
 research_topic: Methods and Techniques for Dynamic deployability of SDN/NFV systems
 abstract: 
-advisor: Domenico Siracusa
+advisor: Siracusa Domenico
 keywords: 
 website: 
 img: doriguzzi_corin.jpg
