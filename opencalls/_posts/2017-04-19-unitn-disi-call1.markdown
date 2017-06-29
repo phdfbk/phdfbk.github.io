@@ -1,7 +1,7 @@
 ---
-title: Deep Learning for Machine Translation
-applyurl: http://ict.unitn.it/application/ict_doctoral_school
-advisor: Marcello Federico
+title: Human-Computer Interaction: narration and deliberation
+applyurl: http://www.unitn.it/drsc/en/180/admission
+advisor: 
 tag: call_unitn
 
 ---
