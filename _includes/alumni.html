@@ -143,16 +143,16 @@
 			</script>
 		 	<ul class="breadcrumb">
 				<li>Full alumni list:</li>
-      {% assign items_grouped = (site.categories.alumni)  group_by: 'year' | map: 'year' | uniq %}
+      {% assign items_grouped2 = (site.categories.alumni)  group_by: 'year' | map: 'year' | uniq %}
           
-			     {% for year in items_grouped %}  
+			     {% for year in items_grouped2 %}  
 			  	<li><a href="javascript:showAlumniList('#list{{year}}');">{{year}}</a></li>
 			    {% endfor %}
 			    	 <li><a href="javascript:showAlumniList('all');">all</a></li>
 			</ul>
-		  {% assign items_grouped = (site.categories.alumni)  group_by: 'year' | map: 'year' | uniq %}
+		  {% assign items_grouped3 = (site.categories.alumni)  group_by: 'year' | map: 'year' | uniq %}
           
-			 {% for year in items_grouped %} 
+			 {% for year in items_grouped3 %} 
         
 			  <div class="collapse" id="list{{year}}">
 				<hr>
