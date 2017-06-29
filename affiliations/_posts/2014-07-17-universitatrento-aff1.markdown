@@ -1,7 +1,7 @@
 ---
 title: Università degli Studi di Trento
 subtitle: Expert Finding for Requirements Engineering
-kindcontract: agreement with phd schools
+kindcontract: joint phd school and agreement with phd schools
 layout: default
 modal-id: aff1
 date: 2014-07-16
