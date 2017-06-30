@@ -5,6 +5,6 @@ layout: default
 tag: uniud_department
 reference_person: Federico Fontana
 phdschool: Computer Science, Mathematics and Physics
-phdschool_link: https://www.dimi.uniud.it/la-ricerca/dottorato/informatica-e-scienze-matematiche-e-fisiche
+phdschool_link: https://www.uniud.it/it/ateneo-uniud/ateneo-uniud-organizzazione/dipartimenti/dima/didattica/dottorati-di-ricerca/dottorato-in-informatica-e-scienze-matematiche-e-fisiche/presentazione
 
 ---
