@@ -1,5 +1,5 @@
 ---
-title: Joint PhD call with University of Trento, Italy
+title: Joint PhD call with University of Trento (CIBIO), Italy
 layout: default
 topic: Biomolecular Sciences
 number_of_positions: 1
