@@ -1,5 +1,5 @@
 ---
-title: Joint PhD call with University of Trento, Italy
+title: Joint PhD call with University of Trento (COGSCI), Italy
 layout: default
 topic: Cognitive Science
 number_of_positions: 3
