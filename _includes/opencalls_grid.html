@@ -52,7 +52,7 @@
             {% for post in opencalls %}
                    <div class="col-lg-12 text-center" style="background:#f7f7f7;border-radius:3px; padding:3px;">
                         <h3>{{ post.title }}</h3>
-                           
+                          
                        <p> Topic: {{ post.topic }}<br>
 		 	{% assign positions = site.tags[post.subtag] %}
                        Number of positions: {{ positions.size }}<br>
@@ -62,6 +62,7 @@
                     {% for call in positions %}
                          <div>
                            <h5>{{ call.title }}</h5>
+                           PhD School: {{ post.phdschool }}  <br>
 			{% assign applyurl =  call.applyurl %}
 		    {% if applyurl != "" %}
                            URL:  <a href="{{ call.applyurl }}" target="_new">{{ call.applyurl }}</a><br/>
