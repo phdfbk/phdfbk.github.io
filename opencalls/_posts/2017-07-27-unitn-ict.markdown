@@ -1,0 +1,11 @@
+---
+title: Joint PhD call with University of Trento (ICT), Italy
+layout: default
+phdschool: ICT
+number_of_positions: 12
+website: http://ict.unitn.it
+closing_date : August 31st, 2017
+tag: call_uni
+subtag: call_unitn3
+
+---
