@@ -1,0 +1,7 @@
+---
+title: Energy Solutions for Portable Devices
+applyurl: http://crei.skoltech.ru/energysystems/phd-positions/
+advisor: Fabio Remondino (remondino@fbk.eu)
+tag: call_skol
+
+---
