@@ -1,0 +1,11 @@
+---
+title: Joint PhD call with University of Brescia, Italy
+layout: default
+phdschool: Information Engineering
+number_of_positions: 1
+website: https://en.unibs.it/education/phd-programmes/engineering/information-engineering
+closing_date : August 25th, 2017
+tag: call_uni
+subtag: call_unibs
+
+---
