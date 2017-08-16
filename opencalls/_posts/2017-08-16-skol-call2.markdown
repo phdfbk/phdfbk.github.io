@@ -1,0 +1,7 @@
+---
+title: 3D city modeling and 3D cadastre
+applyurl: http://www.skoltech.ru/en/apply/phd-programs/programs/space-and-engineering-systems/
+advisor: Fabio Remondino (remondino@fbk.eu)
+tag: call_skol2
+
+---
