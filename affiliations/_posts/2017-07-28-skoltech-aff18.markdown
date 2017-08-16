@@ -10,7 +10,7 @@ thumbnail: skoltech_thumb.jpg
 alt: SkolTech
 tag: network
 department: skol_department
-description: Strong partnership in particular with Center for Energy Systems
+description: Strong partnership in particular with the Center for Energy Systems and with the Space Center
 order: 18
 
 ---
