@@ -1,0 +1,7 @@
+---
+title: Security testing procedures for mobile applications
+applyurl: https://www.studenti.unige.it/postlaurea/dottorati/
+advisor: Roberto Carbone
+tag: call_unige
+
+---
