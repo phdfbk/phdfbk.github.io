@@ -3,6 +3,7 @@ title: Joint PhD call with University of Genova, Italy
 layout: default
 topic: Computer Science
 number_of_positions: 2
+phdschool: Computer Science and Systems Engineering - Secure and Reliable Systems
 website: http://www.dibris.unige.it
 closing_date : September 19th, 2017
 tag: call_uni
