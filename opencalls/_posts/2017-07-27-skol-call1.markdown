@@ -1,5 +1,5 @@
 ---
-title: Energy Solutions for Portable Devices
+title: Ceramic composites for SOFC electrodes
 applyurl: http://crei.skoltech.ru/energysystems/phd-positions/
 advisor: Luigi Crema (crema@fbk.eu)
 tag: call_skol
