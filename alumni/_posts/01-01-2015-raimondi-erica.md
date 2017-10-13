@@ -6,5 +6,5 @@ surname: Raimondi
 university: University of Trento
 advisor: Schizzerotto Antonio
 year: 2015
-title: Increased qualifications and fewer dropouts? From compulsory schooling to vocational education in Italy.
+title: Increased qualifications and fewer dropouts? From compulsory schooling to vocational education in Italy 
 ---

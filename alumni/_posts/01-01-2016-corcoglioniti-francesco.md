@@ -6,5 +6,5 @@ surname: Corcoglioniti
 university: University of Trento
 advisor: Serafini Luciano, Marco Rospocher
 year: 2016
-title: Frame-based Ontology Population from Text&#58; Models, Systems and Applications
+title: Frame-based Ontology Population from Text&amp;#58; Models, Systems and Applications
 ---
