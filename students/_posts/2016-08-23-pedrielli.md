@@ -15,5 +15,5 @@ website: http&#58;//www.ectstar.eu/people/profile/pedrielli
 img: pedrielli.jpg
 email: pedrielli<i class="fa fa-at" aria-hidden="true"></i>ectstar.eu
 alt: Andrea Pedrielli
-modal-id: stud88
+modal-id: stud89
 ---

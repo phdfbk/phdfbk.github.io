@@ -1,7 +1,7 @@
 ---
 layout: default 
-id: 2016-08-23-Sprugnoli -Rachele
-surname: Sprugnoli 
+id: 2016-08-23-Sprugnoli-Rachele
+surname: Sprugnoli
 name: Rachele
 university: University of Trento
 date: 23/08/2016
@@ -14,6 +14,6 @@ keywords: Natural Language Processing, Digital Humanities, Temporal Information 
 website: https&#58;//dh.fbk.eu/people/profile/sprugnoli
 img: sprugnoli.jpg
 email: sprugnoli<i class="fa fa-at" aria-hidden="true"></i>fbk.eu
-alt: Rachele Sprugnoli 
-modal-id: stud108
+alt: Rachele Sprugnoli
+modal-id: stud111
 ---

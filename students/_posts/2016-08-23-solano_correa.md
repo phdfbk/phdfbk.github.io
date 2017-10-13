@@ -15,5 +15,5 @@ website: https&#58;//rsde.fbk.eu/people/profile/solano
 img: solano.jpg
 email: solano<i class="fa fa-at" aria-hidden="true"></i>fbk.eu
 alt: Yady Tatiana Solano Correa
-modal-id: stud107
+modal-id: stud110
 ---
