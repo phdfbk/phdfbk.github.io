@@ -10,7 +10,7 @@ thumbnail: ufsc_thumb.jpg
 alt: UFSC
 tag: network
 department: ufsc_department
-description: Strong partnership in particular with the Department of Computer Science
+description: Strong partnership in particular with the Department of Informatics and Statistics
 order: 19
 
 ---
