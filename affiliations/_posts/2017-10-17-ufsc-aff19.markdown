@@ -3,14 +3,14 @@ title: Universidade Federal de Santa Catarina
 subtitle: Energy Systems
 kindcontract: agreement with phd school
 layout: default
-modal-id: aff18
-date: 2017-07-28
-img: skoltech.jpg 
-thumbnail: skoltech_thumb.jpg
-alt: SkolTech
+modal-id: aff19
+date: 2017-10-17
+img: ufsc.jpg 
+thumbnail: ufsc_thumb.jpg
+alt: UFSC
 tag: network
-department: skol_department
-description: Strong partnership in particular with the Center for Energy Systems and with the Space Center
-order: 18
+department: ufsc_department
+description: Strong partnership in particular with the Department of Computer Science
+order: 19
 
 ---
