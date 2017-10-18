@@ -15,5 +15,5 @@ website: http&#58;//www.secentis.eu/people
 img: stanislav.jpg
 email: dashevskyi<i class="fa fa-at" aria-hidden="true"></i>fbk.eu
 alt: Stanislav Dashevskyi
-modal-id: stud30
+modal-id: stud29
 ---
