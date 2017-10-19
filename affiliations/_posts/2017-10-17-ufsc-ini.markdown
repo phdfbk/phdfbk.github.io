@@ -4,6 +4,6 @@ website: http://ine.ufsc.br
 layout: default
 tag: ufsc_department
 reference_person: Sandro Battisti
-phdschool: 
-phdschool_link: 
+phdschool: Knowledge Engineering
+phdschool_link:  http://www.egc.ufsc.br/
 ---
