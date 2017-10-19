@@ -5,5 +5,5 @@ layout: default
 tag: ufsc_department
 reference_person: Sandro Battisti
 phdschool: Knowledge Engineering
-phdschool_link:  http://www.egc.ufsc.br/
+phdschool_link: http://www.egc.ufsc.br/
 ---
