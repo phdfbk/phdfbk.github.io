@@ -1,0 +1,9 @@
+---
+title: Technological Centre
+website: http://portal.ctc.ufsc.br/ctc/
+layout: default
+tag: ufsc_department
+reference_person: Sandro Battisti
+phdschool: Post-graduate Studies
+phdschool_link: http://portal.ctc.ufsc.br/pos-graduacao/
+---
