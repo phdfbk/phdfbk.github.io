@@ -1,6 +1,6 @@
 ---
-title: Department of Informatics and Statistics
-website: http://ine.ufsc.br
+title: Department of Knowledge Engineering
+website: http://www.egc.ufsc.br/departamento
 layout: default
 tag: ufsc_department
 reference_person: Sandro Battisti
