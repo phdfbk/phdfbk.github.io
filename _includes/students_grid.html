@@ -1,6 +1,7 @@
 <!-- students Grid Section -->
-    <section id="students" class="bg-light-gray">
-        <div class="container">
+    <section id="students" style="background-color: #f7f7f7">
+    <br/>
+        <div class="container-fluid"  style="background-color: #f7f7f7">
             <div class="row">
                 <div class="col-lg-12 text-center">
                     <h2 class="section-heading">Students</h2>
@@ -8,7 +9,7 @@
                 </div>
             </div>
 	</div>
-	<div class="container-fluid">
+	<div class="container-fluid"  style="background-color: #f7f7f7">
 	{% assign sorted = site.categories.students | sort: 'surname' %}
 	{% assign numPages = 0 %}
 	{% for post in sorted %}
