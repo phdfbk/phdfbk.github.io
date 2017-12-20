@@ -8,7 +8,10 @@ date: 23/08/2016
 aboutme: 
 from: Slovak Republic
 research_topic: International Politics and Conflict Resolution
-abstract: 'advisor: Andreatta Filippo'keywords: 'website: http&#58;//web.unitn.it/en/drsis/40539/bredikova-hana
+abstract: 
+advisor: Andreatta Filippo
+keywords: 
+website: http&#58;//web.unitn.it/en/drsis/40539/bredikova-hana
 img: bradikova.jpg
 email: 
 alt: Hana Bredikov\xc3\xa0

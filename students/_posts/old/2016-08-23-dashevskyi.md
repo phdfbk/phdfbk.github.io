@@ -8,10 +8,7 @@ date: 23/08/2016
 aboutme: 
 from: Ukraine
 research_topic: Certification of Third-Parties Applications
-abstract: 
-advisor: Massacci Fabio
-keywords: 
-website: http&#58;//www.secentis.eu/people
+abstract: 'advisor: Massacci Fabio'keywords: 'website: http&#58;//www.secentis.eu/people
 img: stanislav.jpg
 email: dashevskyi<i class="fa fa-at" aria-hidden="true"></i>fbk.eu
 alt: Stanislav Dashevskyi
