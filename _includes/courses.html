@@ -14,7 +14,7 @@
 				<hr/><br/>
 				<div class="col-lg-6">
 				<strong>IoT-Industry 4.0 - Fundamentals and Applications</strong><br/>
-				<em>Martin Serrano2</em><br/><br/>
+				<em>Martin Serrano</em><br/><br/>
 				<p>
 				This 5 days course will be organised as follows: the first 2 days will include principles of IoT, mostly focusing on models, architectures and platforms, while the remaining three days will be specialised on Industry 4.0 applications with practical demonstrations with RFIC, BLE, WiFi etc. Both, technical and practical parts will be tailored to reflect profile and competences of the students.
 				</p>
@@ -37,8 +37,9 @@
 	</section>		
 
 		<div class="container-fluid bg-white">
+   
 				{% assign courses_posts = site.categories.courses %}
-			
+				{% if courses_posts > 0 %}
 				<div class="row">
 					<div class="col-lg-12">
 					{% for post in courses_posts %}
@@ -49,12 +50,13 @@
 							Abstract: {{ post.abstract }}<br/> 
 							Location: {{ post.location }}<br/>
 						</p>
-					</div>
+					{% endfor %}
+        	</div>
 				</div>
-					{% endfor %}  
-	 		
-	
- <!--
+				  
+	 			{% endif %}
+<!--	
+
 		<div id="accordion" role="tablist">
 {% assign items_grouped = (site.categories.courses)  group_by: 'year' | map: 'year' | uniq %}
 {% for year in items_grouped %}  
