@@ -1,7 +1,7 @@
 ---
 layout: default 
 id: 2016-08-23-Calabr\xc3\xb2-Gabriele
-surname: Calabr\xc3\xb2
+surname: Calabrò
 name: Gabriele
 university: University of Trento
 date: 23/08/2016
