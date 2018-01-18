@@ -8,7 +8,10 @@ date: 23/08/2016
 aboutme: 
 from: Pakistan
 research_topic: Application of blockchain technologies to the Internet of Things
-abstract: 'advisor: Fabio Antonelli'keywords: 'website: 
+abstract: 
+advisor: Fabio Antonelli
+keywords: 
+website: 
 img: no_picture.jpg
 email: ms.ali<i class="fa fa-at" aria-hidden="true"></i>fbk.eu
 alt: Salek Ali Muhammad
