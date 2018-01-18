@@ -1,7 +1,7 @@
 ---
 layout: default 
 id: 2016-08-23-\xc3\x96zdemir -Emre
-surname: \xc3\x96zdemir 
+surname: Özdemir 
 name: Emre
 university: Skolkovo Institute of Science and Technology
 date: 23/08/2016
@@ -14,6 +14,6 @@ keywords:
 website: 
 img: no_picture.jpg
 email: eozdemir<i class="fa fa-at" aria-hidden="true"></i>fbk.eu
-alt: Emre \xc3\x96zdemir 
+alt: Emre Özdemir 
 modal-id: stud99
 ---

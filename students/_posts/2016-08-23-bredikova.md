@@ -1,7 +1,7 @@
 ---
 layout: default 
-id: 2016-08-23-Bredikov\xc3\xa0-Hana
-surname: Bredikov\xc3\xa0
+id: 2016-08-23-Bredikovà-Hana
+surname: Bredikovà
 name: Hana
 university: University of Trento
 date: 23/08/2016
@@ -14,6 +14,6 @@ keywords:
 website: http&#58;//web.unitn.it/en/drsis/40539/bredikova-hana
 img: bradikova.jpg
 email: 
-alt: Hana Bredikov\xc3\xa0
+alt: Hana Bredikovà
 modal-id: stud19
 ---
