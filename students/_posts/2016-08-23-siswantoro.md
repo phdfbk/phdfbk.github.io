@@ -5,7 +5,7 @@ surname: Siswantoro
 name: Hari
 university: University of Trento
 date: 23/08/2016
-aboutme: I am a PhD student in the ICT Doctoral School at the University of Trento, Italy. I received my master\xe2\x80\x99s degree in security and cryptology from Universit\xc3\xa9 Joseph Fourier, Grenoble, France. My research interests include security, data protection and legal compliance.
+aboutme: I am a PhD student in the ICT Doctoral School at the University of Trento, Italy. I received my master’s degree in security and cryptology from Université Joseph Fourier, Grenoble, France. My research interests include security, data protection and legal compliance.
 from: Indonesia
 research_topic: Automated regulatory compliance checking of ABAC policies
 abstract: Nowadays, most of business practices involve personal data processing of customers and employees. And personal data processing is strictly regulated by legislation to protect the rights of the personal data owner. Enforcing regulation into enterprise information system is a non-trivial task, and a misinterpretation can lead to sanctions. This research presents an automatic legal compliance verification method of attribute based access control (ABAC) against the EU Data Protection Directive (DPD) 95/46/EC. The rights, obligations and conditions for lawful personal data processing from the directive are extracted and mapped to a formal legal model. We use this model to check whether an enterprise access control policy complies or violates the regulation.
@@ -15,5 +15,5 @@ website: https&#58;//st.fbk.eu/people/profile/siswantoro
 img: siswantoro.jpg
 email: siswantoro<i class="fa fa-at" aria-hidden="true"></i>fbk.eu
 alt: Hari Siswantoro
-modal-id: stud121
+modal-id: stud119
 ---
