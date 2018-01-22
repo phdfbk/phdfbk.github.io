@@ -6,5 +6,5 @@ surname: Benozzo
 university: University of Trento
 advisor: Avesani Paolo
 year: 2017
-title: Detecting brain effective connectivity wih supervised and bayesian methods 
+title: Detecting brain effective connectivity with supervised and bayesian methods 
 ---
