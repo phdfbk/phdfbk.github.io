@@ -1,5 +1,6 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
+import weakref
 import unicodecsv
 import requests
 import cgi
