@@ -4,7 +4,7 @@ layout: default
 topic: Electronics, Telecommunications, and Information Technologies Engineering
 number_of_positions: 3
 website: https://phd.unibo.it/etit/en
-closing_date : May 29th, 2017
+closing_date : May 14th, 2018
 tag: call_uni
 subtag: call_unibo
 
