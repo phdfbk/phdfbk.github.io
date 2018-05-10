@@ -6,6 +6,7 @@ git pull
 python ../../bin/create_students.py
 rm -fr *-surname.md
 rm -fr *-.md
+rm -fr old
 git add *.md
 git commit -a -m "update students"
 git push 
