@@ -15,5 +15,5 @@ website: https&#58;//hlt-mt.fbk.eu/people/profile/chatterjee
 img: chatterjee.jpg
 email: chatterjee<i class="fa fa-at" aria-hidden="true"></i>fbk.eu
 alt: Rajen Chatterjee
-modal-id: stud26
+modal-id: stud24
 ---
