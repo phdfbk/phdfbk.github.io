@@ -3,7 +3,7 @@ layout: default
 id: 2016-08-23-Lorenzini-Matteo
 surname: Lorenzini
 name: Matteo
-university: 
+university: University of Trento
 date: 23/08/2016
 aboutme: 
 from: Italy
@@ -15,5 +15,5 @@ website:
 img: no_picture.jpg
 email: 
 alt: Matteo Lorenzini
-modal-id: stud73
+modal-id: stud68
 ---
