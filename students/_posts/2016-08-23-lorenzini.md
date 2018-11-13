@@ -13,7 +13,7 @@ advisor: Tonelli Sara
 keywords: 
 website: 
 img: no_picture.jpg
-email: 
+email: m.lorenzini<i class="fa fa-at" aria-hidden="true"></i>fbk.eu
 alt: Matteo Lorenzini
-modal-id: stud68
+modal-id: stud70
 ---

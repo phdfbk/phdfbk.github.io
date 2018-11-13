@@ -15,5 +15,5 @@ website:
 img: no_picture.jpg
 email: mpincheiracaro<i class="fa fa-at" aria-hidden="true"></i>fbk.eu
 alt: Miguel Rodrigo Pincheira Caro
-modal-id: stud84
+modal-id: stud86
 ---
