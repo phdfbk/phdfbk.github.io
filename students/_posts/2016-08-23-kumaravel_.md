@@ -12,8 +12,8 @@ abstract:
 advisor: Farella Elisabetta
 keywords: 
 website: 
-img: no_picture.jpg
+img: kumaravel.jpg
 email: vkumaravel<i class="fa fa-at" aria-hidden="true"></i>fbk.eu
 alt: Velu Prabhakar Kumaravel 
-modal-id: stud65
+modal-id: stud70
 ---

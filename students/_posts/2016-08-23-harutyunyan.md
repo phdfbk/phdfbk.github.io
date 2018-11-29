@@ -15,5 +15,5 @@ website:
 img: no_picture.jpg
 email: d.harutyunyan<i class="fa fa-at" aria-hidden="true"></i>fbk.eu
 alt: Davit Harutyunyan
-modal-id: stud58
+modal-id: stud63
 ---

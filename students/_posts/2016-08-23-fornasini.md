@@ -9,11 +9,11 @@ aboutme:
 from: Italy
 research_topic: Social inclusion and peer support in ICT for physical-mental wellbeing 
 abstract: 
-advisor: Piras Enrico Maria
+advisor: Piras Enrico Maria//Gabrielli Silvia
 keywords: 
 website: 
 img: no_picture.jpg
 email: s.fornasini<i class="fa fa-at" aria-hidden="true"></i>fbk.eu
 alt: Silvia Fornasini
-modal-id: stud47
+modal-id: stud52
 ---
