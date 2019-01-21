@@ -9,11 +9,11 @@ aboutme:
 from: Iran
 research_topic: Control and data resiliency in 5G network and beyond
 abstract: 
-advisor: Salvadori Elio
+advisor: Coronado Estefania
 keywords: 
 website: 
 img: no_picture.jpg
 email: rbehravesh<i class="fa fa-at" aria-hidden="true"></i>fbk.eu
 alt: Rasoul Behravesh
-modal-id: stud13
+modal-id: stud14
 ---

@@ -15,5 +15,5 @@ website:
 img: dabrowski.jpg
 email: dabrowski<i class="fa fa-at" aria-hidden="true"></i>fbk.eu
 alt: Jacek Dabrowski
-modal-id: stud30
+modal-id: stud36
 ---

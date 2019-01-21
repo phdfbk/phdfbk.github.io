@@ -9,11 +9,11 @@ aboutme:
 from: Iran
 research_topic: Deep Learning for Machine Translation
 abstract: 
-advisor: Federico Marcello
+advisor: Turchi Marco, Negri Matteo
 keywords: 
 website: 
 img: no_picture.jpg
 email: atebbifakhr<i class="fa fa-at" aria-hidden="true"></i>fbk.eu
 alt: Amirhossein Tebbifakhr
-modal-id: stud110
+modal-id: stud114
 ---
