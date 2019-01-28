@@ -12,7 +12,7 @@ abstract:
 advisor: Magnini Bernardo 
 keywords: 
 website: 
-img: no_picture.jpg
+img: balaraman.jpg
 email: balaraman<i class="fa fa-at" aria-hidden="true"></i>fbk.eu
 alt: Vevake Balaraman
 modal-id: stud12

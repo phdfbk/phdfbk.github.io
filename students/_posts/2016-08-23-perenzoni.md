@@ -9,11 +9,11 @@ aboutme:
 from: Italy
 research_topic: Sensori di immagine multispettrali
 abstract: 
-advisor: Bellutti Pierluigi
+advisor: Pepponi Giancarlo
 keywords: 
 website: 
 img: no_picture.jpg
 email: perenzoni<i class="fa fa-at" aria-hidden="true"></i>fbk.eu
 alt: Matteo Perenzoni
-modal-id: stud97
+modal-id: stud108
 ---
