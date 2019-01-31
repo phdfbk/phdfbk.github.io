@@ -17,11 +17,12 @@
 					{% for post in courses_posts %}
 						{% if post.year > 2018 %}
 						<p>
-							<bf>Title:</bf> {{ post.title }}<br/>
-							<bf>Lecturer:</bf> {{ post.lecturer }}<br/>
-							<bf>Schedule:</bf> {{ post.schedule }}<br/>
-							<bf>Abstract:</bf> {{ post.abstract }}<br/> 
-							<bf>Location:</bf> {{ post.location }}<br/>
+							<strong>{{ post.title }}</strong><br/>
+							<em>{{ post.lecturer }}</em><br/>
+							{{ post.schedule }}<br/>
+							Abstract:<p>{{ post.abstract }}</p>
+							<br/> 
+							Location: {{ post.location }}<br/>
 						</p>
 						{% endif %}
 					{% endfor %}
