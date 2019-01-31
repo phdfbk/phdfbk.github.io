@@ -15,6 +15,7 @@
 				<div class="row">
 					<div class="col-lg-12">
 					{% for post in courses_posts %}
+						{% if post.year > 2018 %}
 						<p>
 							Title: {{ post.title }}<br/>
 							Lecturer: {{ post.lecturer }}<br/>
