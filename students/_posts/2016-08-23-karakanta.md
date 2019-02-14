@@ -15,5 +15,5 @@ website:
 img: karakanta.jpg
 email: alina.karakanta<i class="fa fa-at" aria-hidden="true"></i>unitn.it
 alt: Alina Karakanta
-modal-id: stud77
+modal-id: stud74
 ---

@@ -15,5 +15,5 @@ website:
 img: simonelli.jpg
 email: asimonelli<i class="fa fa-at" aria-hidden="true"></i>fbk.eu
 alt: Andrea Simonelli
-modal-id: stud128
+modal-id: stud126
 ---
