@@ -9,7 +9,7 @@ aboutme: WHO? I am PhD student of University of Bologna, Department of Electroni
 from: Iran
 research_topic: Centralized vs distributed Self-Organizing Network features in 5G Small Cell networks
 abstract: 
-advisor: Leonardo Goratti
+advisor: Riggio Roberto 
 keywords: 
 website: 
 img: mafakheri.jpg
