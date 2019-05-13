@@ -7,7 +7,7 @@ university: UniversIty of Trento
 date: 23/08/2016
 aboutme: 
 from: Italy
-research_topic: Social inclusion and peer support in ICT for physical-mental wellbeing 
+research_topic: Personal experiments from education to discovery: shaping new processes in diabetes care
 abstract: 
 advisor: Gabrielli Silvia
 keywords: 
