@@ -7,7 +7,7 @@ university: UniversIty of Trento
 date: 23/08/2016
 aboutme: 
 from: Italy
-research_topic: Personal experiments from education to discovery: shaping new processes in diabetes care
+research_topic: Personal experiments from education to discovery&amp;#58; shaping new processes in diabetes care
 abstract: 
 advisor: Gabrielli Silvia
 keywords: 
