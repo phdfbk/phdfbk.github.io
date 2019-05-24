@@ -1,0 +1,11 @@
+---
+title:JOINT PHD CALL WITH UNIVERSITY OF UDINE, ITALY
+layout:default
+topic: COMPUTER SCIENCE, MATHEMATICS AND PHYSICS
+number_of_positions: 3
+phdschool: COMPUTER SCIENCE, MATHEMATICS AND PHYSICS
+website: https://www.uniud.it/en/research/research-doctorate/phdstudies/admission/ph.d.-call?set_language=en 
+close_date: The notice a.y. 2019/2020 (35° cycle) will be published at the end of May 2019.
+tag:call_uni
+subtag: call uniudine
+---
