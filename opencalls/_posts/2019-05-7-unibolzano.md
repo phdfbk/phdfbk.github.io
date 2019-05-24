@@ -5,7 +5,7 @@ topic: Computer Science
 number_of_positions: 3
 phdschool: Computer Science
 website: https://www.unibz.it/en/faculties/computer-science/phd-computer-science/
-close_date: 7th July, 2019
+closing_date: 7th July, 2019
 tag:call_uni
 subtag: call unibolzano
 ---
