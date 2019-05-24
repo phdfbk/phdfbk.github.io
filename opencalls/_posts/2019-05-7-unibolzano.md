@@ -7,5 +7,5 @@ phdschool: Computer Science
 website: https://www.unibz.it/en/faculties/computer-science/phd-computer-science/
 closing_date: 7th July, 2019
 tag:call_uni
-subtag: call unibolzano
+subtag: call_unibolzano
 ---
