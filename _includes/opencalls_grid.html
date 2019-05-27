@@ -1,13 +1,13 @@
 <!-- Open Calls Grid Section -->
-	<section id="opencalls" class="">
-		<div class="text-center">
+	<section id="opencalls" class="bg-light-gray">
+		<div class="text-center bg-light-gray">
 				<h2 class="section-heading">Open Calls</h2>
 				<h3 class="section-subheading text-muted">Apply for a PhD at FBK through one of our affiliated universities</h3>
 		</div>
 		<div class="text-center">
 			<h3 class="section-heading">PHD</h3>
 		<div>
-		<div class="container-fluid">
+		<div class="container-fluid bg-light-gray">
 		{% assign opencalls = site.tags['call_uni'] %}
 		{% if opencalls.size > 0 %}
 			{% for post in opencalls %}
@@ -51,7 +51,7 @@
 			<h3 class="section-heading">Call For Internship Students</h3>
 			<h3 class="section-subheading text-muted">Opportunities for paid research internships at FBK</h3>
 		</div>
-		<div class="container-fluid">
+		<div class="container-fluid bg-light-gray">
 			{% assign calls4intern = site.categories.calls4internship %}
 			{% if calls4intern.size > 0 %}
 			<div class="row">
