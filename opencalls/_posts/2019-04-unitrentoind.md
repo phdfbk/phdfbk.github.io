@@ -7,5 +7,5 @@ phdschool: Dottorato in innovazione industriale
 website: http://dottoratoindustriale.disi.unitn.it/
 closing_date:  30th June, 2019
 tag:call_uni
-subtag: call_unitrento2
+subtag: call_unitrentoind
 ---
