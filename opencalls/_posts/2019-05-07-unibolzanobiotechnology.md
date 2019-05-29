@@ -4,7 +4,7 @@ layout: default
 topic: Food Engineering and Biotechnology 
 number_of_positions: 1
 phdschool: Food Engineering and Biotechnology
-website: http://users2.unimi.it/scuolascifarm/?page_id=236
+website: https://www.unibz.it/en/faculties/sciencetechnology/phd-in-food-engineering-and-biotechnology
 closing_date: 8th July, 2019
 tag: call_uni
 subtag: call_unibolzanobiotechnology 
