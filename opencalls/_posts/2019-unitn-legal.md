@@ -7,5 +7,5 @@ phdschool: Comparative and European Legal Studies
 website: https://www.unitn.it/en/ateneo/1966/announcement-of-selection
 closing_date: The call will be published as soon as possible
 tag: call_uni
-subtag: call_unitrentolegalstudies
+subtag: call_unitn_legal
 ---
