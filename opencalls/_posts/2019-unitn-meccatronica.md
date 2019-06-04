@@ -7,5 +7,5 @@ phdschool: Materials, Mechatronics and Systems Engineering
 website: https://www.unitn.it/en/ateneo/1904/doctoral-programme-in-materials-mechatronics-and-systems-engineering 
 closing_date: The call will be published as soon as possible
 tag: call_uni
-subtag: call_ unitrentomeccatronica 
+subtag: call_ unitn-meccatronica
 ---
