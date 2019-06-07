@@ -1,5 +1,5 @@
 ---
-title: JOINT PHD CALL WITH UNIVERSITY OF MILANO (Experimental and Clinical Pharmacological Sciences), ITALY
+title: JOINT PHD CALL WITH UNIVERSITY OF MILANO, ITALY
 layout: default
 topic: Experimental and Clinical Pharmacological Sciences
 number_of_positions: 1

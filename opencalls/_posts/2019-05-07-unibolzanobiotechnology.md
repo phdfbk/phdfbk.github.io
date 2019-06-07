@@ -1,5 +1,5 @@
 ---
-title: JOINT PHD CALL WITH UNIVERSITY OF BOLZANO (Food Engineering and Biotechnology), ITALY  
+title: JOINT PHD CALL WITH UNIVERSITY OF BOLZANO, ITALY
 layout: default
 topic: Food Engineering and Biotechnology 
 number_of_positions: 1
