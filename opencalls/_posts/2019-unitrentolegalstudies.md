@@ -1,5 +1,5 @@
 ---
-title: JOINT PHD CALL WITH UNIVERSITY OF TRENTO (Comparative and European Legal Studies), ITALY  
+title: JOINT PHD CALL WITH UNIVERSITY OF TRENTO (Comparative and European Legal Studies), ITALY
 layout: default
 topic: Comparative and European Legal Studies
 number_of_positions: 1

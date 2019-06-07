@@ -1,5 +1,5 @@
 ---
-title: JOINT PHD CALL WITH UNIVERSITY OF TRENTO (MECCATRONICA), ITALY  
+title: JOINT PHD CALL WITH UNIVERSITY OF TRENTO (MECCATRONICA), ITALY
 layout: default
 topic: Materials, Mechatronics and Systems Engineering
 number_of_positions: 2

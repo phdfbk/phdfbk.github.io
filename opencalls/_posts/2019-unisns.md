@@ -1,5 +1,5 @@
 ---
-title: JOINT PHD CALL WITH SCUOLA NORMALE SUPERIORE (NANOSCIENZE), ITALY  
+title: JOINT PHD CALL WITH SCUOLA NORMALE SUPERIORE (NANOSCIENZE), ITALY
 layout: default
 topic: Nanoscienze 
 number_of_positions: 1

@@ -1,5 +1,5 @@
 ---
-title: JOINT PHD CALL WITH UNIVERSITY OF TRENTO (DIPSCO), ITALY  
+title: JOINT PHD CALL WITH UNIVERSITY OF TRENTO (DIPSCO), ITALY
 layout: default
 topic: Cognitive Sciences
 number_of_positions: 3
