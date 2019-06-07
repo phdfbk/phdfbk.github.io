@@ -1,5 +1,5 @@
 ---
-title: JOINT PHD CALL WITH UNIVERSITY OF TRENTO (DICAM), ITALY  
+title: JOINT PHD CALL WITH UNIVERSITY OF TRENTO (DICAM), ITALY
 layout: default
 topic: Ingegneria Civile, Ambientale e Meccanica
 number_of_positions: 2
