@@ -7,5 +7,5 @@ phdschool: Nanoscienze
 website: https://www.sns.it/en/nanoscience
 closing_date: while waiting for the publication of the call
 tag: call_uni
-subtag: call_unisns 
+subtag: call_unisns
 ---
