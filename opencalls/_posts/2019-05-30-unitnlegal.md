@@ -5,7 +5,7 @@ topic: Comparative and European Legal Studies
 number_of_positions: 1
 phdschool: Comparative and European Legal Studies
 website: https://www.unitn.it/en/ateneo/1966/announcement-of-selection
-closing_date: May 30, 2019
+closing_date: August 5th, 2019
 tag: call_uni
 subtag: call_unitnlegal
 ---
