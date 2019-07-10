@@ -9,7 +9,7 @@ aboutme:
 from: Iran
 research_topic: Control and data resiliency in 5G network and beyond
 abstract: 
-advisor: Coronado Estefania
+advisor: Roberto Riggio
 keywords: 
 website: 
 img: behravesh.jpg
